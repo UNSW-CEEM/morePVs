@@ -1,0 +1,15 @@
+16/03/2020 02:50:15 PM Python Script is: morePVs.py
+16/03/2020 02:50:15 PM study_name = demo_w2
+16/03/2020 02:50:15 PM Running Scenario number 0 
+16/03/2020 02:50:20 PM Completed Scenario 0
+16/03/2020 02:50:20 PM Running Scenario number 1 
+16/03/2020 02:50:22 PM Completed Scenario 1
+16/03/2020 02:50:22 PM Running Scenario number 2 
+16/03/2020 02:50:25 PM Completed Scenario 2
+16/03/2020 02:50:25 PM Running Scenario number 3 
+16/03/2020 02:50:29 PM Completed Scenario 3
+16/03/2020 02:50:29 PM Running Scenario number 4 
+16/03/2020 02:50:33 PM Completed Scenario 4
+16/03/2020 02:50:33 PM ***COMPLETED STUDY demo_w2 ***
+16/03/2020 02:50:33 PM  ********* Completed 5 scenarios in 18.000000 **************
+16/03/2020 02:50:33 PM  ********* Time per Scenario is  3.600000 **************

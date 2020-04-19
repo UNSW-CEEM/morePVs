@@ -1,0 +1,24 @@
+12/03/2020 09:32:35 PM Python Script is: morePVs.py
+12/03/2020 09:32:35 PM study_name = test_en_mk2
+12/03/2020 09:32:35 PM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 2638, in main
+    override_output=override_output)
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 2352, in __init__
+    self.study_parameters = pd.read_csv(study_file)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/io/parsers.py", line 702, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/io/parsers.py", line 429, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/io/parsers.py", line 895, in __init__
+    self._make_engine(self.engine)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/io/parsers.py", line 1122, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/io/parsers.py", line 1853, in __init__
+    self._reader = parsers.TextReader(src, **kwds)
+  File "pandas/_libs/parsers.pyx", line 387, in pandas._libs.parsers.TextReader.__cinit__
+  File "pandas/_libs/parsers.pyx", line 705, in pandas._libs.parsers.TextReader._setup_parser_source
+FileNotFoundError: [Errno 2] File b'C:\\Users\\z5044992\\Documents\\python\\morePVs\\DATA_EN_6/studies/tests/inputs/study_test_en_mk2.csv' does not exist: b'C:\\Users\\z5044992\\Documents\\python\\morePVs\\DATA_EN_6/studies/tests/inputs/study_test_en_mk2.csv'

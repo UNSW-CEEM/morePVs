@@ -1,0 +1,31 @@
+11/03/2020 07:20:21 PM Python Script is: morePVs.py
+11/03/2020 07:20:21 PM study_name = demo_w2
+11/03/2020 07:20:24 PM NumExpr defaulting to 2 threads.
+11/03/2020 07:20:26 PM saved to C:\Users\ariji\OneDrive\Desktop\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_w2\saved_tariffs\static_import_tariffs.csv
+11/03/2020 07:20:27 PM saved to C:\Users\ariji\OneDrive\Desktop\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_w2\saved_tariffs\static_solar_import_tariffs.csv
+11/03/2020 07:20:27 PM saved to C:\Users\ariji\OneDrive\Desktop\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_w2\saved_tariffs\static_export_tariffs.csv
+11/03/2020 07:20:27 PM Running Scenario number 0 
+11/03/2020 07:20:36 PM saved to C:\Users\ariji\OneDrive\Desktop\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_w2\scenarios\demo_w2_000.csv
+11/03/2020 07:20:42 PM Completed Scenario 0
+11/03/2020 07:20:42 PM Running Scenario number 1 
+11/03/2020 07:21:00 PM saved to C:\Users\ariji\OneDrive\Desktop\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_w2\scenarios\demo_w2_001.csv
+11/03/2020 07:21:03 PM Completed Scenario 1
+11/03/2020 07:21:03 PM Running Scenario number 2 
+11/03/2020 07:21:23 PM saved to C:\Users\ariji\OneDrive\Desktop\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_w2\scenarios\demo_w2_002.csv
+11/03/2020 07:21:25 PM Completed Scenario 2
+11/03/2020 07:21:25 PM Running Scenario number 3 
+11/03/2020 07:21:44 PM saved to C:\Users\ariji\OneDrive\Desktop\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_w2\scenarios\demo_w2_003.csv
+11/03/2020 07:21:47 PM Completed Scenario 3
+11/03/2020 07:21:47 PM Running Scenario number 4 
+11/03/2020 07:22:06 PM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "morePVs.py", line 2640, in main
+    runScenario(s)
+  File "morePVs.py", line 2603, in runScenario
+    eno.allocateAllCapex(scenario)  # per load profile to allow for scenarios where capex allocation depends on load
+  File "morePVs.py", line 1579, in allocateAllCapex
+    self.resident[c].pv_capex_repayment = self.pv[c].sum() / self.pv.sum().sum() * scenario.pv_capex_repayment
+TypeError: unsupported operand type(s) for *: 'float' and 'dict'

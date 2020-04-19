@@ -1,8 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:mr_morePVs" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c9ef9fb-c6dc-4992-b65e-329a3942e38c" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="4c9ef9fb-c6dc-4992-b65e-329a3942e38c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6/py_logfiles/python_logfile_demo_w2_2020_03_12_212327.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6/py_logfiles/python_logfile_test_en_mk2_2020_03_12_213235.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_6/pv_profiles/W_best_fit_1kW.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_6/pv_profiles/W_max_pv_1kW.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_6/pv_profiles/W_max_yield_1kW.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_6/py_logfiles/python_logfile_demo_w2_2020_03_11_191550.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_6/py_logfiles/python_logfile_demo_w2_2020_03_11_192021.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_6/py_logfiles/python_logfile_demo_w2_2020_03_11_192426.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_6/py_logfiles/python_logfile_demo_w2_2020_03_11_194734.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_6/py_logfiles/python_logfile_demo_w2_2020_03_16_144722.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_6/py_logfiles/python_logfile_demo_w2_2020_03_16_145015.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_6/reference/AEMC 2018 Residential Electricity Price Trends Methodology Report - CLEAN.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_6/reference/AER Final Determination - Default Market Offer Prices - April 2019 (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_6/reference/Ausgrid Network Price List FY 201819.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_6/reference/ES7 Network Price Guide.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_6/reference/Protecting consumers in private power networks.PDF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_6/reference/SolarQuotes Solar Battery Storage Comparison Table.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_6/reference/combined_survey_data_with_tariffs_deidentified.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_6/reference/multi-site-pricing-booklet.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_6/reference/tariff_lookupcurrent_.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_6/reference/tariff_lookupmy.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_6/reference/tarrrrrr.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_6/studies/demonstrations/inputs/study_demo_w2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_6/studies/demonstrations/outputs/demo_w2/demo_w2_results_old.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_6/studies/demonstrations/outputs/demo_w2/saved_tariffs/static_export_tariffs.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_6/studies/demonstrations/outputs/demo_w2/saved_tariffs/static_import_tariffs.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_6/studies/demonstrations/outputs/demo_w2/saved_tariffs/static_solar_import_tariffs.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_6/studies/demonstrations/outputs/demo_w2/scenarios/demo_w2_000.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_6/studies/demonstrations/outputs/demo_w2/scenarios/demo_w2_001.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_6/studies/demonstrations/outputs/demo_w2/scenarios/demo_w2_002.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_6/studies/demonstrations/outputs/demo_w2/scenarios/demo_w2_003.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DATA_EN_6/studies/demonstrations/outputs/demo_w2/demo_w2_results.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_EN_6/studies/demonstrations/outputs/demo_w2/demo_w2_results.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DATA_EN_6/studies/demonstrations/outputs/demo_w2/scenarios/demo_w2_004.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_EN_6/studies/demonstrations/outputs/demo_w2/scenarios/demo_w2_004.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/morePVs.py" beforeDir="false" afterPath="$PROJECT_DIR$/morePVs.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +86,10 @@
   <component name="ProjectId" id="1PU0KdCqnqK8WvqcbrIn40ltfzF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
@@ -58,18 +121,6 @@
       <recent name="C:\Users\z5044992\Documents\python\en\DATA_EN_5" />
       <recent name="C:\Users\z5044992\Documents\python\py_projects\isf" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Python.morePVs">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -221,8 +272,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.morePVs" />
       <item itemvalue="Python.create_pv_profile_subarrays_mac_abbot" />
+      <item itemvalue="Python.morePVs" />
       <item itemvalue="Python.plotclusters2_revisedEnergypaper" />
       <item itemvalue="Python.plotclusters_revisedEnergypaper" />
     </list>
@@ -246,7 +297,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fad5bd08-1473-4e40-92a7-ee27280c46d4" name="Default Changelist" comment="resolve git issue" />
+      <changelist id="4c9ef9fb-c6dc-4992-b65e-329a3942e38c" name="Default Changelist" comment="" />
       <created>1521160371092</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -385,7 +436,21 @@
       <option name="project" value="LOCAL" />
       <updated>1567124157164</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="typo in allocate capex">
+      <created>1584009651398</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1584009651398</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Second typo in allocate capex">
+      <created>1584330720660</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1584330720660</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -393,9 +458,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -425,6 +488,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -450,7 +514,82 @@
     <MESSAGE value="Updated documentation" />
     <MESSAGE value="Updated documentation" />
     <MESSAGE value="resolve git issue" />
-    <option name="LAST_COMMIT_MESSAGE" value="resolve git issue" />
+    <MESSAGE value="typo in allocate capex" />
+    <MESSAGE value="Second typo in allocate capex" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second typo in allocate capex" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="471" y="72" key="CommitChangelistDialog2" timestamp="1584330720472">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="353" y="64" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1584009648783" />
+    <state x="471" y="72" key="CommitChangelistDialog2/0.23.1920.1057/1920.543.1680.1027@0.23.1920.1057" timestamp="1584330720472" />
+    <state x="100" y="123" width="1720" height="857" key="DiffContextDialog" timestamp="1587336470877">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="100" y="123" width="1720" height="857" key="DiffContextDialog/0.23.1920.1057/1920.543.1680.1027@0.23.1920.1057" timestamp="1587336470877" />
+    <state width="1899" height="311" key="GridCell.Tab.0.bottom" timestamp="1584331444254">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1419" height="460" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1584018150508" />
+    <state width="1899" height="311" key="GridCell.Tab.0.bottom/0.23.1920.1057/1920.543.1680.1027@0.23.1920.1057" timestamp="1584331444254" />
+    <state width="1899" height="311" key="GridCell.Tab.0.center" timestamp="1584331444253">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1419" height="460" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1584018150508" />
+    <state width="1899" height="311" key="GridCell.Tab.0.center/0.23.1920.1057/1920.543.1680.1027@0.23.1920.1057" timestamp="1584331444253" />
+    <state width="1899" height="311" key="GridCell.Tab.0.left" timestamp="1584331444253">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1419" height="460" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1584018150507" />
+    <state width="1899" height="311" key="GridCell.Tab.0.left/0.23.1920.1057/1920.543.1680.1027@0.23.1920.1057" timestamp="1584331444253" />
+    <state width="1899" height="311" key="GridCell.Tab.0.right" timestamp="1584331444253">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1419" height="460" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1584018150508" />
+    <state width="1899" height="311" key="GridCell.Tab.0.right/0.23.1920.1057/1920.543.1680.1027@0.23.1920.1057" timestamp="1584331444253" />
+    <state width="1419" height="378" key="GridCell.Tab.1.bottom" timestamp="1584018150503">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="378" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1584018150503" />
+    <state width="1419" height="378" key="GridCell.Tab.1.center" timestamp="1584018150503">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="378" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1584018150503" />
+    <state width="1419" height="378" key="GridCell.Tab.1.left" timestamp="1584018150502">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="378" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1584018150502" />
+    <state width="1419" height="378" key="GridCell.Tab.1.right" timestamp="1584018150503">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="378" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1584018150503" />
+    <state width="1419" height="378" key="GridCell.Tab.2.bottom" timestamp="1584018150502">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="378" key="GridCell.Tab.2.bottom/0.23.1440.877@0.23.1440.877" timestamp="1584018150502" />
+    <state width="1419" height="378" key="GridCell.Tab.2.center" timestamp="1584018150502">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="378" key="GridCell.Tab.2.center/0.23.1440.877@0.23.1440.877" timestamp="1584018150502" />
+    <state width="1419" height="378" key="GridCell.Tab.2.left" timestamp="1584018150501">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="378" key="GridCell.Tab.2.left/0.23.1440.877@0.23.1440.877" timestamp="1584018150501" />
+    <state width="1419" height="378" key="GridCell.Tab.2.right" timestamp="1584018150502">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="378" key="GridCell.Tab.2.right/0.23.1440.877@0.23.1440.877" timestamp="1584018150502" />
+    <state x="427" y="238" key="Vcs.Push.Dialog.v2" timestamp="1584331082530">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1584009654994" />
+    <state x="427" y="238" key="Vcs.Push.Dialog.v2/0.23.1920.1057/1920.543.1680.1027@0.23.1920.1057" timestamp="1584331082530" />
+    <state x="545" y="309" key="git4idea.merge.GitPullDialog" timestamp="1584515829527">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="409" y="260" key="git4idea.merge.GitPullDialog/0.23.1440.877@0.23.1440.877" timestamp="1584009146607" />
+    <state x="545" y="309" key="git4idea.merge.GitPullDialog/0.23.1920.1057/1920.543.1680.1027@0.23.1920.1057" timestamp="1584515829527" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -492,12 +631,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/morePVs.py</url>
-          <line>1468</line>
+          <line>1469</line>
           <option name="timeStamp" value="95" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/morePVs.py</url>
-          <line>2199</line>
+          <line>2198</line>
           <option name="timeStamp" value="105" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -543,28 +682,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/morePVs.py</url>
-          <line>2498</line>
-          <option name="timeStamp" value="129" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/morePVs.py</url>
-          <line>2499</line>
-          <option name="timeStamp" value="130" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/morePVs.py</url>
           <line>42</line>
           <option name="timeStamp" value="131" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/morePVs.py</url>
-          <line>2473</line>
-          <option name="timeStamp" value="132" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/morePVs.py</url>
-          <line>2476</line>
-          <option name="timeStamp" value="133" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
