@@ -967,7 +967,8 @@ class Customer():
         self.generation = pv_generation
 
     def calcStaticEnergy(self):
-        """Calculate Customer imports and exports for whole time period"""
+        """Calculate Customer import
+        s and exports for whole time period"""
         self.flows = self.generation - self.load
         self.exports = self.flows.clip(0)
         self.imports = (-1 * self.flows).clip(0)
@@ -1261,7 +1262,7 @@ class Network(Customer):
         if not self.pv_exists:
             self.pv_customers = []
         else:
-            self.pv_customers = [c for c in self.pv.columns if self.pv[c].sum() >0]
+            self.pv_customers = [c for c in self.pv.columns if self.pv[c].sum() > 0]
         # Add blank columns for all residents with no pv and for central
         blank_columns = [x for x in(self.resident_list + ['central']) if x not in self.pv.columns]
         self.pv = pd.concat([self.pv, pd.DataFrame(columns=blank_columns)], sort=False).fillna(0)
@@ -1449,7 +1450,6 @@ class Network(Customer):
         self.imports = (-1 * self.flows).clip(0)
         pass
 
-
     def calcAllDemandCharges(self):
         """Calculates demand charges for ENO and for all residents."""
         self.calcDemandCharge()
@@ -1611,11 +1611,12 @@ class Network(Customer):
         # -----------------------------------------------
         # calculate total exports / imports & pvr, cpr
         # ----------------------------------------------
+
+        self.total_building_export = 0
+        self.total_import = 0
         if 'bau' in scenario.arrangement or 'cp_only' in scenario.arrangement or 'btm' in scenario.arrangement:
             # Building export is sum of customer exports
-            # Building import is sum of customer imports
-            self.total_building_export = 0
-            self.total_import = 0
+            # Total import is sum of customer imports
             for c in self.resident_list:
                 self.total_building_export += self.resident[c].exports.sum()
                 self.total_import += self.resident[c].imports.sum()
@@ -1676,8 +1677,8 @@ class Network(Customer):
             self.self_consumption = 100
             self.self_sufficiency = 0
 
-        # 2) OLD VERSIONS - for checking. Same for non battery scenarios and for SS
-        # -------------------------------------------------------------------------
+        # 2) OLD VERSIONS - for checking. Same a method 1 for non battery scenarios and for SS
+        # ------------------------------------------------------------------------------------
         if scenario.pv_exists:
             self.self_consumption_OLD = 100 - (self.total_building_export / self.pv.sum().sum() * 100)
             self.self_sufficiency_OLD = 100 - (self.total_import / self.total_building_load * 100)
@@ -2658,13 +2659,11 @@ if __name__ == "__main__":
     # -------------------------------------------------------
     # Set up defaults here: base_path, project and study name
     # --------------------------------------------------------
-    # default_base_path = 'C:\\Users\\z5044992\\Documents\\python\\morePVs\\DATA_EN_6'  #(Mike's PC)
+    # default_base_path = 'C:\\Users\\z5044992\\Documents\\python\\morePVs\\DATA_EN_6M'  #(Mike's PC)
     default_base_path = '/Users/mikeroberts/Documents/python/morePVs/DATA_EN_6'  # (Mike's Mac)
     default_project = 'demonstrations'
-    default_study = 'demo_w2'
-    # default_base_path = '/Users/mikeroberts/OneDrive - UNSW/python/en/DATA_EN_6'  #(Mike's Mac)
-    # default_project = 'hugh'
-    # default_study = '1'
+    default_study = 'demo_wenapt'
+    # default_base_path = '/Users/mikeroberts/OneDrive - UNSW/python/en/DATA_EN_6M'  #(Mike's Mac)
 
     # Import arguments - allows multi-processing from command line
     # ------------------------------------------------------------

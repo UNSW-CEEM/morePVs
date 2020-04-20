@@ -98,7 +98,7 @@ Column headers and required content are specified below. Columns in [square brac
 
 `scenario` This column contains a unique (integer) Scenario identifier \
 All parameters are given *per scenario* i.e. per line of `.csv` file, except \
-[`output_type`]
+[`output_types`]
 This column lists output formats required, applied to the whole study, not individual scenarios.
 
 -----------
@@ -413,7 +413,7 @@ i.e. to discharge battery to meet peak demand, regardless of time, `discharge_pe
 ------------
 OUTPUT TYPES
 ------------
-Column `output_type` in `'study_...csv` 
+Column `output_types` in `'study_...csv` 
 
 | `output_types`       |                                                      | Fields                                                       |
 | -------------------- | ---------------------------------------------------- | ------------------------------------------------------------ |
