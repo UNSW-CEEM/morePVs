@@ -131,6 +131,8 @@ The folder can contain a single load file or multiple files.
 
 Load files contain: 
  - `timestamp` (first column) in format `d/mm/yyyy h:mm`
+ - `timestamp` has consistent time zone (e.g. `AST`) - load file preparation should include conversion from daylight savings time if required  
+ 
  - 30 minute timestamps assumed. Up to 1 year (17520) but can be less
  - __NB: timestamp refers to *start* of time period__\
  i.e `1/01/2013 00:00`  timestamp is attached to the period 00:00 - 00:30.
