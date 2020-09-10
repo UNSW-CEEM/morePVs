@@ -1,0 +1,72 @@
+22/04/2019 08:19:21 PM Python Script is: morePVs.py
+22/04/2019 08:19:21 PM study_name = abb_fb
+22/04/2019 08:19:21 PM Thread variable is False
+22/04/2019 08:19:23 PM NOT THREADING
+22/04/2019 08:19:23 PM Running Scenario number 0 
+22/04/2019 08:19:23 PM Completed Scenario 0
+22/04/2019 08:19:23 PM Running Scenario number 1 
+22/04/2019 08:19:23 PM ***************Warning!!! Scenario 1 has cp_only arrangement with central battery(s)                                           - not included in this model
+22/04/2019 08:19:23 PM *************** For cp_only with battery, use cp_battery *******************
+22/04/2019 08:19:24 PM Completed Scenario 1
+22/04/2019 08:19:24 PM Running Scenario number 2 
+22/04/2019 08:19:24 PM ***************Warning!!! Scenario 2 has cp_only arrangement with central battery(s)                                           - not included in this model
+22/04/2019 08:19:24 PM *************** For cp_only with battery, use cp_battery *******************
+22/04/2019 08:19:25 PM Completed Scenario 2
+22/04/2019 08:19:25 PM Running Scenario number 3 
+22/04/2019 08:19:25 PM ***************Warning!!! Scenario 3 has cp_only arrangement with central battery(s)                                           - not included in this model
+22/04/2019 08:19:25 PM *************** For cp_only with battery, use cp_battery *******************
+22/04/2019 08:19:26 PM Completed Scenario 3
+22/04/2019 08:19:26 PM Running Scenario number 4 
+22/04/2019 08:19:26 PM ***************Warning!!! Scenario 4 has cp_only arrangement with central battery(s)                                           - not included in this model
+22/04/2019 08:19:26 PM *************** For cp_only with battery, use cp_battery *******************
+22/04/2019 08:19:27 PM Completed Scenario 4
+22/04/2019 08:19:27 PM Running Scenario number 5 
+22/04/2019 08:19:27 PM ***************Warning!!! Scenario 5 has cp_only arrangement with central battery(s)                                           - not included in this model
+22/04/2019 08:19:27 PM *************** For cp_only with battery, use cp_battery *******************
+22/04/2019 08:19:28 PM Completed Scenario 5
+22/04/2019 08:19:28 PM Running Scenario number 6 
+22/04/2019 08:19:28 PM ***************Warning!!! Scenario 6 has cp_only arrangement with central battery(s)                                           - not included in this model
+22/04/2019 08:19:28 PM *************** For cp_only with battery, use cp_battery *******************
+22/04/2019 08:19:29 PM Completed Scenario 6
+22/04/2019 08:19:29 PM Running Scenario number 14 
+22/04/2019 08:19:29 PM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "/Users/mikeroberts/OneDrive - UNSW/python/en/morePVs.py", line 2664, in main
+    runScenario(s)
+  File "/Users/mikeroberts/OneDrive - UNSW/python/en/morePVs.py", line 2569, in runScenario
+    eno.allocatePV(scenario, scenario.pv)
+  File "/Users/mikeroberts/OneDrive - UNSW/python/en/morePVs.py", line 1293, in allocatePV
+    self.pv = pd.concat([self.pv, pd.DataFrame(columns=blank_columns)], sort=False).fillna(0)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/reshape/concat.py", line 228, in concat
+    copy=copy, sort=sort)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/reshape/concat.py", line 381, in __init__
+    self.new_axes = self._get_new_axes()
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/reshape/concat.py", line 461, in _get_new_axes
+    new_axes[self.axis] = self._get_concat_axis()
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/reshape/concat.py", line 514, in _get_concat_axis
+    concat_axis = _concat_indexes(indexes)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/reshape/concat.py", line 532, in _concat_indexes
+    return indexes[0].append(indexes[1:])
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/indexes/base.py", line 4015, in append
+    return self._concat(to_concat, name)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/indexes/base.py", line 4023, in _concat
+    return _concat._concat_index_asobject(to_concat, name=name)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/dtypes/concat.py", line 497, in _concat_index_asobject
+    for x in to_concat]
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/dtypes/concat.py", line 497, in <listcomp>
+    for x in to_concat]
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/indexes/datetimelike.py", line 602, in astype
+    new_values = self._data.astype(dtype, copy=copy)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/arrays/datetimes.py", line 642, in astype
+    return dtl.DatetimeLikeArrayMixin.astype(self, dtype, copy)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/arrays/datetimelike.py", line 520, in astype
+    return self._box_values(self.asi8)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/arrays/datetimelike.py", line 346, in _box_values
+    return lib.map_infer(values, self._box_func)
+  File "pandas/_libs/lib.pyx", line 2217, in pandas._libs.lib.map_infer
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/arrays/datetimes.py", line 513, in <lambda>
+    return lambda x: Timestamp(x, freq=self.freq, tz=self.tz)
+KeyboardInterrupt

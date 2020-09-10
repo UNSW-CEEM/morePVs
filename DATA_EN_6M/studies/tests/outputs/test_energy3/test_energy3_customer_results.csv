@@ -1,0 +1,3 @@
+scenario,cust_bill_AAC_mean,cust_bill_AAC_std,cust_bill_AHW_mean,cust_bill_AHW_std,cust_solar_bill_AAC_mean,cust_solar_bill_AAC_std,cust_solar_bill_AHW_mean,cust_solar_bill_AHW_std,cust_total$_AAC_mean,cust_total$_AAC_std,cust_total$_AHW_mean,cust_total$_AHW_std
+0,13.662198722222223,,283.80257025,,0.0,,0.0,,13.662198722222223,,283.80257025,
+1,13.662198722222223,,1184.594523888889,,0.0,,0.0,,13.662198722222223,,1184.594523888889,

@@ -1,0 +1,21 @@
+19/09/2019 07:42:01 PM Python Script is: morePVs.py
+19/09/2019 07:42:01 PM study_name = test_en_mk2
+19/09/2019 07:42:01 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6\studies\tests\outputs\test_en_mk2\saved_tariffs\static_import_tariffs.csv
+19/09/2019 07:42:01 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6\studies\tests\outputs\test_en_mk2\saved_tariffs\static_solar_import_tariffs.csv
+19/09/2019 07:42:01 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6\studies\tests\outputs\test_en_mk2\saved_tariffs\static_export_tariffs.csv
+19/09/2019 07:42:01 PM Running Scenario number 0 
+19/09/2019 07:42:01 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6\studies\tests\outputs\test_en_mk2\scenarios\test_en_mk2_000.csv
+19/09/2019 07:42:02 PM Completed Scenario 0
+19/09/2019 07:42:02 PM Running Scenario number 1 
+19/09/2019 07:42:11 PM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "C:/Users/z5044992/Documents/python/morePVs/morePVs.py", line 2631, in main
+    runScenario(s)
+  File "C:/Users/z5044992/Documents/python/morePVs/morePVs.py", line 2594, in runScenario
+    eno.allocateAllCapex(scenario)  # per load profile to allow for scenarios where capex allocation depends on load
+  File "C:/Users/z5044992/Documents/python/morePVs/morePVs.py", line 1556, in allocateAllCapex
+    self.pv_capex_repayment = scenario.pv_capex_repayment['central']
+TypeError: 'int' object is not subscriptable

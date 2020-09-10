@@ -1,0 +1,21 @@
+02/09/2019 09:40:13 PM Python Script is: morePVs.py
+02/09/2019 09:40:13 PM study_name = test_capex1
+02/09/2019 09:40:14 PM Running Scenario number 1 
+02/09/2019 09:40:16 PM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 2637, in main
+    runScenario(s)
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 2612, in runScenario
+    scenario.logScenarioData()
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 2276, in logScenarioData
+    study.op.loc[self.name, 'pv_capex_repayment'] = self.pv_capex_repayment
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 190, in __setitem__
+    self._setitem_with_indexer(indexer, value)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 366, in _setitem_with_indexer
+    self._setitem_with_indexer(new_indexer, value)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 611, in _setitem_with_indexer
+    raise ValueError('Must have equal len keys and value '
+ValueError: Must have equal len keys and value when setting with an iterable

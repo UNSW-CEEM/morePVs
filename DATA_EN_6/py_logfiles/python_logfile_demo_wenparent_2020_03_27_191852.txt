@@ -1,0 +1,24 @@
+27/03/2020 07:18:52 PM Python Script is: morePVs.py
+27/03/2020 07:18:52 PM study_name = demo_wenparent
+27/03/2020 07:18:52 PM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "morePVs.py", line 2637, in main
+    override_output=override_output)
+  File "morePVs.py", line 2351, in __init__
+    self.study_parameters = pd.read_csv(study_file)
+  File "C:\Users\ariji\Anaconda3\lib\site-packages\pandas\io\parsers.py", line 685, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "C:\Users\ariji\Anaconda3\lib\site-packages\pandas\io\parsers.py", line 457, in _read
+    parser = TextFileReader(fp_or_buf, **kwds)
+  File "C:\Users\ariji\Anaconda3\lib\site-packages\pandas\io\parsers.py", line 895, in __init__
+    self._make_engine(self.engine)
+  File "C:\Users\ariji\Anaconda3\lib\site-packages\pandas\io\parsers.py", line 1135, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "C:\Users\ariji\Anaconda3\lib\site-packages\pandas\io\parsers.py", line 1917, in __init__
+    self._reader = parsers.TextReader(src, **kwds)
+  File "pandas\_libs\parsers.pyx", line 382, in pandas._libs.parsers.TextReader.__cinit__
+  File "pandas\_libs\parsers.pyx", line 689, in pandas._libs.parsers.TextReader._setup_parser_source
+FileNotFoundError: [Errno 2] File b'C:\\Users\\ariji\\OneDrive\\Desktop\\New folder\\morePVs-master\\DATA_EN_6\\studies\\demonstrations\\inputs\\study_demo_wenparent.csv' does not exist: b'C:\\Users\\ariji\\OneDrive\\Desktop\\New folder\\morePVs-master\\DATA_EN_6\\studies\\demonstrations\\inputs\\study_demo_wenparent.csv'

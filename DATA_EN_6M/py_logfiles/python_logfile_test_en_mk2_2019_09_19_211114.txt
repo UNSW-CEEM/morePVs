@@ -1,0 +1,41 @@
+19/09/2019 09:11:14 PM Python Script is: morePVs.py
+19/09/2019 09:11:14 PM study_name = test_en_mk2
+19/09/2019 09:11:14 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6\studies\tests\outputs\test_en_mk2\saved_tariffs\static_import_tariffs.csv
+19/09/2019 09:11:14 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6\studies\tests\outputs\test_en_mk2\saved_tariffs\static_solar_import_tariffs.csv
+19/09/2019 09:11:14 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6\studies\tests\outputs\test_en_mk2\saved_tariffs\static_export_tariffs.csv
+19/09/2019 09:11:14 PM Running Scenario number 2 
+19/09/2019 09:11:14 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6\studies\tests\outputs\test_en_mk2\scenarios\test_en_mk2_002.csv
+19/09/2019 09:11:14 PM Completed Scenario 2
+19/09/2019 09:11:14 PM Running Scenario number 3 
+19/09/2019 09:11:14 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6\studies\tests\outputs\test_en_mk2\scenarios\test_en_mk2_003.csv
+19/09/2019 09:11:14 PM Completed Scenario 3
+19/09/2019 09:11:14 PM Running Scenario number 4 
+19/09/2019 09:11:14 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6\studies\tests\outputs\test_en_mk2\scenarios\test_en_mk2_004.csv
+19/09/2019 09:11:14 PM Completed Scenario 4
+19/09/2019 09:11:14 PM Running Scenario number 5 
+19/09/2019 09:11:14 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6\studies\tests\outputs\test_en_mk2\scenarios\test_en_mk2_005.csv
+19/09/2019 09:11:14 PM Completed Scenario 5
+19/09/2019 09:11:14 PM Running Scenario number 6 
+19/09/2019 09:11:14 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6\studies\tests\outputs\test_en_mk2\scenarios\test_en_mk2_006.csv
+19/09/2019 09:11:15 PM Completed Scenario 6
+19/09/2019 09:11:15 PM Running Scenario number 7 
+19/09/2019 09:11:15 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6\studies\tests\outputs\test_en_mk2\scenarios\test_en_mk2_007.csv
+19/09/2019 09:11:15 PM Completed Scenario 7
+19/09/2019 09:11:15 PM Running Scenario number 8 
+19/09/2019 09:11:15 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6\studies\tests\outputs\test_en_mk2\scenarios\test_en_mk2_008.csv
+19/09/2019 09:11:15 PM Completed Scenario 8
+19/09/2019 09:11:15 PM Running Scenario number 9 
+19/09/2019 09:11:15 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6\studies\tests\outputs\test_en_mk2\scenarios\test_en_mk2_009.csv
+19/09/2019 09:11:15 PM Completed Scenario 9
+19/09/2019 09:11:15 PM Running Scenario number 10 
+19/09/2019 09:11:15 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6\studies\tests\outputs\test_en_mk2\scenarios\test_en_mk2_010.csv
+19/09/2019 09:11:15 PM Completed Scenario 10
+19/09/2019 09:11:15 PM Running Scenario number 0 
+19/09/2019 09:11:15 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6\studies\tests\outputs\test_en_mk2\scenarios\test_en_mk2_000.csv
+19/09/2019 09:11:15 PM Completed Scenario 0
+19/09/2019 09:11:15 PM Running Scenario number 1 
+19/09/2019 09:11:15 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6\studies\tests\outputs\test_en_mk2\scenarios\test_en_mk2_001.csv
+19/09/2019 09:11:15 PM Completed Scenario 1
+19/09/2019 09:11:16 PM ***COMPLETED STUDY test_en_mk2 ***
+19/09/2019 09:11:16 PM  ********* Completed 11 scenarios in 2.000000 **************
+19/09/2019 09:11:16 PM  ********* Time per Scenario is  0.181818 **************

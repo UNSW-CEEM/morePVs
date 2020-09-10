@@ -1,0 +1,25 @@
+19/09/2019 07:54:10 PM Python Script is: morePVs.py
+19/09/2019 07:54:10 PM study_name = test_en_mk2
+19/09/2019 07:54:10 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6\studies\tests\outputs\test_en_mk2\saved_tariffs\static_import_tariffs.csv
+19/09/2019 07:54:10 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6\studies\tests\outputs\test_en_mk2\saved_tariffs\static_solar_import_tariffs.csv
+19/09/2019 07:54:10 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6\studies\tests\outputs\test_en_mk2\saved_tariffs\static_export_tariffs.csv
+19/09/2019 07:54:10 PM Running Scenario number 0 
+19/09/2019 07:54:10 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6\studies\tests\outputs\test_en_mk2\scenarios\test_en_mk2_000.csv
+19/09/2019 07:54:10 PM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "C:/Users/z5044992/Documents/python/morePVs/morePVs.py", line 2632, in main
+    runScenario(s)
+  File "C:/Users/z5044992/Documents/python/morePVs/morePVs.py", line 2607, in runScenario
+    scenario.logScenarioData()
+  File "C:/Users/z5044992/Documents/python/morePVs/morePVs.py", line 2270, in logScenarioData
+    study.op.loc[self.name, 'pv_capex_repayment'] = self.pv_capex_repayment
+  File "C:\Users\z5044992\AppData\Local\Continuum\anaconda3\lib\site-packages\pandas\core\indexing.py", line 190, in __setitem__
+    self._setitem_with_indexer(indexer, value)
+  File "C:\Users\z5044992\AppData\Local\Continuum\anaconda3\lib\site-packages\pandas\core\indexing.py", line 366, in _setitem_with_indexer
+    self._setitem_with_indexer(new_indexer, value)
+  File "C:\Users\z5044992\AppData\Local\Continuum\anaconda3\lib\site-packages\pandas\core\indexing.py", line 611, in _setitem_with_indexer
+    raise ValueError('Must have equal len keys and value '
+ValueError: Must have equal len keys and value when setting with an iterable

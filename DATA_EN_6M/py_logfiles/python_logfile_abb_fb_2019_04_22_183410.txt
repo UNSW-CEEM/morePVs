@@ -1,0 +1,50 @@
+22/04/2019 06:34:10 PM Python Script is: morePVs.py
+22/04/2019 06:34:10 PM study_name = abb_fb
+22/04/2019 06:34:10 PM Thread variable is False
+22/04/2019 06:34:12 PM NOT THREADING
+22/04/2019 06:34:12 PM Running Scenario number 0 
+22/04/2019 06:34:12 PM Completed Scenario 0
+22/04/2019 06:34:12 PM Running Scenario number 1 
+22/04/2019 06:34:12 PM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/indexes/base.py", line 2657, in get_loc
+    return self._engine.get_loc(key)
+  File "pandas/_libs/index.pyx", line 108, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1601, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1608, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'evening_discharge_1'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/mikeroberts/OneDrive - UNSW/python/en/morePVs.py", line 2664, in main
+    runScenario(s)
+  File "/Users/mikeroberts/OneDrive - UNSW/python/en/morePVs.py", line 2565, in runScenario
+    eno.initialiseAllBatteries(scenario)
+  File "/Users/mikeroberts/OneDrive - UNSW/python/en/morePVs.py", line 1364, in initialiseAllBatteries
+    battery_capacity = scenario.central_battery_capacity_kWh)
+  File "/Users/mikeroberts/OneDrive - UNSW/python/en/morePVs.py", line 484, in __init__
+    self.prioritise_battery = study.battery_strategies.fillna(False).loc[battery_strategy, 'prioritise_battery']
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1494, in __getitem__
+    return self._getitem_tuple(key)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 868, in _getitem_tuple
+    return self._getitem_lowerdim(tup)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 988, in _getitem_lowerdim
+    section = self._getitem_axis(key, axis=i)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1913, in _getitem_axis
+    return self._get_label(key, axis=axis)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 141, in _get_label
+    return self.obj._xs(label, axis=axis)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/generic.py", line 3585, in xs
+    loc = self.index.get_loc(key)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/indexes/base.py", line 2659, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 108, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1601, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1608, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'evening_discharge_1'

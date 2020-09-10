@@ -1,0 +1,40 @@
+19/09/2019 09:15:26 PM Python Script is: morePVs.py
+19/09/2019 09:15:26 PM study_name = test_en_mk2
+19/09/2019 09:15:26 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6\studies\tests\outputs\test_en_mk2\saved_tariffs\static_import_tariffs.csv
+19/09/2019 09:15:26 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6\studies\tests\outputs\test_en_mk2\saved_tariffs\static_solar_import_tariffs.csv
+19/09/2019 09:15:26 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6\studies\tests\outputs\test_en_mk2\saved_tariffs\static_export_tariffs.csv
+19/09/2019 09:15:26 PM Running Scenario number 2 
+19/09/2019 09:15:26 PM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "C:\Users\z5044992\AppData\Local\Continuum\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 4381, in get_value
+    return libindex.get_value_box(s, key)
+  File "pandas/_libs/index.pyx", line 52, in pandas._libs.index.get_value_box
+  File "pandas/_libs/index.pyx", line 48, in pandas._libs.index.get_value_at
+  File "pandas/_libs/util.pxd", line 113, in pandas._libs.util.get_value_at
+  File "pandas/_libs/util.pxd", line 98, in pandas._libs.util.validate_indexer
+TypeError: 'str' object cannot be interpreted as an integer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:/Users/z5044992/Documents/python/morePVs/morePVs.py", line 2643, in main
+    runScenario(s)
+  File "C:/Users/z5044992/Documents/python/morePVs/morePVs.py", line 2562, in runScenario
+    scenario = Scenario(scenario_name=scenario_name)
+  File "C:/Users/z5044992/Documents/python/morePVs/morePVs.py", line 2043, in __init__
+    pv_capacity = self.parameters[pv]
+  File "C:\Users\z5044992\AppData\Local\Continuum\anaconda3\lib\site-packages\pandas\core\series.py", line 868, in __getitem__
+    result = self.index.get_value(self, key)
+  File "C:\Users\z5044992\AppData\Local\Continuum\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 4389, in get_value
+    raise e1
+  File "C:\Users\z5044992\AppData\Local\Continuum\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 4375, in get_value
+    tz=getattr(series.dtype, 'tz', None))
+  File "pandas/_libs/index.pyx", line 81, in pandas._libs.index.IndexEngine.get_value
+  File "pandas/_libs/index.pyx", line 89, in pandas._libs.index.IndexEngine.get_value
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1601, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1608, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'central'

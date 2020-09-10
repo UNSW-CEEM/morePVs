@@ -1,0 +1,23 @@
+20/04/2020 01:31:13 AM Python Script is: morePVs.py
+20/04/2020 01:31:13 AM study_name = demo_wtest
+20/04/2020 01:31:25 AM NumExpr defaulting to 2 threads.
+20/04/2020 01:31:38 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\saved_tariffs\static_import_tariffs.csv
+20/04/2020 01:31:40 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\saved_tariffs\static_solar_import_tariffs.csv
+20/04/2020 01:31:43 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\saved_tariffs\static_export_tariffs.csv
+20/04/2020 01:31:43 AM Running Scenario number 0 
+20/04/2020 01:32:04 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\scenarios\demo_wtest_000.csv
+20/04/2020 01:32:17 AM Completed Scenario 0
+20/04/2020 01:32:17 AM Running Scenario number 1 
+20/04/2020 01:32:55 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\scenarios\demo_wtest_001.csv
+20/04/2020 01:33:04 AM Completed Scenario 1
+20/04/2020 01:33:04 AM Running Scenario number 2 
+20/04/2020 01:34:08 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\scenarios\demo_wtest_002.csv
+20/04/2020 01:34:21 AM Completed Scenario 2
+20/04/2020 01:34:22 AM Running Scenario number 3 
+20/04/2020 01:35:01 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\scenarios\demo_wtest_003.csv
+20/04/2020 01:35:03 AM Completed Scenario 3
+20/04/2020 01:35:03 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\demo_wtest_customer_results.csv
+20/04/2020 01:35:03 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\demo_wtest_results.csv
+20/04/2020 01:35:03 AM ***COMPLETED STUDY demo_wtest ***
+20/04/2020 01:35:03 AM  ********* Completed 4 scenarios in 230.000000 **************
+20/04/2020 01:35:03 AM  ********* Time per Scenario is  57.500000 **************

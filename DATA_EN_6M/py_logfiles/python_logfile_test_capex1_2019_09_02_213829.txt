@@ -1,0 +1,25 @@
+02/09/2019 09:38:29 PM Python Script is: morePVs.py
+02/09/2019 09:38:29 PM study_name = test_capex1
+02/09/2019 09:38:30 PM Running Scenario number 1 
+02/09/2019 09:40:11 PM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 2637, in main
+    runScenario(s)
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 2604, in runScenario
+    scenario.calcFinancials(eno)
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 2158, in calcFinancials
+    + self.total_battery_capex_repayment['total_system'])*100 - net.total_building_payment
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 2158, in calcFinancials
+    + self.total_battery_capex_repayment['total_system'])*100 - net.total_building_payment
+  File "_pydevd_bundle/pydevd_cython_darwin_37_64.pyx", line 1439, in _pydevd_bundle.pydevd_cython_darwin_37_64.ThreadTracer.__call__
+  File "_pydevd_bundle/pydevd_cython_darwin_37_64.pyx", line 831, in _pydevd_bundle.pydevd_cython_darwin_37_64.PyDBFrame.trace_dispatch
+  File "_pydevd_bundle/pydevd_cython_darwin_37_64.pyx", line 822, in _pydevd_bundle.pydevd_cython_darwin_37_64.PyDBFrame.trace_dispatch
+  File "_pydevd_bundle/pydevd_cython_darwin_37_64.pyx", line 279, in _pydevd_bundle.pydevd_cython_darwin_37_64.PyDBFrame.do_wait_suspend
+  File "/Applications/PyCharm CE.app/Contents/helpers/pydev/pydevd.py", line 1082, in do_wait_suspend
+    self._do_wait_suspend(thread, frame, event, arg, suspend_type, from_this_thread)
+  File "/Applications/PyCharm CE.app/Contents/helpers/pydev/pydevd.py", line 1097, in _do_wait_suspend
+    time.sleep(0.01)
+KeyboardInterrupt

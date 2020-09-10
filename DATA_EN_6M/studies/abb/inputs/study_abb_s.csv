@@ -1,0 +1,8 @@
+scenario,pv_filename,load_folder,arrangement,pv_cap_id,cp,all_residents,parent,network_tariff,en_capex_id,a_term,a_rate,output_types
+0,,abb_shifted,bau,,EASO_TOU_15pc,TIDNULL,TIDNULL,EA302,,10,0.06,log_timeseries_detailed
+1,Abb_40kW.csv,abb_shifted,cp_only,abb_4m,EASO_TOU_15pc,TIDNULL,TIDNULL,EA302,,10,0.06,log_timeseries_detailed
+2,Abb_66kW.csv,abb_shifted,cp_only,abb_6m,EASO_TOU_15pc,TIDNULL,TIDNULL,EA302,,10,0.06,log_timeseries_detailed
+3,Abb_88kW.csv,abb_shifted,cp_only,abb_8m,EASO_TOU_15pc,TIDNULL,TIDNULL,EA302,,10,0.06,log_timeseries_detailed
+4,Abb_40kW.csv,abb_shifted,cp_only,abb_4,EASO_TOU_15pc,TIDNULL,TIDNULL,EA302,,10,0.06,log_timeseries_detailed
+5,Abb_66kW.csv,abb_shifted,cp_only,abb_6,EASO_TOU_15pc,TIDNULL,TIDNULL,EA302,,10,0.06,log_timeseries_detailed
+6,Abb_88kW.csv,abb_shifted,cp_only,abb_8,EASO_TOU_15pc,TIDNULL,TIDNULL,EA302,,10,0.06,log_timeseries_detailed

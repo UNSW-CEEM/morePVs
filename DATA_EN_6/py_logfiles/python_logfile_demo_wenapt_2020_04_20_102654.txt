@@ -1,0 +1,28 @@
+20/04/2020 10:26:54 AM Python Script is: morePVs.py
+20/04/2020 10:26:54 AM study_name = demo_wenapt
+20/04/2020 10:26:55 AM Running Scenario number 0 
+20/04/2020 10:27:29 AM Completed Scenario 0
+20/04/2020 10:27:29 AM Running Scenario number 1 
+20/04/2020 10:53:51 AM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 2640, in main
+    runScenario(s)
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 2580, in runScenario
+    eno.calcBuildingStaticEnergyFlows()
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 1445, in calcBuildingStaticEnergyFlows
+    self.cum_local_imports += self.resident[c].solar_allocation
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 1445, in calcBuildingStaticEnergyFlows
+    self.cum_local_imports += self.resident[c].solar_allocation
+  File "_pydevd_bundle/pydevd_cython_darwin_37_64.pyx", line 1153, in _pydevd_bundle.pydevd_cython_darwin_37_64.SafeCallWrapper.__call__
+  File "_pydevd_bundle/pydevd_cython_darwin_37_64.pyx", line 595, in _pydevd_bundle.pydevd_cython_darwin_37_64.PyDBFrame.trace_dispatch
+  File "_pydevd_bundle/pydevd_cython_darwin_37_64.pyx", line 903, in _pydevd_bundle.pydevd_cython_darwin_37_64.PyDBFrame.trace_dispatch
+  File "_pydevd_bundle/pydevd_cython_darwin_37_64.pyx", line 894, in _pydevd_bundle.pydevd_cython_darwin_37_64.PyDBFrame.trace_dispatch
+  File "_pydevd_bundle/pydevd_cython_darwin_37_64.pyx", line 317, in _pydevd_bundle.pydevd_cython_darwin_37_64.PyDBFrame.do_wait_suspend
+  File "/Applications/PyCharm CE.app/Contents/plugins/python-ce/helpers/pydev/pydevd.py", line 1103, in do_wait_suspend
+    self._do_wait_suspend(thread, frame, event, arg, suspend_type, from_this_thread)
+  File "/Applications/PyCharm CE.app/Contents/plugins/python-ce/helpers/pydev/pydevd.py", line 1118, in _do_wait_suspend
+    time.sleep(0.01)
+KeyboardInterrupt

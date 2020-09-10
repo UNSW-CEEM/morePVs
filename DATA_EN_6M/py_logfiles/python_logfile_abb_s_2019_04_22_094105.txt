@@ -1,0 +1,15 @@
+22/04/2019 09:41:05 AM Python Script is: morePVs.py
+22/04/2019 09:41:05 AM study_name = abb_s
+22/04/2019 09:41:05 AM Thread variable is False
+22/04/2019 09:41:06 AM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "/Users/mikeroberts/OneDrive - UNSW/python/en/morePVs.py", line 2647, in main
+    override_output=override_output)
+  File "/Users/mikeroberts/OneDrive - UNSW/python/en/morePVs.py", line 2496, in __init__
+    dst_region = dst_region)
+  File "/Users/mikeroberts/OneDrive - UNSW/python/en/morePVs.py", line 46, in __init__
+    pd.infer_freq(self.timeseries)
+AttributeError: 'NoneType' object has no attribute 'total_seconds'

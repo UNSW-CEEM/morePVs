@@ -1,0 +1,21 @@
+22/04/2019 10:12:30 AM Python Script is: morePVs.py
+22/04/2019 10:12:30 AM study_name = abb_f
+22/04/2019 10:12:30 AM Thread variable is False
+22/04/2019 10:12:30 AM NOT THREADING
+22/04/2019 10:12:30 AM Running Scenario number 0 
+22/04/2019 10:12:30 AM Completed Scenario 0
+22/04/2019 10:12:30 AM Running Scenario number 1 
+22/04/2019 10:12:30 AM Completed Scenario 1
+22/04/2019 10:12:30 AM Running Scenario number 2 
+22/04/2019 10:12:31 AM Completed Scenario 2
+22/04/2019 10:12:31 AM Running Scenario number 3 
+22/04/2019 10:12:31 AM Completed Scenario 3
+22/04/2019 10:12:31 AM Running Scenario number 4 
+22/04/2019 10:12:31 AM Completed Scenario 4
+22/04/2019 10:12:31 AM Running Scenario number 5 
+22/04/2019 10:12:31 AM Completed Scenario 5
+22/04/2019 10:12:31 AM Running Scenario number 6 
+22/04/2019 10:12:31 AM Completed Scenario 6
+22/04/2019 10:12:31 AM ***COMPLETED STUDY abb_f ***
+22/04/2019 10:12:31 AM  ********* Completed 7 scenarios in 1.000000 **************
+22/04/2019 10:12:31 AM  ********* Time per Scenario is  0.142857 **************

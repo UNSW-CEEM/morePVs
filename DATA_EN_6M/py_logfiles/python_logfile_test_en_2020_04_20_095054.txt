@@ -1,0 +1,15 @@
+20/04/2020 09:50:54 AM Python Script is: morePVs.py
+20/04/2020 09:50:54 AM study_name = test_en
+20/04/2020 09:50:55 AM Running Scenario number 1 
+20/04/2020 09:51:18 AM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 2640, in main
+    runScenario(s)
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 2580, in runScenario
+    eno.calcBuildingStaticEnergyFlows()
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 1443, in calcBuildingStaticEnergyFlows
+    self.cum_resident_exports += self.resident[c].exports
+AttributeError: 'Network' object has no attribute 'cum_resident_exports'
