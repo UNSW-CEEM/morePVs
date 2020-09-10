@@ -1,0 +1,25 @@
+18/04/2019 12:00:04 PM Python Script is: morePVs.py
+18/04/2019 12:00:04 PM study_name = C1
+18/04/2019 12:00:04 PM Thread variable is False
+18/04/2019 12:00:05 PM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "C:/Users/z5044992/OneDrive - UNSW/python/en/morePVs.py", line 2647, in main
+    override_output=override_output)
+  File "C:/Users/z5044992/OneDrive - UNSW/python/en/morePVs.py", line 2360, in __init__
+    self.study_parameters = pd.read_csv(study_file)
+  File "C:\Users\z5044992\AppData\Local\Continuum\anaconda3\lib\site-packages\pandas\io\parsers.py", line 702, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "C:\Users\z5044992\AppData\Local\Continuum\anaconda3\lib\site-packages\pandas\io\parsers.py", line 429, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "C:\Users\z5044992\AppData\Local\Continuum\anaconda3\lib\site-packages\pandas\io\parsers.py", line 895, in __init__
+    self._make_engine(self.engine)
+  File "C:\Users\z5044992\AppData\Local\Continuum\anaconda3\lib\site-packages\pandas\io\parsers.py", line 1122, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "C:\Users\z5044992\AppData\Local\Continuum\anaconda3\lib\site-packages\pandas\io\parsers.py", line 1853, in __init__
+    self._reader = parsers.TextReader(src, **kwds)
+  File "pandas\_libs\parsers.pyx", line 387, in pandas._libs.parsers.TextReader.__cinit__
+  File "pandas\_libs\parsers.pyx", line 705, in pandas._libs.parsers.TextReader._setup_parser_source
+FileNotFoundError: [Errno 2] File b'C:\\Users\\z5044992\\OneDrive - UNSW\\python\\en\\DATA_EN_5\\studies\\siteC\\inputs\\study_C1.csv' does not exist: b'C:\\Users\\z5044992\\OneDrive - UNSW\\python\\en\\DATA_EN_5\\studies\\siteC\\inputs\\study_C1.csv'

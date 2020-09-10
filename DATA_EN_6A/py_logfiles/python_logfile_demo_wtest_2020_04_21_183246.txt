@@ -1,0 +1,29 @@
+21/04/2020 06:32:46 PM Python Script is: morePVs.py
+21/04/2020 06:32:46 PM study_name = demo_wtest
+21/04/2020 06:33:58 PM NumExpr defaulting to 2 threads.
+21/04/2020 06:34:02 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\saved_tariffs\static_import_tariffs.csv
+21/04/2020 06:34:03 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\saved_tariffs\static_solar_import_tariffs.csv
+21/04/2020 06:34:03 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\saved_tariffs\static_export_tariffs.csv
+21/04/2020 06:34:03 PM Running Scenario number 0 
+21/04/2020 06:34:08 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\timeseries_d\demo_wtest_000_bau_W_building_profile_kWh.csv
+21/04/2020 06:34:08 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\scenarios\demo_wtest_000.csv
+21/04/2020 06:34:11 PM Completed Scenario 0
+21/04/2020 06:34:11 PM Running Scenario number 1 
+21/04/2020 06:34:20 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\scenarios\demo_wtest_001.csv
+21/04/2020 06:34:21 PM Completed Scenario 1
+21/04/2020 06:34:21 PM Running Scenario number 2 
+21/04/2020 06:34:31 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\timeseries_d\demo_wtest_002_en_pv_W_building_profile_kWh.csv
+21/04/2020 06:34:31 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\scenarios\demo_wtest_002.csv
+21/04/2020 06:34:31 PM Completed Scenario 2
+21/04/2020 06:34:31 PM Running Scenario number 3 
+21/04/2020 06:34:40 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\scenarios\demo_wtest_003.csv
+21/04/2020 06:34:41 PM Completed Scenario 3
+21/04/2020 06:34:41 PM Running Scenario number 4 
+21/04/2020 06:34:51 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\timeseries_d\demo_wtest_004_en_pv_W_building_profile_kWh.csv
+21/04/2020 06:34:51 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\scenarios\demo_wtest_004.csv
+21/04/2020 06:34:52 PM Completed Scenario 4
+21/04/2020 06:34:52 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\demo_wtest_customer_results.csv
+21/04/2020 06:34:52 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\demo_wtest_results.csv
+21/04/2020 06:34:52 PM ***COMPLETED STUDY demo_wtest ***
+21/04/2020 06:34:52 PM  ********* Completed 5 scenarios in 125.000000 **************
+21/04/2020 06:34:52 PM  ********* Time per Scenario is  25.000000 **************

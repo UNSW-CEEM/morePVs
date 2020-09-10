@@ -1,0 +1,29 @@
+14/05/2020 12:48:01 PM Python Script is: morePVs.py
+14/05/2020 12:48:01 PM study_name = demo_wflat
+14/05/2020 12:48:21 PM NumExpr defaulting to 2 threads.
+14/05/2020 12:48:24 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wflat\saved_tariffs\static_import_tariffs.csv
+14/05/2020 12:48:25 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wflat\saved_tariffs\static_solar_import_tariffs.csv
+14/05/2020 12:48:27 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wflat\saved_tariffs\static_export_tariffs.csv
+14/05/2020 12:48:27 PM Running Scenario number 0 
+14/05/2020 12:48:36 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wflat\scenarios\demo_wflat_000.csv
+14/05/2020 12:48:44 PM Completed Scenario 0
+14/05/2020 12:48:44 PM Running Scenario number 1 
+14/05/2020 12:49:08 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wflat\scenarios\demo_wflat_001.csv
+14/05/2020 12:49:11 PM Completed Scenario 1
+14/05/2020 12:49:11 PM Running Scenario number 2 
+14/05/2020 12:49:34 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wflat\scenarios\demo_wflat_002.csv
+14/05/2020 12:49:37 PM Completed Scenario 2
+14/05/2020 12:49:37 PM Running Scenario number 3 
+14/05/2020 12:49:59 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wflat\scenarios\demo_wflat_003.csv
+14/05/2020 12:50:04 PM Completed Scenario 3
+14/05/2020 12:50:04 PM Running Scenario number 4 
+14/05/2020 12:50:29 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wflat\scenarios\demo_wflat_004.csv
+14/05/2020 12:50:33 PM Completed Scenario 4
+14/05/2020 12:50:34 PM Running Scenario number 5 
+14/05/2020 12:51:04 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wflat\scenarios\demo_wflat_005.csv
+14/05/2020 12:51:07 PM Completed Scenario 5
+14/05/2020 12:51:08 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wflat\demo_wflat_customer_results.csv
+14/05/2020 12:51:08 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wflat\demo_wflat_results.csv
+14/05/2020 12:51:08 PM ***COMPLETED STUDY demo_wflat ***
+14/05/2020 12:51:08 PM  ********* Completed 6 scenarios in 187.000000 **************
+14/05/2020 12:51:08 PM  ********* Time per Scenario is  31.166667 **************

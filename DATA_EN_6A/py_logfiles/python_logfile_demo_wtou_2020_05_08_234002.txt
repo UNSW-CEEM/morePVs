@@ -1,0 +1,23 @@
+08/05/2020 11:40:02 PM Python Script is: morePVs.py
+08/05/2020 11:40:02 PM study_name = demo_wtou
+08/05/2020 11:40:29 PM NumExpr defaulting to 2 threads.
+08/05/2020 11:40:33 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtou\saved_tariffs\static_import_tariffs.csv
+08/05/2020 11:40:34 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtou\saved_tariffs\static_solar_import_tariffs.csv
+08/05/2020 11:40:36 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtou\saved_tariffs\static_export_tariffs.csv
+08/05/2020 11:40:36 PM Running Scenario number 0 
+08/05/2020 11:40:43 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtou\scenarios\demo_wtou_000.csv
+08/05/2020 11:40:48 PM Completed Scenario 0
+08/05/2020 11:40:48 PM Running Scenario number 1 
+08/05/2020 11:40:58 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtou\scenarios\demo_wtou_001.csv
+08/05/2020 11:40:59 PM Completed Scenario 1
+08/05/2020 11:40:59 PM Running Scenario number 2 
+08/05/2020 11:41:24 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtou\scenarios\demo_wtou_002.csv
+08/05/2020 11:41:26 PM Completed Scenario 2
+08/05/2020 11:41:26 PM Running Scenario number 3 
+08/05/2020 11:41:48 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtou\scenarios\demo_wtou_003.csv
+08/05/2020 11:41:51 PM Completed Scenario 3
+08/05/2020 11:41:51 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtou\demo_wtou_customer_results.csv
+08/05/2020 11:41:51 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtou\demo_wtou_results.csv
+08/05/2020 11:41:51 PM ***COMPLETED STUDY demo_wtou ***
+08/05/2020 11:41:51 PM  ********* Completed 4 scenarios in 109.000000 **************
+08/05/2020 11:41:51 PM  ********* Time per Scenario is  27.250000 **************

@@ -1,0 +1,23 @@
+08/05/2020 07:56:09 PM Python Script is: morePVs.py
+08/05/2020 07:56:09 PM study_name = demo_wenreducedstratafees
+08/05/2020 07:56:48 PM NumExpr defaulting to 2 threads.
+08/05/2020 07:56:53 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenreducedstratafees\saved_tariffs\static_import_tariffs.csv
+08/05/2020 07:56:54 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenreducedstratafees\saved_tariffs\static_solar_import_tariffs.csv
+08/05/2020 07:56:55 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenreducedstratafees\saved_tariffs\static_export_tariffs.csv
+08/05/2020 07:56:55 PM Running Scenario number 0 
+08/05/2020 07:57:15 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenreducedstratafees\scenarios\demo_wenreducedstratafees_000.csv
+08/05/2020 07:57:30 PM Completed Scenario 0
+08/05/2020 07:57:30 PM Running Scenario number 1 
+08/05/2020 07:57:45 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenreducedstratafees\scenarios\demo_wenreducedstratafees_001.csv
+08/05/2020 07:57:48 PM Completed Scenario 1
+08/05/2020 07:57:49 PM Running Scenario number 2 
+08/05/2020 07:58:20 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenreducedstratafees\scenarios\demo_wenreducedstratafees_002.csv
+08/05/2020 07:58:22 PM Completed Scenario 2
+08/05/2020 07:58:22 PM Running Scenario number 3 
+08/05/2020 07:58:39 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenreducedstratafees\scenarios\demo_wenreducedstratafees_003.csv
+08/05/2020 07:58:41 PM Completed Scenario 3
+08/05/2020 07:58:41 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenreducedstratafees\demo_wenreducedstratafees_customer_results.csv
+08/05/2020 07:58:41 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenreducedstratafees\demo_wenreducedstratafees_results.csv
+08/05/2020 07:58:41 PM ***COMPLETED STUDY demo_wenreducedstratafees ***
+08/05/2020 07:58:41 PM  ********* Completed 4 scenarios in 152.000000 **************
+08/05/2020 07:58:41 PM  ********* Time per Scenario is  38.000000 **************

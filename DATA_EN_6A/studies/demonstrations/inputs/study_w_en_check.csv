@@ -1,0 +1,7 @@
+scenario,pv_filename,pv_scaleable,pv_kW_peak,load_folder,arrangement,pv_cap_id,cp,all_residents,parent,network_tariff,en_capex_id,a_term,a_rate
+1,,,,W_2,bau,,EASO_TOU_15pc,EASO_TOU_15pc,TIDNULL,EA305,,20,0.06
+2,,,,W_2,en,,TIDNULL,TIDNULL,PARENT_305_2,EA305,capex_med,20,0.06
+3,W_max_PV_scale.csv,TRUE,145,W_2,en_pv,W_75_50,TIDNULL,TIDNULL,PARENT_305_2,EA305,capex_med,20,0.06
+4,W_max_yield_scale.csv,TRUE,75,W_2,en_pv,W_75_50,TIDNULL,TIDNULL,PARENT_305_2,EA305,capex_med,20,0.06
+5,W_max_yield_scale.csv,TRUE,145,W_2,en_pv,W_75_50,TIDNULL,TIDNULL,PARENT_305_2,EA305,capex_med,20,0.06
+6,W_max_PV_scale.csv,TRUE,75,W_2,en_pv,W_75_50,TIDNULL,TIDNULL,PARENT_305_2,EA305,capex_med,20,0.06

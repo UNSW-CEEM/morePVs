@@ -1,0 +1,53 @@
+24/04/2020 08:12:50 PM Python Script is: morePVs.py
+24/04/2020 08:12:50 PM study_name = demo_wtest
+24/04/2020 08:13:05 PM NumExpr defaulting to 2 threads.
+24/04/2020 08:13:08 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\saved_tariffs\static_import_tariffs.csv
+24/04/2020 08:13:09 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\saved_tariffs\static_solar_import_tariffs.csv
+24/04/2020 08:13:10 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\saved_tariffs\static_export_tariffs.csv
+24/04/2020 08:13:10 PM Running Scenario number 0 
+24/04/2020 08:13:18 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\scenarios\demo_wtest_000.csv
+24/04/2020 08:13:25 PM Completed Scenario 0
+24/04/2020 08:13:25 PM Running Scenario number 1 
+24/04/2020 08:13:30 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\scenarios\demo_wtest_001.csv
+24/04/2020 08:13:32 PM Completed Scenario 1
+24/04/2020 08:13:32 PM Running Scenario number 2 
+24/04/2020 08:13:50 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\scenarios\demo_wtest_002.csv
+24/04/2020 08:13:52 PM Completed Scenario 2
+24/04/2020 08:13:52 PM Running Scenario number 3 
+24/04/2020 08:14:12 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\scenarios\demo_wtest_003.csv
+24/04/2020 08:14:15 PM Completed Scenario 3
+24/04/2020 08:14:15 PM Running Scenario number 4 
+24/04/2020 08:14:33 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\scenarios\demo_wtest_004.csv
+24/04/2020 08:14:36 PM Completed Scenario 4
+24/04/2020 08:14:36 PM Running Scenario number 5 
+24/04/2020 08:14:58 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\scenarios\demo_wtest_005.csv
+24/04/2020 08:15:00 PM Completed Scenario 5
+24/04/2020 08:15:00 PM Running Scenario number 6 
+24/04/2020 08:15:21 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\scenarios\demo_wtest_006.csv
+24/04/2020 08:15:25 PM Completed Scenario 6
+24/04/2020 08:15:25 PM Running Scenario number 7 
+24/04/2020 08:15:42 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\scenarios\demo_wtest_007.csv
+24/04/2020 08:15:44 PM Completed Scenario 7
+24/04/2020 08:15:45 PM Running Scenario number 8 
+24/04/2020 08:16:04 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\scenarios\demo_wtest_008.csv
+24/04/2020 08:16:06 PM Completed Scenario 8
+24/04/2020 08:16:06 PM Running Scenario number 9 
+24/04/2020 08:16:25 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\scenarios\demo_wtest_009.csv
+24/04/2020 08:16:27 PM Completed Scenario 9
+24/04/2020 08:16:27 PM Running Scenario number 10 
+24/04/2020 08:16:47 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\scenarios\demo_wtest_010.csv
+24/04/2020 08:16:51 PM Completed Scenario 10
+24/04/2020 08:16:51 PM Running Scenario number 11 
+24/04/2020 08:17:34 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\scenarios\demo_wtest_011.csv
+24/04/2020 08:17:38 PM Completed Scenario 11
+24/04/2020 08:17:39 PM Running Scenario number 12 
+24/04/2020 08:18:14 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\scenarios\demo_wtest_012.csv
+24/04/2020 08:18:18 PM Completed Scenario 12
+24/04/2020 08:18:18 PM Running Scenario number 13 
+24/04/2020 08:18:47 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\scenarios\demo_wtest_013.csv
+24/04/2020 08:18:49 PM Completed Scenario 13
+24/04/2020 08:18:49 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\demo_wtest_customer_results.csv
+24/04/2020 08:18:49 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest\demo_wtest_results.csv
+24/04/2020 08:18:50 PM ***COMPLETED STUDY demo_wtest ***
+24/04/2020 08:18:50 PM  ********* Completed 14 scenarios in 359.000000 **************
+24/04/2020 08:18:50 PM  ********* Time per Scenario is  25.642857 **************

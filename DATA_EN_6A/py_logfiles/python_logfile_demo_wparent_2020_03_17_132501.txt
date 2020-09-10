@@ -1,0 +1,65 @@
+17/03/2020 01:25:01 PM Python Script is: morePVs.py
+17/03/2020 01:25:01 PM study_name = demo_wparent
+17/03/2020 01:25:10 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wparent\saved_tariffs\static_import_tariffs.csv
+17/03/2020 01:25:11 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wparent\saved_tariffs\static_solar_import_tariffs.csv
+17/03/2020 01:25:12 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wparent\saved_tariffs\static_export_tariffs.csv
+17/03/2020 01:25:12 PM Running Scenario number 0 
+17/03/2020 01:25:32 PM NumExpr defaulting to 2 threads.
+17/03/2020 01:25:39 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wparent\scenarios\demo_wparent_000.csv
+17/03/2020 01:25:54 PM Completed Scenario 0
+17/03/2020 01:25:54 PM Running Scenario number 1 
+17/03/2020 01:26:16 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wparent\scenarios\demo_wparent_001.csv
+17/03/2020 01:26:19 PM Completed Scenario 1
+17/03/2020 01:26:19 PM Running Scenario number 2 
+17/03/2020 01:26:45 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wparent\scenarios\demo_wparent_002.csv
+17/03/2020 01:26:49 PM Completed Scenario 2
+17/03/2020 01:26:49 PM Running Scenario number 3 
+17/03/2020 01:27:51 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wparent\scenarios\demo_wparent_003.csv
+17/03/2020 01:27:57 PM Completed Scenario 3
+17/03/2020 01:27:58 PM Running Scenario number 4 
+17/03/2020 01:29:06 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wparent\scenarios\demo_wparent_004.csv
+17/03/2020 01:29:13 PM Completed Scenario 4
+17/03/2020 01:29:13 PM Running Scenario number 5 
+17/03/2020 01:30:12 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wparent\scenarios\demo_wparent_005.csv
+17/03/2020 01:30:19 PM Completed Scenario 5
+17/03/2020 01:30:19 PM Running Scenario number 6 
+17/03/2020 01:31:18 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wparent\scenarios\demo_wparent_006.csv
+17/03/2020 01:31:22 PM Completed Scenario 6
+17/03/2020 01:31:22 PM Running Scenario number 7 
+17/03/2020 01:31:53 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wparent\scenarios\demo_wparent_007.csv
+17/03/2020 01:31:56 PM Completed Scenario 7
+17/03/2020 01:31:56 PM Running Scenario number 8 
+17/03/2020 01:32:22 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wparent\scenarios\demo_wparent_008.csv
+17/03/2020 01:32:25 PM Completed Scenario 8
+17/03/2020 01:32:25 PM Running Scenario number 9 
+17/03/2020 01:32:51 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wparent\scenarios\demo_wparent_009.csv
+17/03/2020 01:32:56 PM Completed Scenario 9
+17/03/2020 01:32:57 PM Running Scenario number 10 
+17/03/2020 01:33:24 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wparent\scenarios\demo_wparent_010.csv
+17/03/2020 01:33:27 PM Completed Scenario 10
+17/03/2020 01:33:27 PM Running Scenario number 11 
+17/03/2020 01:34:04 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wparent\scenarios\demo_wparent_011.csv
+17/03/2020 01:34:07 PM Completed Scenario 11
+17/03/2020 01:34:07 PM Running Scenario number 12 
+17/03/2020 01:34:29 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wparent\scenarios\demo_wparent_012.csv
+17/03/2020 01:34:31 PM Completed Scenario 12
+17/03/2020 01:34:31 PM Running Scenario number 13 
+17/03/2020 01:35:06 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wparent\scenarios\demo_wparent_013.csv
+17/03/2020 01:35:09 PM Completed Scenario 13
+17/03/2020 01:35:09 PM Running Scenario number 14 
+17/03/2020 01:35:37 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wparent\scenarios\demo_wparent_014.csv
+17/03/2020 01:35:39 PM Completed Scenario 14
+17/03/2020 01:35:39 PM Running Scenario number 15 
+17/03/2020 01:36:13 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wparent\scenarios\demo_wparent_015.csv
+17/03/2020 01:36:20 PM Completed Scenario 15
+17/03/2020 01:36:20 PM Running Scenario number 16 
+17/03/2020 01:36:49 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wparent\scenarios\demo_wparent_016.csv
+17/03/2020 01:36:51 PM Completed Scenario 16
+17/03/2020 01:36:51 PM Running Scenario number 17 
+17/03/2020 01:37:16 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wparent\scenarios\demo_wparent_017.csv
+17/03/2020 01:37:20 PM Completed Scenario 17
+17/03/2020 01:37:20 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wparent\demo_wparent_customer_results.csv
+17/03/2020 01:37:20 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wparent\demo_wparent_results.csv
+17/03/2020 01:37:20 PM ***COMPLETED STUDY demo_wparent ***
+17/03/2020 01:37:20 PM  ********* Completed 18 scenarios in 739.000000 **************
+17/03/2020 01:37:20 PM  ********* Time per Scenario is  41.055556 **************

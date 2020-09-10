@@ -1,0 +1,11 @@
+scenario,scenario_label,arrangement,number_of_households,load_folder,en_opex,en_capex_repayment,pv_capex_repayment,average_hh_bill$,average_hh_solar_bill$,average_hh_total$,central_battery_SOH,central_battery_capacity_kWh,central_battery_cycles,checksum_total_payments$,cp_ratio,cust_bill_cp,cust_solar_bill_cp,cust_total$_cp,eno$_bat_capex_repay,eno$_demand_charge,eno$_energy_bill,eno$_npv_building,eno$_receipts_from_residents,eno$_total_payment,eno_net$,export_kWh,import_kWh,pv_ratio,retailer_bill$,retailer_receipt$,self-consumption,self-consumption_OLD,self-sufficiency,self-sufficiency_OLD,solar_retailer_profit,total$_building_costs,total_battery_losses,total_building_load
+0,demo_wenreducedstratafees_000,bau,72,W,0,0,0,1401.596426,0,1401.596426,0,0,0,0,21.51363781,22720.49019,0,22720.49019,0,0,0,-1434981.611,0,0,0,1.976504893,409350.668,0,37870.85209,123635.4328,100,100,0,0,0,123635.4328,0,409348.6915
+1,demo_wenreducedstratafees_001,bau,72,W,0,0,0,1364.428367,0,1364.428367,0,0,0,0,21.51363781,19915.40814,0,19915.40814,0,0,0,-1371363.961,0,0,0,1.976504893,409350.668,0,37870.85209,118154.2506,100,100,0,0,0,118154.2506,0,409348.6915
+2,demo_wenreducedstratafees_002,en_pv,72,W,18000,4195.420278,12302.55414,1401.596426,0,1401.596426,0,0,0,-1.86E-11,21.51363781,22720.49019,0,22720.49019,0,19318.21158,67727.27574,-1186483.121,123635.4328,102225.2502,21410.18268,6945.071119,313812.4383,25.03521482,35023.80245,67727.27574,93.22308609,93.22308609,23.33859987,23.33859987,0,102225.2502,0,409348.6915
+3,demo_wenreducedstratafees_003,en_pv,72,W,18000,4195.420278,12302.55414,1364.428367,0,1364.428367,0,0,0,-1.86E-11,21.51363781,19915.40814,0,19915.40814,0,19318.21158,67727.27574,-1186483.121,118154.2506,102225.2502,15929.00044,6945.071119,313812.4383,25.03521482,35023.80245,67727.27574,93.22308609,93.22308609,23.33859987,23.33859987,0,102225.2502,0,409348.6915
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,102225.2502,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,34497.97441,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,118154.2506,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,15929.00044,,,,,,,,,,,,,

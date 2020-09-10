@@ -1,0 +1,6 @@
+scenario,pv_filename,load_folder,arrangement,pv_cap_id,cp,all_residents,parent,network_tariff,en_capex_id,a_term,a_rate
+0,,W,bau,,EASO_TOU_15pc,EASO_TOU_15pc,TIDNULL,TIDNULL,capex_null,20,0.06
+1,,W_net,bau,,EASO_TOU_15pc,EASO_TOU_15pc,TIDNULL,TIDNULL,capex_null,20,0.06
+2,W_max_pv_btm_c.csv,W,btm_i_c,W_max_pv,EASO_TOU_15pc,EASO_TOU_15pc,TIDNULL,TIDNULL,capex_null,20,0.06
+3,,W_net,bau,,EASO_TOU_15pc_FIT8,EASO_TOU_15pc_FIT8,TIDNULL,TIDNULL,capex_null,20,0.06
+4,W_max_pv_btm_c.csv,W,btm_i_c,W_max_pv,EASO_TOU_15pc_FIT8,EASO_TOU_15pc_FIT8,TIDNULL,TIDNULL,capex_null,20,0.06

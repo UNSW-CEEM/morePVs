@@ -1,0 +1,23 @@
+17/03/2020 12:14:54 PM Python Script is: morePVs.py
+17/03/2020 12:14:54 PM study_name = demo_windivpv
+17/03/2020 12:14:56 PM NumExpr defaulting to 2 threads.
+17/03/2020 12:14:59 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\saved_tariffs\static_import_tariffs.csv
+17/03/2020 12:15:00 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\saved_tariffs\static_solar_import_tariffs.csv
+17/03/2020 12:15:01 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\saved_tariffs\static_export_tariffs.csv
+17/03/2020 12:15:01 PM Running Scenario number 0 
+17/03/2020 12:15:04 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\scenarios\demo_windivpv_000.csv
+17/03/2020 12:15:09 PM Completed Scenario 0
+17/03/2020 12:15:09 PM Running Scenario number 1 
+17/03/2020 12:15:09 PM ***************Exception!!! PV file C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\pv_profiles\W_max_pv_1kW.csv NOT FOUND
+17/03/2020 12:15:09 PM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "morePVs.py", line 2639, in main
+    runScenario(s)
+  File "morePVs.py", line 2558, in runScenario
+    scenario = Scenario(scenario_name=scenario_name)
+  File "morePVs.py", line 1832, in __init__
+    sys.exit("PV file missing")
+SystemExit: PV file missing

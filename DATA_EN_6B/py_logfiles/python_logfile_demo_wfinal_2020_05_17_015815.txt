@@ -1,0 +1,26 @@
+17/05/2020 01:58:15 AM Python Script is: morePVs.py
+17/05/2020 01:58:15 AM study_name = demo_wfinal
+17/05/2020 01:58:16 AM NumExpr defaulting to 2 threads.
+17/05/2020 01:58:17 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wfinal\saved_tariffs\static_import_tariffs.csv
+17/05/2020 01:58:18 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wfinal\saved_tariffs\static_solar_import_tariffs.csv
+17/05/2020 01:58:18 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wfinal\saved_tariffs\static_export_tariffs.csv
+17/05/2020 01:58:18 AM Running Scenario number 0 
+17/05/2020 01:58:20 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wfinal\scenarios\demo_wfinal_000.csv
+17/05/2020 01:58:24 AM Completed Scenario 0
+17/05/2020 01:58:24 AM Running Scenario number 1 
+17/05/2020 01:58:30 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wfinal\scenarios\demo_wfinal_001.csv
+17/05/2020 01:58:30 AM Completed Scenario 1
+17/05/2020 01:58:30 AM Running Scenario number 2 
+17/05/2020 01:58:32 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wfinal\scenarios\demo_wfinal_002.csv
+17/05/2020 01:58:32 AM Completed Scenario 2
+17/05/2020 01:58:32 AM Running Scenario number 3 
+17/05/2020 01:58:40 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wfinal\scenarios\demo_wfinal_003.csv
+17/05/2020 01:58:41 AM Completed Scenario 3
+17/05/2020 01:58:42 AM Running Scenario number 4 
+17/05/2020 01:58:52 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wfinal\scenarios\demo_wfinal_004.csv
+17/05/2020 01:58:53 AM Completed Scenario 4
+17/05/2020 01:58:53 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wfinal\demo_wfinal_customer_results.csv
+17/05/2020 01:58:53 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wfinal\demo_wfinal_results.csv
+17/05/2020 01:58:53 AM ***COMPLETED STUDY demo_wfinal ***
+17/05/2020 01:58:53 AM  ********* Completed 5 scenarios in 38.000000 **************
+17/05/2020 01:58:53 AM  ********* Time per Scenario is  7.600000 **************

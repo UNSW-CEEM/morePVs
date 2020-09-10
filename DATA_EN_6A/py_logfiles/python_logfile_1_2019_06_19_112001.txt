@@ -1,0 +1,27 @@
+19/06/2019 11:20:01 AM Python Script is: morePVs.py
+19/06/2019 11:20:01 AM study_name = 1
+19/06/2019 11:20:01 AM Thread variable is False
+19/06/2019 11:20:01 AM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "/Users/mikeroberts/OneDrive - UNSW/python/en/morePVs.py", line 2647, in main
+    override_output=override_output)
+  File "/Users/mikeroberts/OneDrive - UNSW/python/en/morePVs.py", line 2473, in __init__
+    dayfirst=True)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/io/parsers.py", line 702, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/io/parsers.py", line 429, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/io/parsers.py", line 895, in __init__
+    self._make_engine(self.engine)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/io/parsers.py", line 1122, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/io/parsers.py", line 1904, in __init__
+    self._set_noconvert_columns()
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/io/parsers.py", line 1973, in _set_noconvert_columns
+    _set(val)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/io/parsers.py", line 1963, in _set
+    x = names.index(x)
+ValueError: 'timestamp' is not in list

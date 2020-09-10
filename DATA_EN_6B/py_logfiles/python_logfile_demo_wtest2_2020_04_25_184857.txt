@@ -1,0 +1,30 @@
+25/04/2020 06:48:57 PM Python Script is: morePVs.py
+25/04/2020 06:48:57 PM study_name = demo_wtest2
+25/04/2020 06:49:01 PM NumExpr defaulting to 2 threads.
+25/04/2020 06:49:01 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest2\saved_tariffs\static_import_tariffs.csv
+25/04/2020 06:49:01 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest2\saved_tariffs\static_solar_import_tariffs.csv
+25/04/2020 06:49:02 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest2\saved_tariffs\static_export_tariffs.csv
+25/04/2020 06:49:02 PM Running Scenario number 0 
+25/04/2020 06:49:03 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest2\scenarios\demo_wtest2_000.csv
+25/04/2020 06:49:07 PM Completed Scenario 0
+25/04/2020 06:49:07 PM Running Scenario number 1 
+25/04/2020 06:49:09 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest2\scenarios\demo_wtest2_001.csv
+25/04/2020 06:49:09 PM Completed Scenario 1
+25/04/2020 06:49:09 PM Running Scenario number 2 
+25/04/2020 06:49:16 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wtest2\scenarios\demo_wtest2_002.csv
+25/04/2020 06:49:17 PM Completed Scenario 2
+25/04/2020 06:49:17 PM Running Scenario number 3 
+25/04/2020 06:49:22 PM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "morePVs.py", line 2639, in main
+    runScenario(s)
+  File "morePVs.py", line 2558, in runScenario
+    scenario = Scenario(scenario_name=scenario_name)
+  File "morePVs.py", line 1874, in __init__
+    exit(msg)
+  File "C:\Users\ariji\Anaconda3\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: ******Exception: Tariff DMO_EN_FLAT_20 is not in tariff_lookup.csv

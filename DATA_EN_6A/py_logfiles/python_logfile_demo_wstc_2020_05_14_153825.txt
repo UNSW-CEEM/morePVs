@@ -1,0 +1,29 @@
+14/05/2020 03:38:25 PM Python Script is: morePVs.py
+14/05/2020 03:38:25 PM study_name = demo_wstc
+14/05/2020 03:38:38 PM NumExpr defaulting to 2 threads.
+14/05/2020 03:38:42 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wstc\saved_tariffs\static_import_tariffs.csv
+14/05/2020 03:38:43 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wstc\saved_tariffs\static_solar_import_tariffs.csv
+14/05/2020 03:38:43 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wstc\saved_tariffs\static_export_tariffs.csv
+14/05/2020 03:38:43 PM Running Scenario number 0 
+14/05/2020 03:38:49 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wstc\scenarios\demo_wstc_000.csv
+14/05/2020 03:38:55 PM Completed Scenario 0
+14/05/2020 03:38:55 PM Running Scenario number 1 
+14/05/2020 03:39:15 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wstc\scenarios\demo_wstc_001.csv
+14/05/2020 03:39:17 PM Completed Scenario 1
+14/05/2020 03:39:17 PM Running Scenario number 2 
+14/05/2020 03:39:35 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wstc\scenarios\demo_wstc_002.csv
+14/05/2020 03:39:37 PM Completed Scenario 2
+14/05/2020 03:39:37 PM Running Scenario number 3 
+14/05/2020 03:39:59 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wstc\scenarios\demo_wstc_003.csv
+14/05/2020 03:40:02 PM Completed Scenario 3
+14/05/2020 03:40:02 PM Running Scenario number 4 
+14/05/2020 03:40:21 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wstc\scenarios\demo_wstc_004.csv
+14/05/2020 03:40:23 PM Completed Scenario 4
+14/05/2020 03:40:23 PM Running Scenario number 5 
+14/05/2020 03:40:47 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wstc\scenarios\demo_wstc_005.csv
+14/05/2020 03:40:49 PM Completed Scenario 5
+14/05/2020 03:40:49 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wstc\demo_wstc_customer_results.csv
+14/05/2020 03:40:49 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wstc\demo_wstc_results.csv
+14/05/2020 03:40:49 PM ***COMPLETED STUDY demo_wstc ***
+14/05/2020 03:40:49 PM  ********* Completed 6 scenarios in 143.000000 **************
+14/05/2020 03:40:49 PM  ********* Time per Scenario is  23.833333 **************

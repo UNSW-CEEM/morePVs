@@ -1,0 +1,20 @@
+17/05/2020 01:11:09 AM Python Script is: morePVs.py
+17/05/2020 01:11:09 AM study_name = demo_wfinal
+17/05/2020 01:11:10 AM NumExpr defaulting to 2 threads.
+17/05/2020 01:11:11 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wfinal\saved_tariffs\static_import_tariffs.csv
+17/05/2020 01:11:11 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wfinal\saved_tariffs\static_solar_import_tariffs.csv
+17/05/2020 01:11:12 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wfinal\saved_tariffs\static_export_tariffs.csv
+17/05/2020 01:11:12 AM Running Scenario number 0 
+17/05/2020 01:11:19 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wfinal\scenarios\demo_wfinal_000.csv
+17/05/2020 01:11:21 AM Completed Scenario 0
+17/05/2020 01:11:21 AM Running Scenario number 1 
+17/05/2020 01:11:30 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wfinal\scenarios\demo_wfinal_001.csv
+17/05/2020 01:11:32 AM Completed Scenario 1
+17/05/2020 01:11:32 AM Running Scenario number 2 
+17/05/2020 01:11:42 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wfinal\scenarios\demo_wfinal_002.csv
+17/05/2020 01:11:46 AM Completed Scenario 2
+17/05/2020 01:11:46 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wfinal\demo_wfinal_customer_results.csv
+17/05/2020 01:11:46 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wfinal\demo_wfinal_results.csv
+17/05/2020 01:11:46 AM ***COMPLETED STUDY demo_wfinal ***
+17/05/2020 01:11:46 AM  ********* Completed 3 scenarios in 37.000000 **************
+17/05/2020 01:11:46 AM  ********* Time per Scenario is  12.333333 **************

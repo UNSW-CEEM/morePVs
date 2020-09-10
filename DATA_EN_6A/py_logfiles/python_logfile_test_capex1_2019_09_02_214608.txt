@@ -1,0 +1,11 @@
+02/09/2019 09:46:08 PM Python Script is: morePVs.py
+02/09/2019 09:46:08 PM study_name = test_capex1
+02/09/2019 09:46:09 PM Running Scenario number 1 
+02/09/2019 09:46:11 PM Completed Scenario 1
+02/09/2019 09:46:11 PM Running Scenario number 2 
+02/09/2019 09:46:15 PM Completed Scenario 2
+02/09/2019 09:46:15 PM Running Scenario number 0 
+02/09/2019 09:46:16 PM Completed Scenario 0
+02/09/2019 09:46:16 PM ***COMPLETED STUDY test_capex1 ***
+02/09/2019 09:46:16 PM  ********* Completed 3 scenarios in 7.000000 **************
+02/09/2019 09:46:16 PM  ********* Time per Scenario is  2.333333 **************

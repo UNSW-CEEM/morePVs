@@ -1,0 +1,20 @@
+14/05/2020 05:56:17 PM Python Script is: morePVs.py
+14/05/2020 05:56:17 PM study_name = demo_wzero
+14/05/2020 05:56:37 PM NumExpr defaulting to 2 threads.
+14/05/2020 05:56:39 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wzero\saved_tariffs\static_import_tariffs.csv
+14/05/2020 05:56:40 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wzero\saved_tariffs\static_solar_import_tariffs.csv
+14/05/2020 05:56:42 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wzero\saved_tariffs\static_export_tariffs.csv
+14/05/2020 05:56:42 PM Running Scenario number 0 
+14/05/2020 05:57:09 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wzero\scenarios\demo_wzero_000.csv
+14/05/2020 05:57:19 PM Completed Scenario 0
+14/05/2020 05:57:19 PM Running Scenario number 1 
+14/05/2020 05:57:45 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wzero\scenarios\demo_wzero_001.csv
+14/05/2020 05:57:48 PM Completed Scenario 1
+14/05/2020 05:57:48 PM Running Scenario number 2 
+14/05/2020 05:58:12 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wzero\scenarios\demo_wzero_002.csv
+14/05/2020 05:58:17 PM Completed Scenario 2
+14/05/2020 05:58:18 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wzero\demo_wzero_customer_results.csv
+14/05/2020 05:58:18 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wzero\demo_wzero_results.csv
+14/05/2020 05:58:18 PM ***COMPLETED STUDY demo_wzero ***
+14/05/2020 05:58:18 PM  ********* Completed 3 scenarios in 120.000000 **************
+14/05/2020 05:58:18 PM  ********* Time per Scenario is  40.000000 **************

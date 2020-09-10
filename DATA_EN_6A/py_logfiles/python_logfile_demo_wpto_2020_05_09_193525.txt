@@ -1,0 +1,38 @@
+09/05/2020 07:35:25 PM Python Script is: morePVs.py
+09/05/2020 07:35:25 PM study_name = demo_wpto
+09/05/2020 07:35:29 PM NumExpr defaulting to 2 threads.
+09/05/2020 07:35:31 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wpto\saved_tariffs\static_import_tariffs.csv
+09/05/2020 07:35:32 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wpto\saved_tariffs\static_solar_import_tariffs.csv
+09/05/2020 07:35:32 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wpto\saved_tariffs\static_export_tariffs.csv
+09/05/2020 07:35:32 PM Running Scenario number 0 
+09/05/2020 07:35:35 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wpto\scenarios\demo_wpto_000.csv
+09/05/2020 07:35:36 PM Completed Scenario 0
+09/05/2020 07:35:36 PM Running Scenario number 1 
+09/05/2020 07:35:48 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wpto\scenarios\demo_wpto_001.csv
+09/05/2020 07:35:49 PM Completed Scenario 1
+09/05/2020 07:35:49 PM Running Scenario number 2 
+09/05/2020 07:36:01 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wpto\scenarios\demo_wpto_002.csv
+09/05/2020 07:36:01 PM Completed Scenario 2
+09/05/2020 07:36:01 PM Running Scenario number 3 
+09/05/2020 07:36:12 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wpto\scenarios\demo_wpto_003.csv
+09/05/2020 07:36:13 PM Completed Scenario 3
+09/05/2020 07:36:13 PM Running Scenario number 4 
+09/05/2020 07:36:27 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wpto\scenarios\demo_wpto_004.csv
+09/05/2020 07:36:28 PM Completed Scenario 4
+09/05/2020 07:36:28 PM Running Scenario number 5 
+09/05/2020 07:36:40 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wpto\scenarios\demo_wpto_005.csv
+09/05/2020 07:36:41 PM Completed Scenario 5
+09/05/2020 07:36:41 PM Running Scenario number 6 
+09/05/2020 07:36:51 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wpto\scenarios\demo_wpto_006.csv
+09/05/2020 07:36:52 PM Completed Scenario 6
+09/05/2020 07:36:52 PM Running Scenario number 7 
+09/05/2020 07:37:09 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wpto\scenarios\demo_wpto_007.csv
+09/05/2020 07:37:09 PM Completed Scenario 7
+09/05/2020 07:37:09 PM Running Scenario number 8 
+09/05/2020 07:37:26 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wpto\scenarios\demo_wpto_008.csv
+09/05/2020 07:37:27 PM Completed Scenario 8
+09/05/2020 07:37:27 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wpto\demo_wpto_customer_results.csv
+09/05/2020 07:37:27 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wpto\demo_wpto_results.csv
+09/05/2020 07:37:27 PM ***COMPLETED STUDY demo_wpto ***
+09/05/2020 07:37:27 PM  ********* Completed 9 scenarios in 122.000000 **************
+09/05/2020 07:37:27 PM  ********* Time per Scenario is  13.555556 **************

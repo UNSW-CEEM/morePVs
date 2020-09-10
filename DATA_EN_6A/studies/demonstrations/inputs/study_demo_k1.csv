@@ -1,0 +1,11 @@
+scenario,pv_filename,load_folder,arrangement,pv_cap_id,cp,all_residents,parent,network_tariff,en_capex_id,a_term,a_rate
+1,,K,bau,,EASO_TOU_15pc,EASO_TOU_15pc,TIDNULL,EA302,,10,0.06
+2,,K,bau,,EASO_TOU_15pc,EASO_TOU_15pc,TIDNULL,EA302,,20,0.06
+3,K_max_pv.csv,K,en_pv,K_max_pv,TIDNULL,TIDNULL,EA302_p_TOU12,EA302_p,capex_high,10,0.06
+4,K_max_pv.csv,K,en_pv,K_max_pv,TIDNULL,TIDNULL,EA302_p_TOU12,EA302_p,capex_high,20,0.06
+5,K_max_yield.csv,K,en_pv,K_max_yield,TIDNULL,TIDNULL,EA302_p_TOU12,EA302_p,capex_high,10,0.06
+6,K_max_yield.csv,K,en_pv,K_max_yield,TIDNULL,TIDNULL,EA302_p_TOU12,EA302_p,capex_high,20,0.06
+7,,K,en,,TIDNULL,TIDNULL,EA302_TOU9,EA302,capex_high,10,0.06
+8,,K,en,,TIDNULL,TIDNULL,EA302_TOU9,EA302,capex_high,20,0.06
+9,,K,en,,TIDNULL,TIDNULL,EA302_TOU12,EA302,capex_high,10,0.06
+10,,K,en,,TIDNULL,TIDNULL,EA302_TOU12,EA302,capex_high,20,0.06

@@ -1,0 +1,18 @@
+02/09/2019 09:45:27 PM Python Script is: morePVs.py
+02/09/2019 09:45:27 PM study_name = test_capex1
+02/09/2019 09:45:27 PM Running Scenario number 1 
+02/09/2019 09:45:30 PM Completed Scenario 1
+02/09/2019 09:45:30 PM Running Scenario number 2 
+02/09/2019 09:45:33 PM Completed Scenario 2
+02/09/2019 09:45:33 PM Running Scenario number 0 
+02/09/2019 09:45:34 PM Completed Scenario 0
+02/09/2019 09:45:34 PM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 2639, in main
+    study.logStudyData()
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 2542, in logStudyData
+    self.op.columns = self.op.columns.str.replac('_mean', '')
+AttributeError: 'StringMethods' object has no attribute 'replac'

@@ -1,0 +1,3 @@
+scenario,pv_filename,load_folder,arrangement,pv_cap_id,cp,all_residents,parent,network_tariff,en_capex_id,a_term,a_rate
+0,,A,bau,,test_flat,test_flat,TIDNULL,TIDNULL,capex_null,20,0.06
+1,,A,bau,,test_bq,test_bq,TIDNULL,TIDNULL,capex_null,20,0.06

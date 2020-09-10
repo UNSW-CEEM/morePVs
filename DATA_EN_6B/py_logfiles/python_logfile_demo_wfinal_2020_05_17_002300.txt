@@ -1,0 +1,14 @@
+17/05/2020 12:23:00 AM Python Script is: morePVs.py
+17/05/2020 12:23:00 AM study_name = demo_wfinal
+17/05/2020 12:23:04 AM NumExpr defaulting to 2 threads.
+17/05/2020 12:23:05 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wfinal\saved_tariffs\static_import_tariffs.csv
+17/05/2020 12:23:06 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wfinal\saved_tariffs\static_solar_import_tariffs.csv
+17/05/2020 12:23:06 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wfinal\saved_tariffs\static_export_tariffs.csv
+17/05/2020 12:23:06 AM Running Scenario number 0 
+17/05/2020 12:23:28 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wfinal\scenarios\demo_wfinal_000.csv
+17/05/2020 12:23:33 AM Completed Scenario 0
+17/05/2020 12:23:33 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wfinal\demo_wfinal_customer_results.csv
+17/05/2020 12:23:33 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wfinal\demo_wfinal_results.csv
+17/05/2020 12:23:33 AM ***COMPLETED STUDY demo_wfinal ***
+17/05/2020 12:23:33 AM  ********* Completed 1 scenarios in 32.000000 **************
+17/05/2020 12:23:33 AM  ********* Time per Scenario is  32.000000 **************

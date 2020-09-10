@@ -1,0 +1,387 @@
+22/04/2019 06:38:09 PM Python Script is: morePVs.py
+22/04/2019 06:38:09 PM study_name = abb_fb
+22/04/2019 06:38:09 PM Thread variable is False
+22/04/2019 06:38:10 PM 
+
+
+ Exception !!!!!!
+KeyboardInterrupt
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/mikeroberts/OneDrive - UNSW/python/en/morePVs.py", line 2647, in main
+    override_output=override_output)
+  File "/Users/mikeroberts/OneDrive - UNSW/python/en/morePVs.py", line 2518, in __init__
+    self.tariff_data.generateStaticTariffs()
+  File "/Users/mikeroberts/OneDrive - UNSW/python/en/morePVs.py", line 227, in generateStaticTariffs
+    um.df_to_csv(self.static_solar_imports, solar_name)
+  File "/Users/mikeroberts/OneDrive - UNSW/python/en/en_utilities.py", line 98, in df_to_csv
+    df.to_csv(path)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/generic.py", line 3020, in to_csv
+    formatter.save()
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/io/formats/csvs.py", line 172, in save
+    self._save()
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/io/formats/csvs.py", line 288, in _save
+    self._save_chunk(start_i, end_i)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/io/formats/csvs.py", line 302, in _save_chunk
+    quoting=self.quoting)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/internals/blocks.py", line 741, in to_native_types
+    values = values.astype(str)
+SystemError: <built-in method item of numpy.ndarray object at 0x11cda5710> returned a result with an error set

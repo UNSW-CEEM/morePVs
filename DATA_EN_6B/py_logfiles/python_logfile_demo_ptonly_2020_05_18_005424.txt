@@ -1,0 +1,17 @@
+18/05/2020 12:54:24 AM Python Script is: morePVs.py
+18/05/2020 12:54:24 AM study_name = demo_ptonly
+18/05/2020 12:54:25 AM NumExpr defaulting to 2 threads.
+18/05/2020 12:54:26 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_ptonly\saved_tariffs\static_import_tariffs.csv
+18/05/2020 12:54:26 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_ptonly\saved_tariffs\static_solar_import_tariffs.csv
+18/05/2020 12:54:26 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_ptonly\saved_tariffs\static_export_tariffs.csv
+18/05/2020 12:54:26 AM Running Scenario number 0 
+18/05/2020 12:54:38 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_ptonly\scenarios\demo_ptonly_000.csv
+18/05/2020 12:54:40 AM Completed Scenario 0
+18/05/2020 12:54:40 AM Running Scenario number 1 
+18/05/2020 12:54:54 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_ptonly\scenarios\demo_ptonly_001.csv
+18/05/2020 12:54:55 AM Completed Scenario 1
+18/05/2020 12:54:55 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_ptonly\demo_ptonly_customer_results.csv
+18/05/2020 12:54:55 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_ptonly\demo_ptonly_results.csv
+18/05/2020 12:54:55 AM ***COMPLETED STUDY demo_ptonly ***
+18/05/2020 12:54:55 AM  ********* Completed 2 scenarios in 31.000000 **************
+18/05/2020 12:54:55 AM  ********* Time per Scenario is  15.500000 **************

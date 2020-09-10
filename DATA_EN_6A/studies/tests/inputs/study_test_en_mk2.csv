@@ -1,0 +1,12 @@
+scenario,load_folder,pv_filename,arrangement,pv_cap_id,cp,all_residents,parent,network_tariff,en_capex_id,a_term,a_rate,central_kWp,cp_kWp,2_kWp,3_kWp,central_battery_id,central_battery_strategy,3_battery_id,3_battery_strategy,output_types
+2,test_2day2,pv_test2day_central,en_pv,testcap_pricepoint,EASO_TOU_15pc,EASO_TOU_15pc,TIDNULL,TIDNULL,capex_null,20,0.06,2,,,,,,,,log_timeseries_detailed
+3,test_2day2,pv_test2day_ind,en_pv,testcap_pricepoint,EASO_TOU_15pc,EASO_TOU_15pc,TIDNULL,TIDNULL,capex_null,20,0.06,,3,1,1,,,,,log_timeseries_detailed
+4,test_2day2,pv_test2day_all,en_pv,testcap_pricepoint,EASO_TOU_15pc,EASO_TOU_15pc,TIDNULL,TIDNULL,capex_null,20,0.06,2,3,1,1,,,,,log_timeseries_detailed
+5,test_2day2,pv_test2day_central,en_pv,testcap_pricepoint,EASO_TOU_15pc,EASO_TOU_15pc,TIDNULL,TIDNULL,capex_null,20,0.06,2,,,,,,,,log_timeseries_detailed
+6,test_2day2,pv_test2day_ind,en_pv,testcap_pricepoint,EASO_TOU_15pc,EASO_TOU_15pc,TIDNULL,TIDNULL,capex_null,20,0.06,,3,1,1,,,,,log_timeseries_detailed
+7,test_2day2,pv_test2day_all,en_pv,testcap_pricepoint,EASO_TOU_15pc,EASO_TOU_15pc,TIDNULL,TIDNULL,capex_null,20,0.06,2,3,1,1,,,,,log_timeseries_detailed
+8,test_2day2,pv_test2day_central,en_pv,testcap_pricepoint,EASO_TOU_15pc,EASO_TOU_15pc,TIDNULL,TIDNULL,capex_null,20,0.06,2,,,,testbess20,ed1700_cmax_dmax,,,log_timeseries_detailed
+9,test_2day2,pv_test2day_ind,en_pv,testcap_pricepoint,EASO_TOU_15pc,EASO_TOU_15pc,TIDNULL,TIDNULL,capex_null,20,0.06,,3,1,1,,,testbess10,ed1700_cmax_dmax,log_timeseries_detailed
+10,test_2day2,pv_test2day_all,en_pv,testcap_pricepoint,EASO_TOU_15pc,EASO_TOU_15pc,TIDNULL,TIDNULL,capex_null,20,0.06,2,3,1,1,testbess20,ed1700_cmax_dmax,testbess10,ed1700_cmax_dmax,log_timeseries_detailed
+0,test_2day2,,bau,,EASO_TOU_15pc,EASO_TOU_15pc,TIDNULL,TIDNULL,capex_null,20,0.06,,,,,,,,,log_timeseries_detailed
+1,test_2day2,,en,,EASO_TOU_15pc,EASO_TOU_15pc,TIDNULL,TIDNULL,capex_null,20,0.06,,,,,,,,,log_timeseries_detailed

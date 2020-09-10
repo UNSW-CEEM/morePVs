@@ -1,0 +1,21 @@
+14/05/2020 05:33:21 PM Python Script is: morePVs.py
+14/05/2020 05:33:21 PM study_name = demo_wzero
+14/05/2020 05:33:28 PM NumExpr defaulting to 2 threads.
+14/05/2020 05:33:29 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wzero\saved_tariffs\static_import_tariffs.csv
+14/05/2020 05:33:29 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wzero\saved_tariffs\static_solar_import_tariffs.csv
+14/05/2020 05:33:30 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wzero\saved_tariffs\static_export_tariffs.csv
+14/05/2020 05:33:30 PM Running Scenario number 0 
+14/05/2020 05:33:36 PM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "morePVs.py", line 2639, in main
+    runScenario(s)
+  File "morePVs.py", line 2558, in runScenario
+    scenario = Scenario(scenario_name=scenario_name)
+  File "morePVs.py", line 1874, in __init__
+    exit(msg)
+  File "C:\Users\ariji\Anaconda3\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: ******Exception: Tariff EN_FL_Z is not in tariff_lookup.csv

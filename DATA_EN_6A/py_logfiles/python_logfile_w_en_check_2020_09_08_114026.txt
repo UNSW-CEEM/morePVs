@@ -1,0 +1,24 @@
+08/09/2020 11:40:26 AM Python Script is: morePVs.py
+08/09/2020 11:40:26 AM study_name = w_en_check
+08/09/2020 11:40:26 AM Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+08/09/2020 11:40:26 AM NumExpr defaulting to 8 threads.
+08/09/2020 11:40:27 AM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6A\studies\demonstrations\outputs\w_en_check\saved_tariffs\static_import_tariffs.csv
+08/09/2020 11:40:27 AM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6A\studies\demonstrations\outputs\w_en_check\saved_tariffs\static_solar_import_tariffs.csv
+08/09/2020 11:40:27 AM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6A\studies\demonstrations\outputs\w_en_check\saved_tariffs\static_export_tariffs.csv
+08/09/2020 11:40:27 AM Running Scenario number 1 
+08/09/2020 11:40:28 AM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6A\studies\demonstrations\outputs\w_en_check\scenarios\w_en_check_001.csv
+08/09/2020 11:40:29 AM Completed Scenario 1
+08/09/2020 11:40:29 AM Running Scenario number 2 
+08/09/2020 11:40:30 AM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6A\studies\demonstrations\outputs\w_en_check\scenarios\w_en_check_002.csv
+08/09/2020 11:40:30 AM Completed Scenario 2
+08/09/2020 11:40:30 AM Running Scenario number 3 
+08/09/2020 11:40:33 AM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6A\studies\demonstrations\outputs\w_en_check\scenarios\w_en_check_003.csv
+08/09/2020 11:40:33 AM Completed Scenario 3
+08/09/2020 11:40:33 AM Running Scenario number 4 
+08/09/2020 11:40:35 AM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6A\studies\demonstrations\outputs\w_en_check\scenarios\w_en_check_004.csv
+08/09/2020 11:40:35 AM Completed Scenario 4
+08/09/2020 11:40:35 AM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6A\studies\demonstrations\outputs\w_en_check\w_en_check_customer_results.csv
+08/09/2020 11:40:35 AM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6A\studies\demonstrations\outputs\w_en_check\w_en_check_results.csv
+08/09/2020 11:40:35 AM ***COMPLETED STUDY w_en_check ***
+08/09/2020 11:40:35 AM  ********* Completed 4 scenarios in 9.000000 **************
+08/09/2020 11:40:35 AM  ********* Time per Scenario is  2.250000 **************

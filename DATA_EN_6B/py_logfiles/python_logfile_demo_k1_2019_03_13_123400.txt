@@ -1,0 +1,43 @@
+13/03/2019 12:34:00 PM Python Script is: morePVs.py
+13/03/2019 12:34:00 PM study_name = demo_k1
+13/03/2019 12:34:00 PM Thread variable is False
+13/03/2019 12:34:02 PM saved to C:\Users\z5044992\OneDrive - UNSW\python\en\DATA_EN_5\studies\demonstrations\outputs\demo_k1\saved_tariffs\static_import_tariffs.csv
+13/03/2019 12:34:02 PM saved to C:\Users\z5044992\OneDrive - UNSW\python\en\DATA_EN_5\studies\demonstrations\outputs\demo_k1\saved_tariffs\static_solar_import_tariffs.csv
+13/03/2019 12:34:02 PM saved to C:\Users\z5044992\OneDrive - UNSW\python\en\DATA_EN_5\studies\demonstrations\outputs\demo_k1\saved_tariffs\static_export_tariffs.csv
+13/03/2019 12:34:02 PM NOT THREADING
+13/03/2019 12:34:02 PM Running Scenario number 1 
+13/03/2019 12:34:03 PM saved to C:\Users\z5044992\OneDrive - UNSW\python\en\DATA_EN_5\studies\demonstrations\outputs\demo_k1\scenarios\demo_k1_001.csv
+13/03/2019 12:34:03 PM Completed Scenario 1
+13/03/2019 12:34:03 PM Running Scenario number 2 
+13/03/2019 12:34:04 PM saved to C:\Users\z5044992\OneDrive - UNSW\python\en\DATA_EN_5\studies\demonstrations\outputs\demo_k1\scenarios\demo_k1_002.csv
+13/03/2019 12:34:04 PM Completed Scenario 2
+13/03/2019 12:34:04 PM Running Scenario number 3 
+13/03/2019 12:34:04 PM saved to C:\Users\z5044992\OneDrive - UNSW\python\en\DATA_EN_5\studies\demonstrations\outputs\demo_k1\scenarios\demo_k1_003.csv
+13/03/2019 12:34:04 PM Completed Scenario 3
+13/03/2019 12:34:04 PM Running Scenario number 4 
+13/03/2019 12:34:05 PM saved to C:\Users\z5044992\OneDrive - UNSW\python\en\DATA_EN_5\studies\demonstrations\outputs\demo_k1\scenarios\demo_k1_004.csv
+13/03/2019 12:34:05 PM Completed Scenario 4
+13/03/2019 12:34:05 PM Running Scenario number 5 
+13/03/2019 12:34:05 PM saved to C:\Users\z5044992\OneDrive - UNSW\python\en\DATA_EN_5\studies\demonstrations\outputs\demo_k1\scenarios\demo_k1_005.csv
+13/03/2019 12:34:05 PM Completed Scenario 5
+13/03/2019 12:34:05 PM Running Scenario number 6 
+13/03/2019 12:34:06 PM saved to C:\Users\z5044992\OneDrive - UNSW\python\en\DATA_EN_5\studies\demonstrations\outputs\demo_k1\scenarios\demo_k1_006.csv
+13/03/2019 12:34:06 PM Completed Scenario 6
+13/03/2019 12:34:06 PM Running Scenario number 7 
+13/03/2019 12:34:06 PM saved to C:\Users\z5044992\OneDrive - UNSW\python\en\DATA_EN_5\studies\demonstrations\outputs\demo_k1\scenarios\demo_k1_007.csv
+13/03/2019 12:34:06 PM Completed Scenario 7
+13/03/2019 12:34:06 PM Running Scenario number 8 
+13/03/2019 12:34:07 PM saved to C:\Users\z5044992\OneDrive - UNSW\python\en\DATA_EN_5\studies\demonstrations\outputs\demo_k1\scenarios\demo_k1_008.csv
+13/03/2019 12:34:07 PM Completed Scenario 8
+13/03/2019 12:34:07 PM Running Scenario number 9 
+13/03/2019 12:34:08 PM saved to C:\Users\z5044992\OneDrive - UNSW\python\en\DATA_EN_5\studies\demonstrations\outputs\demo_k1\scenarios\demo_k1_009.csv
+13/03/2019 12:34:08 PM Completed Scenario 9
+13/03/2019 12:34:08 PM Running Scenario number 10 
+13/03/2019 12:34:08 PM saved to C:\Users\z5044992\OneDrive - UNSW\python\en\DATA_EN_5\studies\demonstrations\outputs\demo_k1\scenarios\demo_k1_010.csv
+13/03/2019 12:34:08 PM Completed Scenario 10
+13/03/2019 12:34:08 PM saved to C:\Users\z5044992\OneDrive - UNSW\python\en\DATA_EN_5\studies\demonstrations\outputs\demo_k1\demo_k1_customer_results.csv
+13/03/2019 12:34:08 PM saved to C:\Users\z5044992\OneDrive - UNSW\python\en\DATA_EN_5\studies\demonstrations\outputs\demo_k1\demo_k1_results_std_dev.csv
+13/03/2019 12:34:08 PM saved to C:\Users\z5044992\OneDrive - UNSW\python\en\DATA_EN_5\studies\demonstrations\outputs\demo_k1\demo_k1_results.csv
+13/03/2019 12:34:08 PM ***COMPLETED STUDY demo_k1 ***
+13/03/2019 12:34:08 PM  ********* Completed 10 scenarios in 8.000000 **************
+13/03/2019 12:34:08 PM  ********* Time per Scenario is  0.800000 **************

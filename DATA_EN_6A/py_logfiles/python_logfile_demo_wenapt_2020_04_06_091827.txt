@@ -1,0 +1,130 @@
+06/04/2020 09:18:27 AM Python Script is: morePVs.py
+06/04/2020 09:18:27 AM study_name = demo_wenapt
+06/04/2020 09:18:28 AM NumExpr defaulting to 2 threads.
+06/04/2020 09:18:29 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\saved_tariffs\static_import_tariffs.csv
+06/04/2020 09:18:30 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\saved_tariffs\static_solar_import_tariffs.csv
+06/04/2020 09:18:30 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\saved_tariffs\static_export_tariffs.csv
+06/04/2020 09:18:30 AM Running Scenario number 0 
+06/04/2020 09:18:33 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\timeseries_d\demo_wenapt_000_bau_W_building_profile_kWh.csv
+06/04/2020 09:18:33 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_000.csv
+06/04/2020 09:18:36 AM Completed Scenario 0
+06/04/2020 09:18:36 AM Running Scenario number 1 
+06/04/2020 09:18:42 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_001.csv
+06/04/2020 09:18:43 AM Completed Scenario 1
+06/04/2020 09:18:43 AM Running Scenario number 2 
+06/04/2020 09:18:50 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_002.csv
+06/04/2020 09:18:51 AM Completed Scenario 2
+06/04/2020 09:18:51 AM Running Scenario number 3 
+06/04/2020 09:19:01 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\timeseries_d\demo_wenapt_003_en_pv_W_building_profile_kWh.csv
+06/04/2020 09:19:01 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_003.csv
+06/04/2020 09:19:02 AM Completed Scenario 3
+06/04/2020 09:19:02 AM Running Scenario number 4 
+06/04/2020 09:19:10 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_004.csv
+06/04/2020 09:19:11 AM Completed Scenario 4
+06/04/2020 09:19:11 AM Running Scenario number 5 
+06/04/2020 09:19:20 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_005.csv
+06/04/2020 09:19:22 AM Completed Scenario 5
+06/04/2020 09:19:22 AM Running Scenario number 6 
+06/04/2020 09:19:33 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\timeseries_d\demo_wenapt_006_en_pv_W_building_profile_kWh.csv
+06/04/2020 09:19:33 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_006.csv
+06/04/2020 09:19:34 AM Completed Scenario 6
+06/04/2020 09:19:34 AM Running Scenario number 7 
+06/04/2020 09:19:43 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_007.csv
+06/04/2020 09:19:44 AM Completed Scenario 7
+06/04/2020 09:19:44 AM Running Scenario number 8 
+06/04/2020 09:19:53 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_008.csv
+06/04/2020 09:19:54 AM Completed Scenario 8
+06/04/2020 09:19:54 AM Running Scenario number 9 
+06/04/2020 09:20:04 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_009.csv
+06/04/2020 09:20:05 AM Completed Scenario 9
+06/04/2020 09:20:05 AM Running Scenario number 10 
+06/04/2020 09:20:16 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_010.csv
+06/04/2020 09:20:19 AM Completed Scenario 10
+06/04/2020 09:20:19 AM Running Scenario number 11 
+06/04/2020 09:21:34 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_011.csv
+06/04/2020 09:21:51 AM Completed Scenario 11
+06/04/2020 09:21:51 AM Running Scenario number 12 
+06/04/2020 09:23:03 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_012.csv
+06/04/2020 09:23:07 AM Completed Scenario 12
+06/04/2020 09:23:07 AM Running Scenario number 13 
+06/04/2020 09:24:00 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_013.csv
+06/04/2020 09:24:02 AM Completed Scenario 13
+06/04/2020 09:24:02 AM Running Scenario number 14 
+06/04/2020 09:25:14 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_014.csv
+06/04/2020 09:25:17 AM Completed Scenario 14
+06/04/2020 09:25:17 AM Running Scenario number 15 
+06/04/2020 09:25:41 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_015.csv
+06/04/2020 09:25:42 AM Completed Scenario 15
+06/04/2020 09:25:42 AM Running Scenario number 16 
+06/04/2020 09:25:56 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_016.csv
+06/04/2020 09:25:57 AM Completed Scenario 16
+06/04/2020 09:25:57 AM Running Scenario number 17 
+06/04/2020 09:26:07 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_017.csv
+06/04/2020 09:26:08 AM Completed Scenario 17
+06/04/2020 09:26:08 AM Running Scenario number 18 
+06/04/2020 09:26:19 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_018.csv
+06/04/2020 09:26:22 AM Completed Scenario 18
+06/04/2020 09:26:22 AM Running Scenario number 19 
+06/04/2020 09:26:25 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_019.csv
+06/04/2020 09:26:27 AM Completed Scenario 19
+06/04/2020 09:26:27 AM Running Scenario number 20 
+06/04/2020 09:26:37 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_020.csv
+06/04/2020 09:26:38 AM Completed Scenario 20
+06/04/2020 09:26:38 AM Running Scenario number 21 
+06/04/2020 09:26:58 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_021.csv
+06/04/2020 09:27:01 AM Completed Scenario 21
+06/04/2020 09:27:01 AM Running Scenario number 22 
+06/04/2020 09:27:27 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\timeseries_d\demo_wenapt_022_en_pv_W_building_profile_kWh.csv
+06/04/2020 09:27:27 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_022.csv
+06/04/2020 09:27:30 AM Completed Scenario 22
+06/04/2020 09:27:30 AM Running Scenario number 23 
+06/04/2020 09:27:55 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_023.csv
+06/04/2020 09:28:00 AM Completed Scenario 23
+06/04/2020 09:28:00 AM Running Scenario number 24 
+06/04/2020 09:28:38 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_024.csv
+06/04/2020 09:28:45 AM Completed Scenario 24
+06/04/2020 09:28:45 AM Running Scenario number 25 
+06/04/2020 09:29:42 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\timeseries_d\demo_wenapt_025_en_pv_W_building_profile_kWh.csv
+06/04/2020 09:29:42 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_025.csv
+06/04/2020 09:29:45 AM Completed Scenario 25
+06/04/2020 09:29:45 AM Running Scenario number 26 
+06/04/2020 09:30:09 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_026.csv
+06/04/2020 09:30:13 AM Completed Scenario 26
+06/04/2020 09:30:13 AM Running Scenario number 27 
+06/04/2020 09:30:46 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_027.csv
+06/04/2020 09:30:54 AM Completed Scenario 27
+06/04/2020 09:30:54 AM Running Scenario number 28 
+06/04/2020 09:31:50 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_028.csv
+06/04/2020 09:31:52 AM Completed Scenario 28
+06/04/2020 09:31:53 AM Running Scenario number 29 
+06/04/2020 09:32:27 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_029.csv
+06/04/2020 09:32:32 AM Completed Scenario 29
+06/04/2020 09:32:33 AM Running Scenario number 30 
+06/04/2020 09:33:07 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_030.csv
+06/04/2020 09:33:14 AM Completed Scenario 30
+06/04/2020 09:33:15 AM Running Scenario number 31 
+06/04/2020 09:33:44 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_031.csv
+06/04/2020 09:33:45 AM Completed Scenario 31
+06/04/2020 09:33:46 AM Running Scenario number 32 
+06/04/2020 09:34:11 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_032.csv
+06/04/2020 09:34:13 AM Completed Scenario 32
+06/04/2020 09:34:13 AM Running Scenario number 33 
+06/04/2020 09:34:34 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_033.csv
+06/04/2020 09:34:36 AM Completed Scenario 33
+06/04/2020 09:34:36 AM Running Scenario number 34 
+06/04/2020 09:34:47 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_034.csv
+06/04/2020 09:34:49 AM Completed Scenario 34
+06/04/2020 09:34:49 AM Running Scenario number 35 
+06/04/2020 09:35:17 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_035.csv
+06/04/2020 09:35:19 AM Completed Scenario 35
+06/04/2020 09:35:19 AM Running Scenario number 36 
+06/04/2020 09:35:37 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_036.csv
+06/04/2020 09:35:39 AM Completed Scenario 36
+06/04/2020 09:35:39 AM Running Scenario number 37 
+06/04/2020 09:35:55 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\scenarios\demo_wenapt_037.csv
+06/04/2020 09:35:57 AM Completed Scenario 37
+06/04/2020 09:35:57 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\demo_wenapt_customer_results.csv
+06/04/2020 09:35:57 AM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wenapt\demo_wenapt_results.csv
+06/04/2020 09:35:57 AM ***COMPLETED STUDY demo_wenapt ***
+06/04/2020 09:35:57 AM  ********* Completed 38 scenarios in 1050.000000 **************
+06/04/2020 09:35:57 AM  ********* Time per Scenario is  27.631579 **************

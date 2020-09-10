@@ -1,0 +1,23 @@
+08/05/2020 11:43:10 PM Python Script is: morePVs.py
+08/05/2020 11:43:10 PM study_name = demo_wstc
+08/05/2020 11:43:40 PM NumExpr defaulting to 2 threads.
+08/05/2020 11:43:47 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wstc\saved_tariffs\static_import_tariffs.csv
+08/05/2020 11:43:48 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wstc\saved_tariffs\static_solar_import_tariffs.csv
+08/05/2020 11:43:49 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wstc\saved_tariffs\static_export_tariffs.csv
+08/05/2020 11:43:49 PM Running Scenario number 0 
+08/05/2020 11:43:55 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wstc\scenarios\demo_wstc_000.csv
+08/05/2020 11:44:02 PM Completed Scenario 0
+08/05/2020 11:44:02 PM Running Scenario number 1 
+08/05/2020 11:44:25 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wstc\scenarios\demo_wstc_001.csv
+08/05/2020 11:44:28 PM Completed Scenario 1
+08/05/2020 11:44:28 PM Running Scenario number 2 
+08/05/2020 11:44:54 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wstc\scenarios\demo_wstc_002.csv
+08/05/2020 11:44:56 PM Completed Scenario 2
+08/05/2020 11:44:56 PM Running Scenario number 3 
+08/05/2020 11:45:21 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wstc\scenarios\demo_wstc_003.csv
+08/05/2020 11:45:24 PM Completed Scenario 3
+08/05/2020 11:45:24 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wstc\demo_wstc_customer_results.csv
+08/05/2020 11:45:24 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_wstc\demo_wstc_results.csv
+08/05/2020 11:45:24 PM ***COMPLETED STUDY demo_wstc ***
+08/05/2020 11:45:24 PM  ********* Completed 4 scenarios in 133.000000 **************
+08/05/2020 11:45:24 PM  ********* Time per Scenario is  33.250000 **************

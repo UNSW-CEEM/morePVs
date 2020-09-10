@@ -1,0 +1,90 @@
+17/03/2020 12:16:22 PM Python Script is: morePVs.py
+17/03/2020 12:16:22 PM study_name = demo_windivpv
+17/03/2020 12:16:23 PM NumExpr defaulting to 2 threads.
+17/03/2020 12:16:25 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\saved_tariffs\static_import_tariffs.csv
+17/03/2020 12:16:26 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\saved_tariffs\static_solar_import_tariffs.csv
+17/03/2020 12:16:26 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\saved_tariffs\static_export_tariffs.csv
+17/03/2020 12:16:26 PM Running Scenario number 0 
+17/03/2020 12:16:29 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\scenarios\demo_windivpv_000.csv
+17/03/2020 12:16:34 PM Completed Scenario 0
+17/03/2020 12:16:34 PM Running Scenario number 1 
+17/03/2020 12:16:55 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\timeseries_d\demo_windivpv_001_btm_i_u_W_building_profile_kWh.csv
+17/03/2020 12:16:55 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\scenarios\demo_windivpv_001.csv
+17/03/2020 12:16:56 PM Completed Scenario 1
+17/03/2020 12:16:56 PM Running Scenario number 2 
+17/03/2020 12:17:19 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\scenarios\demo_windivpv_002.csv
+17/03/2020 12:17:20 PM Completed Scenario 2
+17/03/2020 12:17:20 PM Running Scenario number 3 
+17/03/2020 12:17:49 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\scenarios\demo_windivpv_003.csv
+17/03/2020 12:17:52 PM Completed Scenario 3
+17/03/2020 12:17:52 PM Running Scenario number 4 
+17/03/2020 12:18:34 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\scenarios\demo_windivpv_004.csv
+17/03/2020 12:18:38 PM Completed Scenario 4
+17/03/2020 12:18:38 PM Running Scenario number 5 
+17/03/2020 12:20:37 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\scenarios\demo_windivpv_005.csv
+17/03/2020 12:20:40 PM Completed Scenario 5
+17/03/2020 12:20:40 PM Running Scenario number 6 
+17/03/2020 12:21:33 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\scenarios\demo_windivpv_006.csv
+17/03/2020 12:21:36 PM Completed Scenario 6
+17/03/2020 12:21:36 PM Running Scenario number 7 
+17/03/2020 12:22:30 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\timeseries_d\demo_windivpv_007_btm_i_u_W_building_profile_kWh.csv
+17/03/2020 12:22:30 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\scenarios\demo_windivpv_007.csv
+17/03/2020 12:22:33 PM Completed Scenario 7
+17/03/2020 12:22:34 PM Running Scenario number 8 
+17/03/2020 12:23:46 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\scenarios\demo_windivpv_008.csv
+17/03/2020 12:23:49 PM Completed Scenario 8
+17/03/2020 12:23:49 PM Running Scenario number 9 
+17/03/2020 12:24:40 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\scenarios\demo_windivpv_009.csv
+17/03/2020 12:24:46 PM Completed Scenario 9
+17/03/2020 12:24:46 PM Running Scenario number 10 
+17/03/2020 12:25:59 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\scenarios\demo_windivpv_010.csv
+17/03/2020 12:26:02 PM Completed Scenario 10
+17/03/2020 12:26:02 PM Running Scenario number 11 
+17/03/2020 12:26:34 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\scenarios\demo_windivpv_011.csv
+17/03/2020 12:26:35 PM Completed Scenario 11
+17/03/2020 12:26:35 PM Running Scenario number 12 
+17/03/2020 12:27:02 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\scenarios\demo_windivpv_012.csv
+17/03/2020 12:27:04 PM Completed Scenario 12
+17/03/2020 12:27:04 PM Running Scenario number 13 
+17/03/2020 12:27:42 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\timeseries_d\demo_windivpv_013_btm_i_c_W_building_profile_kWh.csv
+17/03/2020 12:27:42 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\scenarios\demo_windivpv_013.csv
+17/03/2020 12:27:47 PM Completed Scenario 13
+17/03/2020 12:27:47 PM Running Scenario number 14 
+17/03/2020 12:29:22 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\scenarios\demo_windivpv_014.csv
+17/03/2020 12:29:27 PM Completed Scenario 14
+17/03/2020 12:29:28 PM Running Scenario number 15 
+17/03/2020 12:30:51 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\scenarios\demo_windivpv_015.csv
+17/03/2020 12:30:58 PM Completed Scenario 15
+17/03/2020 12:30:58 PM Running Scenario number 16 
+17/03/2020 12:32:30 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\scenarios\demo_windivpv_016.csv
+17/03/2020 12:32:33 PM Completed Scenario 16
+17/03/2020 12:32:33 PM Running Scenario number 17 
+17/03/2020 12:33:53 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\scenarios\demo_windivpv_017.csv
+17/03/2020 12:33:58 PM Completed Scenario 17
+17/03/2020 12:33:58 PM Running Scenario number 18 
+17/03/2020 12:35:28 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\scenarios\demo_windivpv_018.csv
+17/03/2020 12:35:33 PM Completed Scenario 18
+17/03/2020 12:35:33 PM Running Scenario number 19 
+17/03/2020 12:36:50 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\timeseries_d\demo_windivpv_019_btm_i_c_W_building_profile_kWh.csv
+17/03/2020 12:36:51 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\scenarios\demo_windivpv_019.csv
+17/03/2020 12:36:56 PM Completed Scenario 19
+17/03/2020 12:36:56 PM Running Scenario number 20 
+17/03/2020 12:38:35 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\scenarios\demo_windivpv_020.csv
+17/03/2020 12:38:40 PM Completed Scenario 20
+17/03/2020 12:38:40 PM Running Scenario number 21 
+17/03/2020 12:40:18 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\scenarios\demo_windivpv_021.csv
+17/03/2020 12:40:24 PM Completed Scenario 21
+17/03/2020 12:40:24 PM Running Scenario number 22 
+17/03/2020 12:41:59 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\scenarios\demo_windivpv_022.csv
+17/03/2020 12:42:05 PM Completed Scenario 22
+17/03/2020 12:42:05 PM Running Scenario number 23 
+17/03/2020 12:43:47 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\scenarios\demo_windivpv_023.csv
+17/03/2020 12:43:52 PM Completed Scenario 23
+17/03/2020 12:43:52 PM Running Scenario number 24 
+17/03/2020 12:45:30 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\scenarios\demo_windivpv_024.csv
+17/03/2020 12:45:35 PM Completed Scenario 24
+17/03/2020 12:45:36 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\demo_windivpv_customer_results.csv
+17/03/2020 12:45:36 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_windivpv\demo_windivpv_results.csv
+17/03/2020 12:45:36 PM ***COMPLETED STUDY demo_windivpv ***
+17/03/2020 12:45:36 PM  ********* Completed 25 scenarios in 1754.000000 **************
+17/03/2020 12:45:36 PM  ********* Time per Scenario is  70.160000 **************

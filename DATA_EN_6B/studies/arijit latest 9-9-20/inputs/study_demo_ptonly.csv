@@ -1,0 +1,16 @@
+﻿scenario,pv_filename,pv_scaleable,pv_kW_peak,load_folder,arrangement,pv_capex_scaleable,pv_cap_id,cp,all_residents,parent,network_tariff,en_capex_id,a_term,a_rate
+0,,FALSE,,W_new,bau,FALSE,,DMO_TOU,DMO_TOU,TIDNULL,EA305,,20,0.06
+1,W_max_pv_1kW.csv,TRUE,75,W_new,en_pv,TRUE,W_75_50,EN_PT_0_ZcD,EN_PT_0_ZcD,EN_P,EA305,capex_med,20,0.06
+2,W_max_pv_1kW.csv,TRUE,75,W_new,en_pv,TRUE,W_75_50,EN_PT_0_30cD,EN_PT_0_30cD,EN_P,EA305,capex_med,20,0.06
+3,W_max_pv_1kW.csv,TRUE,75,W_new,en_pv,TRUE,W_75_50,EN_PT_0_40cD,EN_PT_0_40cD,EN_P,EA305,capex_med,20,0.06
+4,W_max_pv_1kW.csv,TRUE,75,W_new,en_pv,TRUE,W_75_50,EN_PTO_0_ZcD,EN_PTO_0_ZcD,EN_P,EA305,capex_med,20,0.06
+5,W_max_pv_1kW.csv,TRUE,75,W_new,en_pv,TRUE,W_75_50,EN_PTO_0_30cD,EN_PTO_0_30cD,EN_P,EA305,capex_med,20,0.06
+6,W_max_pv_1kW.csv,TRUE,75,W_new,en_pv,TRUE,W_75_50,EN_PTO_0_40cD,EN_PTO_0_40cD,EN_P,EA305,capex_med,20,0.06
+7,W_max_pv_1kW.csv,TRUE,75,W_new,en_pv,TRUE,W_75_50,EN_PT_0_5cD,EN_PT_0_5cD,EN_P,EA305,capex_med,20,0.06
+8,W_max_pv_1kW.csv,TRUE,75,W_new,en_pv,TRUE,W_75_50,EN_PT_0_11cD,EN_PT_0_11cD,EN_P,EA305,capex_med,20,0.06
+9,W_max_pv_1kW.csv,TRUE,75,W_new,en_pv,TRUE,W_75_50,EN_PT_0_20cD,EN_PT_0_20cD,EN_P,EA305,capex_med,20,0.06
+10,W_max_pv_1kW.csv,TRUE,75,W_new,en_pv,TRUE,W_75_50,EN_PT_0_XcD,EN_PT_0_XcD,EN_P,EA305,capex_med,20,0.06
+11,W_max_pv_1kW.csv,TRUE,75,W_new,en_pv,TRUE,W_75_50,EN_PTO_0_5cD,EN_PTO_0_5cD,EN_P,EA305,capex_med,20,0.06
+12,W_max_pv_1kW.csv,TRUE,75,W_new,en_pv,TRUE,W_75_50,EN_PTO_0_11cD,EN_PTO_0_11cD,EN_P,EA305,capex_med,20,0.06
+13,W_max_pv_1kW.csv,TRUE,75,W_new,en_pv,TRUE,W_75_50,EN_PTO_0_20cD,EN_PTO_0_20cD,EN_P,EA305,capex_med,20,0.06
+14,W_max_pv_1kW.csv,TRUE,75,W_new,en_pv,TRUE,W_75_50,EN_PTO_0_XcD,EN_PTO_0_XcD,EN_P,EA305,capex_med,20,0.06

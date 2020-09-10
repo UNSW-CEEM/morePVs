@@ -1,0 +1,47 @@
+22/04/2019 08:19:41 PM Python Script is: morePVs.py
+22/04/2019 08:19:41 PM study_name = abb_f2
+22/04/2019 08:19:41 PM Thread variable is False
+22/04/2019 08:19:43 PM NOT THREADING
+22/04/2019 08:19:43 PM Running Scenario number 0 
+22/04/2019 08:19:44 PM Completed Scenario 0
+22/04/2019 08:19:44 PM Running Scenario number 1 
+22/04/2019 08:19:44 PM Completed Scenario 1
+22/04/2019 08:19:44 PM Running Scenario number 2 
+22/04/2019 08:19:44 PM Completed Scenario 2
+22/04/2019 08:19:44 PM Running Scenario number 3 
+22/04/2019 08:19:45 PM Completed Scenario 3
+22/04/2019 08:19:45 PM Running Scenario number 4 
+22/04/2019 08:19:45 PM Completed Scenario 4
+22/04/2019 08:19:45 PM Running Scenario number 5 
+22/04/2019 08:19:45 PM Completed Scenario 5
+22/04/2019 08:19:45 PM Running Scenario number 6 
+22/04/2019 08:19:45 PM Completed Scenario 6
+22/04/2019 08:19:45 PM Running Scenario number 7 
+22/04/2019 08:19:46 PM Completed Scenario 7
+22/04/2019 08:19:46 PM Running Scenario number 8 
+22/04/2019 08:19:46 PM Completed Scenario 8
+22/04/2019 08:19:46 PM Running Scenario number 9 
+22/04/2019 08:19:46 PM Completed Scenario 9
+22/04/2019 08:19:46 PM Running Scenario number 10 
+22/04/2019 08:19:47 PM Completed Scenario 10
+22/04/2019 08:19:47 PM Running Scenario number 11 
+22/04/2019 08:19:47 PM Completed Scenario 11
+22/04/2019 08:19:47 PM Running Scenario number 12 
+22/04/2019 08:19:47 PM Completed Scenario 12
+22/04/2019 08:19:47 PM Running Scenario number 13 
+22/04/2019 08:19:48 PM Completed Scenario 13
+22/04/2019 08:19:48 PM Running Scenario number 14 
+22/04/2019 08:19:48 PM Completed Scenario 14
+22/04/2019 08:19:48 PM Running Scenario number 15 
+22/04/2019 08:19:48 PM Completed Scenario 15
+22/04/2019 08:19:48 PM Running Scenario number 16 
+22/04/2019 08:19:49 PM Completed Scenario 16
+22/04/2019 08:19:49 PM Running Scenario number 17 
+22/04/2019 08:19:49 PM Completed Scenario 17
+22/04/2019 08:19:49 PM Running Scenario number 18 
+22/04/2019 08:19:49 PM Completed Scenario 18
+22/04/2019 08:19:49 PM Running Scenario number 19 
+22/04/2019 08:19:50 PM Completed Scenario 19
+22/04/2019 08:19:50 PM ***COMPLETED STUDY abb_f2 ***
+22/04/2019 08:19:50 PM  ********* Completed 20 scenarios in 8.000000 **************
+22/04/2019 08:19:50 PM  ********* Time per Scenario is  0.400000 **************

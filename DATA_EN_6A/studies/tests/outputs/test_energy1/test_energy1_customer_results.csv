@@ -1,0 +1,3 @@
+scenario,cust_bill_001_mean,cust_bill_001_std,cust_bill_002_mean,cust_bill_002_std,cust_solar_bill_001_mean,cust_solar_bill_001_std,cust_solar_bill_002_mean,cust_solar_bill_002_std,cust_total$_001_mean,cust_total$_001_std,cust_total$_002_mean,cust_total$_002_std
+0,5.22,,10.42,,0.0,,0.0,,5.22,,10.42,
+1,5.22,,,,0.0,,0.0,,5.22,,,

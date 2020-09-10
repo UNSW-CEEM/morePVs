@@ -1,0 +1,41 @@
+17/05/2020 11:26:40 PM Python Script is: morePVs.py
+17/05/2020 11:26:40 PM study_name = demo_ptonly
+17/05/2020 11:26:44 PM NumExpr defaulting to 2 threads.
+17/05/2020 11:26:46 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_ptonly\saved_tariffs\static_import_tariffs.csv
+17/05/2020 11:26:46 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_ptonly\saved_tariffs\static_solar_import_tariffs.csv
+17/05/2020 11:26:47 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_ptonly\saved_tariffs\static_export_tariffs.csv
+17/05/2020 11:26:47 PM Running Scenario number 0 
+17/05/2020 11:27:30 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_ptonly\scenarios\demo_ptonly_000.csv
+17/05/2020 11:27:32 PM Completed Scenario 0
+17/05/2020 11:27:32 PM saved to C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\DATA_EN_6\studies\demonstrations\outputs\demo_ptonly\demo_ptonly_customer_results.csv
+17/05/2020 11:27:32 PM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\en_utilities.py", line 102, in df_to_csv
+    df.to_csv(path)
+  File "C:\Users\ariji\Anaconda3\lib\site-packages\pandas\core\generic.py", line 3228, in to_csv
+    formatter.save()
+  File "C:\Users\ariji\Anaconda3\lib\site-packages\pandas\io\formats\csvs.py", line 183, in save
+    compression=self.compression,
+  File "C:\Users\ariji\Anaconda3\lib\site-packages\pandas\io\common.py", line 399, in _get_handle
+    f = open(path_or_buf, mode, encoding=encoding, newline="")
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\ariji\\OneDrive\\Desktop\\New folder\\morePVs-master\\DATA_EN_6\\studies\\demonstrations\\outputs\\demo_ptonly\\demo_ptonly_results.csv'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "morePVs.py", line 2641, in main
+    study.logStudyData()
+  File "morePVs.py", line 2547, in logStudyData
+    um.df_to_csv(self.op, opFile)
+  File "C:\Users\ariji\OneDrive\Desktop\New folder\morePVs-master\en_utilities.py", line 112, in df_to_csv
+    df.to_csv(path)
+  File "C:\Users\ariji\Anaconda3\lib\site-packages\pandas\core\generic.py", line 3228, in to_csv
+    formatter.save()
+  File "C:\Users\ariji\Anaconda3\lib\site-packages\pandas\io\formats\csvs.py", line 183, in save
+    compression=self.compression,
+  File "C:\Users\ariji\Anaconda3\lib\site-packages\pandas\io\common.py", line 399, in _get_handle
+    f = open(path_or_buf, mode, encoding=encoding, newline="")
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\ariji\\OneDrive\\Desktop\\New folder\\morePVs-master\\DATA_EN_6\\studies\\demonstrations\\outputs\\demo_ptonly\\demo_ptonly_results.csv'

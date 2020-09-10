@@ -1,0 +1,25 @@
+09/11/2018 05:28:57 PM Python Script is: morePVs.py
+09/11/2018 05:28:57 PM study_name = test_energy1
+09/11/2018 05:28:57 PM Thread variable is False
+09/11/2018 05:28:57 PM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "morePVs.py", line 2598, in main
+    override_output=override_output)
+  File "morePVs.py", line 2318, in __init__
+    self.study_parameters = pd.read_csv(study_file)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers.py", line 678, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers.py", line 440, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers.py", line 787, in __init__
+    self._make_engine(self.engine)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers.py", line 1014, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\pandas\io\parsers.py", line 1708, in __init__
+    self._reader = parsers.TextReader(src, **kwds)
+  File "pandas\_libs\parsers.pyx", line 384, in pandas._libs.parsers.TextReader.__cinit__
+  File "pandas\_libs\parsers.pyx", line 695, in pandas._libs.parsers.TextReader._setup_parser_source
+FileNotFoundError: File b'DATA_EN_5\\studies\\tests\\inputs\\study_test_energy1.csv' does not exist

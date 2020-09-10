@@ -1,0 +1,63 @@
+22/04/2019 11:10:33 AM Python Script is: morePVs.py
+22/04/2019 11:10:33 AM study_name = abb_f
+22/04/2019 11:10:33 AM Thread variable is False
+22/04/2019 11:10:35 AM NOT THREADING
+22/04/2019 11:10:35 AM Running Scenario number 0 
+22/04/2019 11:10:35 AM Completed Scenario 0
+22/04/2019 11:10:35 AM Running Scenario number 1 
+22/04/2019 11:10:36 AM Completed Scenario 1
+22/04/2019 11:10:36 AM Running Scenario number 2 
+22/04/2019 11:10:36 AM Completed Scenario 2
+22/04/2019 11:10:36 AM Running Scenario number 3 
+22/04/2019 11:10:36 AM Completed Scenario 3
+22/04/2019 11:10:36 AM Running Scenario number 4 
+22/04/2019 11:10:36 AM Completed Scenario 4
+22/04/2019 11:10:36 AM Running Scenario number 5 
+22/04/2019 11:10:37 AM Completed Scenario 5
+22/04/2019 11:10:37 AM Running Scenario number 6 
+22/04/2019 11:10:37 AM Completed Scenario 6
+22/04/2019 11:10:37 AM Running Scenario number 7 
+22/04/2019 11:10:37 AM Completed Scenario 7
+22/04/2019 11:10:37 AM Running Scenario number 8 
+22/04/2019 11:10:38 AM Completed Scenario 8
+22/04/2019 11:10:38 AM Running Scenario number 9 
+22/04/2019 11:10:38 AM Completed Scenario 9
+22/04/2019 11:10:38 AM Running Scenario number 10 
+22/04/2019 11:10:38 AM Completed Scenario 10
+22/04/2019 11:10:38 AM Running Scenario number 11 
+22/04/2019 11:10:38 AM Completed Scenario 11
+22/04/2019 11:10:38 AM Running Scenario number 12 
+22/04/2019 11:10:39 AM Completed Scenario 12
+22/04/2019 11:10:39 AM Running Scenario number 13 
+22/04/2019 11:10:39 AM Completed Scenario 13
+22/04/2019 11:10:39 AM Running Scenario number 14 
+22/04/2019 11:10:39 AM Completed Scenario 14
+22/04/2019 11:10:39 AM Running Scenario number 15 
+22/04/2019 11:10:40 AM Completed Scenario 15
+22/04/2019 11:10:40 AM Running Scenario number 16 
+22/04/2019 11:10:40 AM Completed Scenario 16
+22/04/2019 11:10:40 AM Running Scenario number 17 
+22/04/2019 11:10:40 AM Completed Scenario 17
+22/04/2019 11:10:40 AM Running Scenario number 18 
+22/04/2019 11:10:40 AM Completed Scenario 18
+22/04/2019 11:10:40 AM Running Scenario number 19 
+22/04/2019 11:10:41 AM Completed Scenario 19
+22/04/2019 11:10:41 AM Running Scenario number 20 
+22/04/2019 11:10:41 AM Completed Scenario 20
+22/04/2019 11:10:41 AM Running Scenario number 21 
+22/04/2019 11:10:41 AM Completed Scenario 21
+22/04/2019 11:10:41 AM Running Scenario number 22 
+22/04/2019 11:10:42 AM Completed Scenario 22
+22/04/2019 11:10:42 AM Running Scenario number 23 
+22/04/2019 11:10:42 AM Completed Scenario 23
+22/04/2019 11:10:42 AM Running Scenario number 24 
+22/04/2019 11:10:42 AM Completed Scenario 24
+22/04/2019 11:10:42 AM Running Scenario number 25 
+22/04/2019 11:10:42 AM Completed Scenario 25
+22/04/2019 11:10:42 AM Running Scenario number 26 
+22/04/2019 11:10:43 AM Completed Scenario 26
+22/04/2019 11:10:43 AM Running Scenario number 27 
+22/04/2019 11:10:43 AM Completed Scenario 27
+22/04/2019 11:10:43 AM ***COMPLETED STUDY abb_f ***
+22/04/2019 11:10:43 AM  ********* Completed 28 scenarios in 9.000000 **************
+22/04/2019 11:10:43 AM  ********* Time per Scenario is  0.321429 **************

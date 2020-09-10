@@ -1,0 +1,87 @@
+22/04/2019 06:38:18 PM Python Script is: morePVs.py
+22/04/2019 06:38:18 PM study_name = abb_fb
+22/04/2019 06:38:18 PM Thread variable is False
+22/04/2019 06:38:19 PM NOT THREADING
+22/04/2019 06:38:19 PM Running Scenario number 0 
+22/04/2019 06:38:20 PM Completed Scenario 0
+22/04/2019 06:38:20 PM Running Scenario number 1 
+22/04/2019 06:38:20 PM ***************Warning!!! Scenario 1 has cp_only arrangement with central battery(s)                                           - not included in this model
+22/04/2019 06:38:20 PM *************** For cp_only with battery, use cp_battery *******************
+22/04/2019 06:38:21 PM Completed Scenario 1
+22/04/2019 06:38:21 PM Running Scenario number 2 
+22/04/2019 06:38:21 PM ***************Warning!!! Scenario 2 has cp_only arrangement with central battery(s)                                           - not included in this model
+22/04/2019 06:38:21 PM *************** For cp_only with battery, use cp_battery *******************
+22/04/2019 06:38:22 PM Completed Scenario 2
+22/04/2019 06:38:22 PM Running Scenario number 3 
+22/04/2019 06:38:22 PM ***************Warning!!! Scenario 3 has cp_only arrangement with central battery(s)                                           - not included in this model
+22/04/2019 06:38:22 PM *************** For cp_only with battery, use cp_battery *******************
+22/04/2019 06:38:23 PM Completed Scenario 3
+22/04/2019 06:38:23 PM Running Scenario number 4 
+22/04/2019 06:38:23 PM ***************Warning!!! Scenario 4 has cp_only arrangement with central battery(s)                                           - not included in this model
+22/04/2019 06:38:23 PM *************** For cp_only with battery, use cp_battery *******************
+22/04/2019 06:38:23 PM Completed Scenario 4
+22/04/2019 06:38:23 PM Running Scenario number 5 
+22/04/2019 06:38:24 PM ***************Warning!!! Scenario 5 has cp_only arrangement with central battery(s)                                           - not included in this model
+22/04/2019 06:38:24 PM *************** For cp_only with battery, use cp_battery *******************
+22/04/2019 06:38:24 PM Completed Scenario 5
+22/04/2019 06:38:24 PM Running Scenario number 6 
+22/04/2019 06:38:24 PM ***************Warning!!! Scenario 6 has cp_only arrangement with central battery(s)                                           - not included in this model
+22/04/2019 06:38:24 PM *************** For cp_only with battery, use cp_battery *******************
+22/04/2019 06:38:25 PM Completed Scenario 6
+22/04/2019 06:38:25 PM Running Scenario number 14 
+22/04/2019 06:38:26 PM Completed Scenario 14
+22/04/2019 06:38:26 PM Running Scenario number 15 
+22/04/2019 06:38:26 PM ***************Warning!!! Scenario 15 has cp_only arrangement with central battery(s)                                           - not included in this model
+22/04/2019 06:38:26 PM *************** For cp_only with battery, use cp_battery *******************
+22/04/2019 06:38:26 PM Completed Scenario 15
+22/04/2019 06:38:26 PM Running Scenario number 16 
+22/04/2019 06:38:27 PM ***************Warning!!! Scenario 16 has cp_only arrangement with central battery(s)                                           - not included in this model
+22/04/2019 06:38:27 PM *************** For cp_only with battery, use cp_battery *******************
+22/04/2019 06:38:27 PM Completed Scenario 16
+22/04/2019 06:38:27 PM Running Scenario number 17 
+22/04/2019 06:38:28 PM ***************Warning!!! Scenario 17 has cp_only arrangement with central battery(s)                                           - not included in this model
+22/04/2019 06:38:28 PM *************** For cp_only with battery, use cp_battery *******************
+22/04/2019 06:38:28 PM Completed Scenario 17
+22/04/2019 06:38:28 PM Running Scenario number 18 
+22/04/2019 06:38:28 PM ***************Warning!!! Scenario 18 has cp_only arrangement with central battery(s)                                           - not included in this model
+22/04/2019 06:38:28 PM *************** For cp_only with battery, use cp_battery *******************
+22/04/2019 06:38:29 PM Completed Scenario 18
+22/04/2019 06:38:29 PM Running Scenario number 19 
+22/04/2019 06:38:29 PM ***************Warning!!! Scenario 19 has cp_only arrangement with central battery(s)                                           - not included in this model
+22/04/2019 06:38:29 PM *************** For cp_only with battery, use cp_battery *******************
+22/04/2019 06:38:30 PM Completed Scenario 19
+22/04/2019 06:38:30 PM Running Scenario number 20 
+22/04/2019 06:38:30 PM ***************Warning!!! Scenario 20 has cp_only arrangement with central battery(s)                                           - not included in this model
+22/04/2019 06:38:30 PM *************** For cp_only with battery, use cp_battery *******************
+22/04/2019 06:38:31 PM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "/Users/mikeroberts/OneDrive - UNSW/python/en/morePVs.py", line 2664, in main
+    runScenario(s)
+  File "/Users/mikeroberts/OneDrive - UNSW/python/en/morePVs.py", line 2623, in runScenario
+    scenario.logScenarioData()
+  File "/Users/mikeroberts/OneDrive - UNSW/python/en/morePVs.py", line 2316, in logScenarioData
+    study.op.loc[self.name,stdcols[i]] = self.results.loc[:,c].std(axis=0)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 190, in __setitem__
+    self._setitem_with_indexer(indexer, value)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 620, in _setitem_with_indexer
+    setter(item, value)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 539, in setter
+    s._data = s._data.setitem(indexer=pi, value=v)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/internals/managers.py", line 510, in setitem
+    return self.apply('setitem', **kwargs)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/internals/managers.py", line 395, in apply
+    applied = getattr(b, f)(**kwargs)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/internals/blocks.py", line 924, in setitem
+    block = self.make_block(transf(values))
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/internals/blocks.py", line 223, in make_block
+    return make_block(values, placement=placement, ndim=ndim)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/internals/blocks.py", line 3088, in make_block
+    klass = get_block_type(values, dtype)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/internals/blocks.py", line 3058, in get_block_type
+    elif is_datetime64tz_dtype(values):
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/dtypes/common.py", line 469, in is_datetime64tz_dtype
+    return DatetimeTZDtype.is_dtype(arr_or_dtype)
+KeyboardInterrupt

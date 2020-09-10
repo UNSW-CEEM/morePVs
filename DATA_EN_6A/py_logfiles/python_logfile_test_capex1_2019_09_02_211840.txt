@@ -1,0 +1,15 @@
+02/09/2019 09:18:40 PM Python Script is: morePVs.py
+02/09/2019 09:18:40 PM study_name = test_capex1
+02/09/2019 09:18:40 PM Running Scenario number 1 
+02/09/2019 09:18:42 PM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 2630, in main
+    runScenario(s)
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 2597, in runScenario
+    scenario.calcFinancials(eno)
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 2151, in calcFinancials
+    + self.total_battery_capex_repayment)*100 - net.total_building_payment
+TypeError: unsupported operand type(s) for +: 'float' and 'dict'

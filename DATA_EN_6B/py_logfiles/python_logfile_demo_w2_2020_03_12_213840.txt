@@ -1,0 +1,18 @@
+12/03/2020 09:38:40 PM Python Script is: morePVs.py
+12/03/2020 09:38:40 PM study_name = demo_w2
+12/03/2020 09:38:41 PM Running Scenario number 0 
+12/03/2020 09:38:48 PM Completed Scenario 0
+12/03/2020 09:38:48 PM Running Scenario number 1 
+12/03/2020 09:38:54 PM Completed Scenario 1
+12/03/2020 09:38:54 PM Running Scenario number 2 
+12/03/2020 09:38:59 PM Completed Scenario 2
+12/03/2020 09:38:59 PM Running Scenario number 3 
+12/03/2020 09:39:05 PM Completed Scenario 3
+12/03/2020 09:39:05 PM Running Scenario number 4 
+12/03/2020 09:39:40 PM **************CHECKSUM ERROR************************
+12/03/2020 09:39:40 PM Study: demo_w2  Scenario: 4.0 
+12/03/2020 09:39:40 PM Tot Building Cost 20269853.892539 Checksum -9427962.152921
+12/03/2020 09:39:40 PM Completed Scenario 4
+12/03/2020 09:39:40 PM ***COMPLETED STUDY demo_w2 ***
+12/03/2020 09:39:40 PM  ********* Completed 5 scenarios in 60.000000 **************
+12/03/2020 09:39:40 PM  ********* Time per Scenario is  12.000000 **************

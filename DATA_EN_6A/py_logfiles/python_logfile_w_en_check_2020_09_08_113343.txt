@@ -1,0 +1,32 @@
+08/09/2020 11:33:43 AM Python Script is: morePVs.py
+08/09/2020 11:33:43 AM study_name = w_en_check
+08/09/2020 11:33:43 AM Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+08/09/2020 11:33:43 AM NumExpr defaulting to 8 threads.
+08/09/2020 11:33:44 AM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6A\studies\demonstrations\outputs\w_en_check\saved_tariffs\static_import_tariffs.csv
+08/09/2020 11:33:44 AM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6A\studies\demonstrations\outputs\w_en_check\saved_tariffs\static_solar_import_tariffs.csv
+08/09/2020 11:33:44 AM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6A\studies\demonstrations\outputs\w_en_check\saved_tariffs\static_export_tariffs.csv
+08/09/2020 11:33:44 AM Running Scenario number 1 
+08/09/2020 11:33:45 AM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6A\studies\demonstrations\outputs\w_en_check\scenarios\w_en_check_001.csv
+08/09/2020 11:33:45 AM Completed Scenario 1
+08/09/2020 11:33:45 AM Running Scenario number 2 
+08/09/2020 11:33:46 AM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6A\studies\demonstrations\outputs\w_en_check\scenarios\w_en_check_002.csv
+08/09/2020 11:33:46 AM Completed Scenario 2
+08/09/2020 11:33:46 AM Running Scenario number 3 
+08/09/2020 11:33:49 AM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6A\studies\demonstrations\outputs\w_en_check\scenarios\w_en_check_003.csv
+08/09/2020 11:33:49 AM Completed Scenario 3
+08/09/2020 11:33:49 AM Running Scenario number 4 
+08/09/2020 11:33:52 AM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6A\studies\demonstrations\outputs\w_en_check\scenarios\w_en_check_004.csv
+08/09/2020 11:33:52 AM Completed Scenario 4
+08/09/2020 11:33:52 AM Running Scenario number 5 
+08/09/2020 11:33:54 AM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "C:/Users/z5044992/Documents/python/morePVs/morePVs.py", line 2640, in main
+    runScenario(s)
+  File "C:/Users/z5044992/Documents/python/morePVs/morePVs.py", line 2559, in runScenario
+    scenario = Scenario(scenario_name=scenario_name)
+  File "C:/Users/z5044992/Documents/python/morePVs/morePVs.py", line 1874, in __init__
+    msg = '******Exception: Tariff '+ tariff_id+' is not in tariff_lookup.csv'
+TypeError: can only concatenate str (not "float") to str

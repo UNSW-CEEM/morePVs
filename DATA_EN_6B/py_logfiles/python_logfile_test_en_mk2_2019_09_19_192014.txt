@@ -1,0 +1,18 @@
+19/09/2019 07:20:14 PM Python Script is: morePVs.py
+19/09/2019 07:20:14 PM study_name = test_en_mk2
+19/09/2019 07:20:14 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6\studies\tests\outputs\test_en_mk2\saved_tariffs\static_import_tariffs.csv
+19/09/2019 07:20:14 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6\studies\tests\outputs\test_en_mk2\saved_tariffs\static_solar_import_tariffs.csv
+19/09/2019 07:20:14 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_6\studies\tests\outputs\test_en_mk2\saved_tariffs\static_export_tariffs.csv
+19/09/2019 07:20:14 PM Running Scenario number 0 
+19/09/2019 07:20:14 PM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "C:/Users/z5044992/Documents/python/morePVs/morePVs.py", line 2630, in main
+    runScenario(s)
+  File "C:/Users/z5044992/Documents/python/morePVs/morePVs.py", line 2593, in runScenario
+    eno.allocateAllCapex(scenario)  # per load profile to allow for scenarios where capex allocation depends on load
+  File "C:/Users/z5044992/Documents/python/morePVs/morePVs.py", line 1548, in allocateAllCapex
+    pv_owners = self.scenario.pv_capex.keys()
+AttributeError: 'Scenario' object has no attribute 'pv_capex'
