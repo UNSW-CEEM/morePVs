@@ -5,7 +5,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../en/venv" />
       <excludeFolder url="file://$MODULE_DIR$/DATA_EN_5" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.7 (conda root)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.7 (conda base)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

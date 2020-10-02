@@ -1,0 +1,39 @@
+02/10/2020 07:27:46 PM Python Script is: morePVs.py
+02/10/2020 07:27:46 PM study_name = demo_wflat
+02/10/2020 07:27:49 PM Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+02/10/2020 07:27:49 PM NumExpr defaulting to 8 threads.
+02/10/2020 07:27:50 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wflat\saved_tariffs\static_import_tariffs.csv
+02/10/2020 07:27:50 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wflat\saved_tariffs\static_solar_import_tariffs.csv
+02/10/2020 07:27:50 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wflat\saved_tariffs\static_export_tariffs.csv
+02/10/2020 07:27:50 PM Running Scenario number 0 
+02/10/2020 07:27:51 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wflat\scenarios\demo_wflat_000.csv
+02/10/2020 07:27:52 PM Completed Scenario 0
+02/10/2020 07:27:52 PM Running Scenario number 1 
+02/10/2020 07:27:55 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wflat\scenarios\demo_wflat_001.csv
+02/10/2020 07:27:55 PM Completed Scenario 1
+02/10/2020 07:27:55 PM Running Scenario number 2 
+02/10/2020 07:27:58 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wflat\scenarios\demo_wflat_002.csv
+02/10/2020 07:27:58 PM Completed Scenario 2
+02/10/2020 07:27:58 PM Running Scenario number 3 
+02/10/2020 07:28:01 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wflat\scenarios\demo_wflat_003.csv
+02/10/2020 07:28:01 PM Completed Scenario 3
+02/10/2020 07:28:01 PM Running Scenario number 4 
+02/10/2020 07:28:04 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wflat\scenarios\demo_wflat_004.csv
+02/10/2020 07:28:05 PM Completed Scenario 4
+02/10/2020 07:28:05 PM Running Scenario number 5 
+02/10/2020 07:28:08 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wflat\scenarios\demo_wflat_005.csv
+02/10/2020 07:28:08 PM Completed Scenario 5
+02/10/2020 07:28:08 PM Running Scenario number 6 
+02/10/2020 07:28:11 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wflat\scenarios\demo_wflat_006.csv
+02/10/2020 07:28:11 PM Completed Scenario 6
+02/10/2020 07:28:11 PM Running Scenario number 7 
+02/10/2020 07:28:14 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wflat\scenarios\demo_wflat_007.csv
+02/10/2020 07:28:15 PM Completed Scenario 7
+02/10/2020 07:28:15 PM Running Scenario number 8 
+02/10/2020 07:28:17 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wflat\scenarios\demo_wflat_008.csv
+02/10/2020 07:28:18 PM Completed Scenario 8
+02/10/2020 07:28:18 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wflat\demo_wflat_customer_results.csv
+02/10/2020 07:28:18 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wflat\demo_wflat_results.csv
+02/10/2020 07:28:18 PM ***COMPLETED STUDY demo_wflat ***
+02/10/2020 07:28:18 PM  ********* Completed 9 scenarios in 31.000000 **************
+02/10/2020 07:28:18 PM  ********* Time per Scenario is  3.444444 **************

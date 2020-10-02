@@ -1,0 +1,46 @@
+02/10/2020 08:00:30 PM Python Script is: morePVs.py
+02/10/2020 08:00:30 PM study_name = demo_wstc
+02/10/2020 08:00:32 PM Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+02/10/2020 08:00:32 PM NumExpr defaulting to 8 threads.
+02/10/2020 08:00:33 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wstc\saved_tariffs\static_import_tariffs.csv
+02/10/2020 08:00:33 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wstc\saved_tariffs\static_solar_import_tariffs.csv
+02/10/2020 08:00:34 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wstc\saved_tariffs\static_export_tariffs.csv
+02/10/2020 08:00:34 PM Running Scenario number 0 
+02/10/2020 08:00:35 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wstc\scenarios\demo_wstc_000.csv
+02/10/2020 08:00:35 PM Completed Scenario 0
+02/10/2020 08:00:35 PM Running Scenario number 1 
+02/10/2020 08:00:38 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wstc\scenarios\demo_wstc_001.csv
+02/10/2020 08:00:38 PM Completed Scenario 1
+02/10/2020 08:00:39 PM Running Scenario number 2 
+02/10/2020 08:00:41 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wstc\scenarios\demo_wstc_002.csv
+02/10/2020 08:00:42 PM Completed Scenario 2
+02/10/2020 08:00:42 PM Running Scenario number 3 
+02/10/2020 08:00:45 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wstc\scenarios\demo_wstc_003.csv
+02/10/2020 08:00:45 PM Completed Scenario 3
+02/10/2020 08:00:45 PM Running Scenario number 4 
+02/10/2020 08:00:48 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wstc\scenarios\demo_wstc_004.csv
+02/10/2020 08:00:48 PM Completed Scenario 4
+02/10/2020 08:00:48 PM Running Scenario number 5 
+02/10/2020 08:00:51 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wstc\scenarios\demo_wstc_005.csv
+02/10/2020 08:00:51 PM Completed Scenario 5
+02/10/2020 08:00:51 PM Running Scenario number 6 
+02/10/2020 08:00:54 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wstc\scenarios\demo_wstc_006.csv
+02/10/2020 08:00:55 PM Completed Scenario 6
+02/10/2020 08:00:55 PM Running Scenario number 7 
+02/10/2020 08:00:57 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wstc\scenarios\demo_wstc_007.csv
+02/10/2020 08:00:58 PM Completed Scenario 7
+02/10/2020 08:00:58 PM Running Scenario number 8 
+02/10/2020 08:01:00 PM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "C:/Users/z5044992/Documents/python/morePVs/morePVs.py", line 2640, in main
+    runScenario(s)
+  File "C:/Users/z5044992/Documents/python/morePVs/morePVs.py", line 2559, in runScenario
+    scenario = Scenario(scenario_name=scenario_name)
+  File "C:/Users/z5044992/Documents/python/morePVs/morePVs.py", line 1875, in __init__
+    exit(msg)
+  File "C:\Users\z5044992\AppData\Local\Continuum\anaconda3\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: ******Exception: Tariff EN_STC_26 is not in tariff_lookup.csv

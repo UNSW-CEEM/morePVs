@@ -1,0 +1,39 @@
+02/10/2020 08:03:16 PM Python Script is: morePVs.py
+02/10/2020 08:03:16 PM study_name = demo_wstc
+02/10/2020 08:03:18 PM Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+02/10/2020 08:03:18 PM NumExpr defaulting to 8 threads.
+02/10/2020 08:03:20 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wstc\saved_tariffs\static_import_tariffs.csv
+02/10/2020 08:03:20 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wstc\saved_tariffs\static_solar_import_tariffs.csv
+02/10/2020 08:03:21 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wstc\saved_tariffs\static_export_tariffs.csv
+02/10/2020 08:03:21 PM Running Scenario number 0 
+02/10/2020 08:03:22 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wstc\scenarios\demo_wstc_000.csv
+02/10/2020 08:03:22 PM Completed Scenario 0
+02/10/2020 08:03:22 PM Running Scenario number 1 
+02/10/2020 08:03:25 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wstc\scenarios\demo_wstc_001.csv
+02/10/2020 08:03:26 PM Completed Scenario 1
+02/10/2020 08:03:26 PM Running Scenario number 2 
+02/10/2020 08:03:29 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wstc\scenarios\demo_wstc_002.csv
+02/10/2020 08:03:29 PM Completed Scenario 2
+02/10/2020 08:03:29 PM Running Scenario number 3 
+02/10/2020 08:03:32 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wstc\scenarios\demo_wstc_003.csv
+02/10/2020 08:03:32 PM Completed Scenario 3
+02/10/2020 08:03:32 PM Running Scenario number 4 
+02/10/2020 08:03:35 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wstc\scenarios\demo_wstc_004.csv
+02/10/2020 08:03:36 PM Completed Scenario 4
+02/10/2020 08:03:36 PM Running Scenario number 5 
+02/10/2020 08:03:38 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wstc\scenarios\demo_wstc_005.csv
+02/10/2020 08:03:39 PM Completed Scenario 5
+02/10/2020 08:03:39 PM Running Scenario number 6 
+02/10/2020 08:03:42 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wstc\scenarios\demo_wstc_006.csv
+02/10/2020 08:03:42 PM Completed Scenario 6
+02/10/2020 08:03:42 PM Running Scenario number 7 
+02/10/2020 08:03:45 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wstc\scenarios\demo_wstc_007.csv
+02/10/2020 08:03:45 PM Completed Scenario 7
+02/10/2020 08:03:45 PM Running Scenario number 8 
+02/10/2020 08:03:48 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wstc\scenarios\demo_wstc_008.csv
+02/10/2020 08:03:48 PM Completed Scenario 8
+02/10/2020 08:03:48 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wstc\demo_wstc_customer_results.csv
+02/10/2020 08:03:48 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wstc\demo_wstc_results.csv
+02/10/2020 08:03:48 PM ***COMPLETED STUDY demo_wstc ***
+02/10/2020 08:03:48 PM  ********* Completed 9 scenarios in 31.000000 **************
+02/10/2020 08:03:48 PM  ********* Time per Scenario is  3.444444 **************

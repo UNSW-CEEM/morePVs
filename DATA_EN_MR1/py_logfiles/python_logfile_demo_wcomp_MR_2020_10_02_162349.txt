@@ -1,0 +1,153 @@
+02/10/2020 04:23:49 PM Python Script is: morePVs.py
+02/10/2020 04:23:49 PM study_name = demo_wcomp_MR
+02/10/2020 04:23:51 PM Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+02/10/2020 04:23:51 PM NumExpr defaulting to 8 threads.
+02/10/2020 04:23:52 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\saved_tariffs\static_import_tariffs.csv
+02/10/2020 04:23:52 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\saved_tariffs\static_solar_import_tariffs.csv
+02/10/2020 04:23:52 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\saved_tariffs\static_export_tariffs.csv
+02/10/2020 04:23:52 PM Running Scenario number 0 
+02/10/2020 04:23:53 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_000.csv
+02/10/2020 04:23:54 PM Completed Scenario 0
+02/10/2020 04:23:54 PM Running Scenario number 1 
+02/10/2020 04:23:55 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_001.csv
+02/10/2020 04:23:55 PM Completed Scenario 1
+02/10/2020 04:23:55 PM Running Scenario number 2 
+02/10/2020 04:24:01 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_002.csv
+02/10/2020 04:24:01 PM Completed Scenario 2
+02/10/2020 04:24:01 PM Running Scenario number 3 
+02/10/2020 04:24:06 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_003.csv
+02/10/2020 04:24:06 PM Completed Scenario 3
+02/10/2020 04:24:06 PM Running Scenario number 4 
+02/10/2020 04:24:12 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_004.csv
+02/10/2020 04:24:12 PM Completed Scenario 4
+02/10/2020 04:24:12 PM Running Scenario number 5 
+02/10/2020 04:24:17 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_005.csv
+02/10/2020 04:24:17 PM Completed Scenario 5
+02/10/2020 04:24:17 PM Running Scenario number 6 
+02/10/2020 04:24:22 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_006.csv
+02/10/2020 04:24:23 PM Completed Scenario 6
+02/10/2020 04:24:23 PM Running Scenario number 7 
+02/10/2020 04:24:27 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_007.csv
+02/10/2020 04:24:28 PM Completed Scenario 7
+02/10/2020 04:24:28 PM Running Scenario number 8 
+02/10/2020 04:24:33 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_008.csv
+02/10/2020 04:24:33 PM Completed Scenario 8
+02/10/2020 04:24:33 PM Running Scenario number 9 
+02/10/2020 04:24:38 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_009.csv
+02/10/2020 04:24:39 PM Completed Scenario 9
+02/10/2020 04:24:39 PM Running Scenario number 10 
+02/10/2020 04:24:44 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_010.csv
+02/10/2020 04:24:44 PM Completed Scenario 10
+02/10/2020 04:24:44 PM Running Scenario number 11 
+02/10/2020 04:24:48 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_011.csv
+02/10/2020 04:24:48 PM Completed Scenario 11
+02/10/2020 04:24:48 PM Running Scenario number 12 
+02/10/2020 04:24:52 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_012.csv
+02/10/2020 04:24:52 PM Completed Scenario 12
+02/10/2020 04:24:52 PM Running Scenario number 13 
+02/10/2020 04:24:56 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_013.csv
+02/10/2020 04:24:56 PM Completed Scenario 13
+02/10/2020 04:24:56 PM Running Scenario number 14 
+02/10/2020 04:25:00 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_014.csv
+02/10/2020 04:25:00 PM Completed Scenario 14
+02/10/2020 04:25:00 PM Running Scenario number 15 
+02/10/2020 04:25:04 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_015.csv
+02/10/2020 04:25:04 PM Completed Scenario 15
+02/10/2020 04:25:04 PM Running Scenario number 16 
+02/10/2020 04:25:08 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_016.csv
+02/10/2020 04:25:08 PM Completed Scenario 16
+02/10/2020 04:25:08 PM Running Scenario number 17 
+02/10/2020 04:25:09 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_017.csv
+02/10/2020 04:25:09 PM Completed Scenario 17
+02/10/2020 04:25:09 PM Running Scenario number 18 
+02/10/2020 04:25:12 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_018.csv
+02/10/2020 04:25:12 PM Completed Scenario 18
+02/10/2020 04:25:12 PM Running Scenario number 19 
+02/10/2020 04:25:15 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_019.csv
+02/10/2020 04:25:16 PM Completed Scenario 19
+02/10/2020 04:25:16 PM Running Scenario number 20 
+02/10/2020 04:25:19 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_020.csv
+02/10/2020 04:25:19 PM Completed Scenario 20
+02/10/2020 04:25:19 PM Running Scenario number 21 
+02/10/2020 04:25:22 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_021.csv
+02/10/2020 04:25:22 PM Completed Scenario 21
+02/10/2020 04:25:22 PM Running Scenario number 22 
+02/10/2020 04:25:25 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_022.csv
+02/10/2020 04:25:25 PM Completed Scenario 22
+02/10/2020 04:25:25 PM Running Scenario number 23 
+02/10/2020 04:25:28 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_023.csv
+02/10/2020 04:25:28 PM Completed Scenario 23
+02/10/2020 04:25:28 PM Running Scenario number 24 
+02/10/2020 04:25:31 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_024.csv
+02/10/2020 04:25:32 PM Completed Scenario 24
+02/10/2020 04:25:32 PM Running Scenario number 25 
+02/10/2020 04:25:34 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_025.csv
+02/10/2020 04:25:35 PM Completed Scenario 25
+02/10/2020 04:25:35 PM Running Scenario number 26 
+02/10/2020 04:25:38 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_026.csv
+02/10/2020 04:25:38 PM Completed Scenario 26
+02/10/2020 04:25:38 PM Running Scenario number 27 
+02/10/2020 04:25:39 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_027.csv
+02/10/2020 04:25:39 PM Completed Scenario 27
+02/10/2020 04:25:39 PM Running Scenario number 28 
+02/10/2020 04:25:42 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_028.csv
+02/10/2020 04:25:42 PM Completed Scenario 28
+02/10/2020 04:25:42 PM Running Scenario number 29 
+02/10/2020 04:25:45 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_029.csv
+02/10/2020 04:25:45 PM Completed Scenario 29
+02/10/2020 04:25:45 PM Running Scenario number 30 
+02/10/2020 04:25:48 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_030.csv
+02/10/2020 04:25:48 PM Completed Scenario 30
+02/10/2020 04:25:48 PM Running Scenario number 31 
+02/10/2020 04:25:51 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_031.csv
+02/10/2020 04:25:51 PM Completed Scenario 31
+02/10/2020 04:25:51 PM Running Scenario number 32 
+02/10/2020 04:25:54 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_032.csv
+02/10/2020 04:25:54 PM Completed Scenario 32
+02/10/2020 04:25:54 PM Running Scenario number 33 
+02/10/2020 04:25:57 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_033.csv
+02/10/2020 04:25:57 PM Completed Scenario 33
+02/10/2020 04:25:57 PM Running Scenario number 34 
+02/10/2020 04:25:59 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_034.csv
+02/10/2020 04:26:00 PM Completed Scenario 34
+02/10/2020 04:26:00 PM Running Scenario number 35 
+02/10/2020 04:26:02 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_035.csv
+02/10/2020 04:26:02 PM Completed Scenario 35
+02/10/2020 04:26:02 PM Running Scenario number 36 
+02/10/2020 04:26:05 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_036.csv
+02/10/2020 04:26:05 PM Completed Scenario 36
+02/10/2020 04:26:05 PM Running Scenario number 37 
+02/10/2020 04:26:06 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_037.csv
+02/10/2020 04:26:06 PM Completed Scenario 37
+02/10/2020 04:26:06 PM Running Scenario number 38 
+02/10/2020 04:26:09 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_038.csv
+02/10/2020 04:26:09 PM Completed Scenario 38
+02/10/2020 04:26:09 PM Running Scenario number 39 
+02/10/2020 04:26:11 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_039.csv
+02/10/2020 04:26:12 PM Completed Scenario 39
+02/10/2020 04:26:12 PM Running Scenario number 40 
+02/10/2020 04:26:14 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_040.csv
+02/10/2020 04:26:14 PM Completed Scenario 40
+02/10/2020 04:26:14 PM Running Scenario number 41 
+02/10/2020 04:26:17 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_041.csv
+02/10/2020 04:26:17 PM Completed Scenario 41
+02/10/2020 04:26:17 PM Running Scenario number 42 
+02/10/2020 04:26:20 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_042.csv
+02/10/2020 04:26:20 PM Completed Scenario 42
+02/10/2020 04:26:20 PM Running Scenario number 43 
+02/10/2020 04:26:22 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_043.csv
+02/10/2020 04:26:23 PM Completed Scenario 43
+02/10/2020 04:26:23 PM Running Scenario number 44 
+02/10/2020 04:26:25 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_044.csv
+02/10/2020 04:26:26 PM Completed Scenario 44
+02/10/2020 04:26:26 PM Running Scenario number 45 
+02/10/2020 04:26:28 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_045.csv
+02/10/2020 04:26:29 PM Completed Scenario 45
+02/10/2020 04:26:29 PM Running Scenario number 46 
+02/10/2020 04:26:31 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\scenarios\demo_wcomp_MR_046.csv
+02/10/2020 04:26:31 PM Completed Scenario 46
+02/10/2020 04:26:31 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\demo_wcomp_MR_customer_results.csv
+02/10/2020 04:26:31 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_wcomp_MR\demo_wcomp_MR_results.csv
+02/10/2020 04:26:31 PM ***COMPLETED STUDY demo_wcomp_MR ***
+02/10/2020 04:26:31 PM  ********* Completed 47 scenarios in 162.000000 **************
+02/10/2020 04:26:31 PM  ********* Time per Scenario is  3.446809 **************

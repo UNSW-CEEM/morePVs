@@ -7,3 +7,5 @@
 5,W_max_pv_1kW.csv,TRUE,75,W_new,en_pv,TRUE,W_75_50,EN_STC_35,EN_STC_35,EN_P,EA305,capex_med,20,0.06
 6,W_max_pv_1kW.csv,TRUE,75,W_new,en_pv,TRUE,W_75_50,EN_STC_40,EN_STC_40,EN_P,EA305,capex_med,20,0.06
 7,W_max_pv_1kW.csv,TRUE,75,W_new,en_pv,TRUE,W_75_50,EN_STC_50,EN_STC_50,EN_P,EA305,capex_med,20,0.06
+8,W_max_pv_1kW.csv,TRUE,75,W_new,en_pv,TRUE,W_75_50,EN_STC_26,EN_STC_26,EN_P,EA305,capex_med,20,0.06
+9,W_max_pv_1kW.csv,TRUE,75,W_new,en_pv,TRUE,W_75_50,EN_STC_H,EN_STC_H,EN_P,EA305,capex_med,20,0.06
