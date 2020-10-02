@@ -1,0 +1,16 @@
+22/09/2020 08:34:03 PM Python Script is: morePVs.py
+22/09/2020 08:34:03 PM study_name = demo_wparent1
+22/09/2020 08:34:03 PM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 2638, in main
+    override_output=override_output)
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 2449, in __init__
+    self.study_parameters.loc[scenario, 'load_folder'])
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/posixpath.py", line 94, in join
+    genericpath._check_arg_types('join', a, *p)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/genericpath.py", line 149, in _check_arg_types
+    (funcname, s.__class__.__name__)) from None
+TypeError: join() argument must be str or bytes, not 'Series'

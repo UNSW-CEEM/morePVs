@@ -1,0 +1,48 @@
+22/09/2020 08:35:22 PM Python Script is: morePVs.py
+22/09/2020 08:35:22 PM study_name = demo_wparent1
+22/09/2020 08:35:22 PM Running Scenario number 0 
+22/09/2020 08:35:24 PM Completed Scenario 0
+22/09/2020 08:35:24 PM Running Scenario number 1 
+22/09/2020 08:35:26 PM Completed Scenario 1
+22/09/2020 08:35:26 PM Running Scenario number 2 
+22/09/2020 08:35:27 PM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/indexes/base.py", line 2657, in get_loc
+    return self._engine.get_loc(key)
+  File "pandas/_libs/index.pyx", line 108, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1601, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1608, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'W_75_25'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 2640, in main
+    runScenario(s)
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 2559, in runScenario
+    scenario = Scenario(scenario_name=scenario_name)
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 2062, in __init__
+    self.pv_capex['total_system'] = study.pv_capex_table.loc[self.pv_cap_id, 'pv_capex'] + \
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1494, in __getitem__
+    return self._getitem_tuple(key)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 868, in _getitem_tuple
+    return self._getitem_lowerdim(tup)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 988, in _getitem_lowerdim
+    section = self._getitem_axis(key, axis=i)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1913, in _getitem_axis
+    return self._get_label(key, axis=axis)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 141, in _get_label
+    return self.obj._xs(label, axis=axis)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/generic.py", line 3585, in xs
+    loc = self.index.get_loc(key)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/indexes/base.py", line 2659, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 108, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1601, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1608, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'W_75_25'

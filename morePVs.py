@@ -2660,9 +2660,9 @@ if __name__ == "__main__":
     # Set up defaults here: base_path, project and study name
     # --------------------------------------------------------
     # default_base_path = 'C:\\Users\\z5044992\\Documents\\python\\morePVs\\DATA_EN_6M'  #(Mike's PC)
-    default_base_path = '/Users/mikeroberts/Documents/python/morePVs/DATA_EN_6'  # (Mike's Mac)
-    default_project = 'demonstrations'
-    default_study = 'demo_wenapt'
+    default_base_path = '/Users/mikeroberts/Documents/python/morePVs/DATA_EN_6B'  # (Mike's Mac)
+    default_project = 'demonstrations1'
+    default_study = 'demo_wparent1'
     # default_base_path = '/Users/mikeroberts/OneDrive - UNSW/python/en/DATA_EN_6M'  #(Mike's Mac)
 
     # Import arguments - allows multi-processing from command line
@@ -2705,10 +2705,9 @@ if __name__ == "__main__":
 
 
 # TODO - FUTURE - Variable allocation of pv between cp and residents
-# TODO - Add combined central and individual PV
-# TODO - Battery: Add capex calcs for individual batteries Need to update Network.allocateAllCapex
+# TODO - Add combined central and individual PV - IS THIS DONE???
+# TODO - Battery: Add capex calcs for individual batteries Need to update Network.allocateAllCapex  IS THIS DONE????
 # TODO - Optimisation Separate financial settings from energy calcs to reduce calculation
-# TODO - Optimisation: for loops -> i in np.arange rather than iter  thru' list
-# TODO - Optimisation: change all calcs to np.calcs
+
 # TODO - Exception handling
 

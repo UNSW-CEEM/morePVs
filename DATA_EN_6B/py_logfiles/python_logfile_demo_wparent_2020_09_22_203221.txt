@@ -1,0 +1,12 @@
+22/09/2020 08:32:21 PM Python Script is: morePVs.py
+22/09/2020 08:32:21 PM study_name = demo_wparent
+22/09/2020 08:32:21 PM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 2638, in main
+    override_output=override_output)
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 2450, in __init__
+    self.load_list = os.listdir(self.load_path)
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/mikeroberts/Documents/python/morePVs/DATA_EN_6B/load_profiles/W_new'

@@ -1,0 +1,5 @@
+﻿scenario,pv_filename,pv_scaleable,pv_kW_peak,load_folder,arrangement,pv_capex_scaleable,pv_cap_id,cp,all_residents,parent,network_tariff,en_capex_id,a_term,a_rate
+0,,FALSE,,W_new,bau,FALSE,,DMO_BAU,DMO_BAU,TIDNULL,EA305,,20,0.06
+1,,FALSE,,W_new,bau,FALSE,,DMO_TOU,DMO_TOU,TIDNULL,EA305,,20,0.06
+2,W_max_pv_1kW.csv,TRUE,75,W_new,en_pv,TRUE,W_75_50,DMO_BAU,DMO_BAU,EN_P,EA305,capex_med,20,0.06
+3,W_max_pv_1kW.csv,TRUE,75,W_new,en_pv,TRUE,W_75_50,DMO_TOU,DMO_TOU,EN_P,EA305,capex_med,20,0.06
