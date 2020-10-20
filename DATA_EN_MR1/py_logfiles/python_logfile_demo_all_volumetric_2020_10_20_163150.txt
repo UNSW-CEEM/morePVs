@@ -1,0 +1,51 @@
+20/10/2020 04:31:50 PM Python Script is: morePVs.py
+20/10/2020 04:31:50 PM study_name = demo_all_volumetric
+20/10/2020 04:31:52 PM Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+20/10/2020 04:31:52 PM NumExpr defaulting to 8 threads.
+20/10/2020 04:31:54 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_all_volumetric\saved_tariffs\static_import_tariffs.csv
+20/10/2020 04:31:54 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_all_volumetric\saved_tariffs\static_solar_import_tariffs.csv
+20/10/2020 04:31:54 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_all_volumetric\saved_tariffs\static_export_tariffs.csv
+20/10/2020 04:31:54 PM Running Scenario number 0 
+20/10/2020 04:31:55 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_all_volumetric\scenarios\demo_all_volumetric_000.csv
+20/10/2020 04:31:56 PM Completed Scenario 0
+20/10/2020 04:31:56 PM Running Scenario number 1 
+20/10/2020 04:31:58 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_all_volumetric\scenarios\demo_all_volumetric_001.csv
+20/10/2020 04:31:59 PM Completed Scenario 1
+20/10/2020 04:31:59 PM Running Scenario number 2 
+20/10/2020 04:32:01 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_all_volumetric\scenarios\demo_all_volumetric_002.csv
+20/10/2020 04:32:02 PM Completed Scenario 2
+20/10/2020 04:32:02 PM Running Scenario number 3 
+20/10/2020 04:32:05 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_all_volumetric\scenarios\demo_all_volumetric_003.csv
+20/10/2020 04:32:05 PM Completed Scenario 3
+20/10/2020 04:32:05 PM Running Scenario number 4 
+20/10/2020 04:32:08 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_all_volumetric\scenarios\demo_all_volumetric_004.csv
+20/10/2020 04:32:08 PM Completed Scenario 4
+20/10/2020 04:32:08 PM Running Scenario number 5 
+20/10/2020 04:32:11 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_all_volumetric\scenarios\demo_all_volumetric_005.csv
+20/10/2020 04:32:11 PM Completed Scenario 5
+20/10/2020 04:32:11 PM Running Scenario number 6 
+20/10/2020 04:32:14 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_all_volumetric\scenarios\demo_all_volumetric_006.csv
+20/10/2020 04:32:14 PM Completed Scenario 6
+20/10/2020 04:32:14 PM Running Scenario number 7 
+20/10/2020 04:32:17 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_all_volumetric\scenarios\demo_all_volumetric_007.csv
+20/10/2020 04:32:17 PM Completed Scenario 7
+20/10/2020 04:32:17 PM Running Scenario number 8 
+20/10/2020 04:32:20 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_all_volumetric\scenarios\demo_all_volumetric_008.csv
+20/10/2020 04:32:20 PM Completed Scenario 8
+20/10/2020 04:32:20 PM Running Scenario number 9 
+20/10/2020 04:32:23 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_all_volumetric\scenarios\demo_all_volumetric_009.csv
+20/10/2020 04:32:23 PM Completed Scenario 9
+20/10/2020 04:32:23 PM Running Scenario number 10 
+20/10/2020 04:32:27 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_all_volumetric\scenarios\demo_all_volumetric_010.csv
+20/10/2020 04:32:27 PM Completed Scenario 10
+20/10/2020 04:32:27 PM Running Scenario number 11 
+20/10/2020 04:32:30 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_all_volumetric\scenarios\demo_all_volumetric_011.csv
+20/10/2020 04:32:30 PM Completed Scenario 11
+20/10/2020 04:32:30 PM Running Scenario number 12 
+20/10/2020 04:32:33 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_all_volumetric\scenarios\demo_all_volumetric_012.csv
+20/10/2020 04:32:33 PM Completed Scenario 12
+20/10/2020 04:32:33 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_all_volumetric\demo_all_volumetric_customer_results.csv
+20/10/2020 04:32:33 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\demo_all_volumetric\demo_all_volumetric_results.csv
+20/10/2020 04:32:33 PM ***COMPLETED STUDY demo_all_volumetric ***
+20/10/2020 04:32:33 PM  ********* Completed 13 scenarios in 43.000000 **************
+20/10/2020 04:32:33 PM  ********* Time per Scenario is  3.307692 **************
