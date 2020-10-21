@@ -1,0 +1,19 @@
+21/10/2020 08:39:22 PM Python Script is: morePVs.py
+21/10/2020 08:39:22 PM study_name = pt_mike
+21/10/2020 08:39:24 PM Running Scenario number 0 
+21/10/2020 08:39:26 PM Completed Scenario 0
+21/10/2020 08:39:26 PM Running Scenario number 1 
+21/10/2020 08:39:30 PM Completed Scenario 1
+21/10/2020 08:39:30 PM Running Scenario number 2 
+21/10/2020 08:39:34 PM Completed Scenario 2
+21/10/2020 08:39:34 PM Running Scenario number 3 
+21/10/2020 08:39:37 PM Completed Scenario 3
+21/10/2020 08:39:37 PM Running Scenario number 4 
+21/10/2020 08:39:41 PM Completed Scenario 4
+21/10/2020 08:39:41 PM Running Scenario number 5 
+21/10/2020 08:39:45 PM Completed Scenario 5
+21/10/2020 08:39:45 PM Running Scenario number 6 
+21/10/2020 08:39:49 PM Completed Scenario 6
+21/10/2020 08:39:49 PM ***COMPLETED STUDY pt_mike ***
+21/10/2020 08:39:49 PM  ********* Completed 7 scenarios in 27.000000 **************
+21/10/2020 08:39:49 PM  ********* Time per Scenario is  3.857143 **************

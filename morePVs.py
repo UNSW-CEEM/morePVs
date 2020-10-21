@@ -2659,10 +2659,10 @@ if __name__ == "__main__":
     # -------------------------------------------------------
     # Set up defaults here: base_path, project and study name
     # --------------------------------------------------------
-    default_base_path = 'C:\\Users\\z5044992\\Documents\\python\\morePVs\\DATA_EN_MR1'  #(Mike's PC)
-    # default_base_path = '/Users/mikeroberts/Documents/python/morePVs/DATA_EN_MR1'  # (Mike's Mac)
+    #default_base_path = 'C:\\Users\\z5044992\\Documents\\python\\morePVs\\DATA_EN_MR1'  #(Mike's PC)
+    default_base_path = '/Users/mikeroberts/Documents/python/morePVs/DATA_EN_MR1'  # (Mike's Mac)
     default_project = 'latest24-9'
-    default_study = 'demo_all_volumetric'
+    default_study = 'pt_mike'
     # default_base_path = '/Users/mikeroberts/OneDrive - UNSW/python/en/DATA_EN_6M'  #(Mike's Mac)
 
     # Import arguments - allows multi-processing from command line

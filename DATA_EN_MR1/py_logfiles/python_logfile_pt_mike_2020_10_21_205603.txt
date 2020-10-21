@@ -1,0 +1,16 @@
+21/10/2020 08:56:03 PM Python Script is: morePVs.py
+21/10/2020 08:56:03 PM study_name = pt_mike
+21/10/2020 08:56:06 PM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 2638, in main
+    override_output=override_output)
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 2512, in __init__
+    self.tariff_data.generateStaticTariffs()
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 131, in generateStaticTariffs
+    if not np.isnan(self.lookup.loc[tid, 'discount']):
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/site-packages/pandas/core/generic.py", line 1478, in __nonzero__
+    .format(self.__class__.__name__))
+ValueError: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
