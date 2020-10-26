@@ -1,0 +1,18 @@
+26/10/2020 06:32:06 PM Python Script is: morePVs.py
+26/10/2020 06:32:06 PM study_name = pt_mike_test
+26/10/2020 06:32:08 PM Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+26/10/2020 06:32:08 PM NumExpr defaulting to 8 threads.
+26/10/2020 06:32:09 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike_test\saved_tariffs\static_import_tariffs.csv
+26/10/2020 06:32:09 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike_test\saved_tariffs\static_solar_import_tariffs.csv
+26/10/2020 06:32:10 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike_test\saved_tariffs\static_export_tariffs.csv
+26/10/2020 06:32:10 PM Running Scenario number 0 
+26/10/2020 06:32:11 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike_test\scenarios\pt_mike_test_000.csv
+26/10/2020 06:32:11 PM Completed Scenario 0
+26/10/2020 06:32:11 PM Running Scenario number 9 
+26/10/2020 06:32:16 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike_test\scenarios\pt_mike_test_009.csv
+26/10/2020 06:32:16 PM Completed Scenario 9
+26/10/2020 06:32:16 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike_test\pt_mike_test_customer_results.csv
+26/10/2020 06:32:16 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike_test\pt_mike_test_results.csv
+26/10/2020 06:32:16 PM ***COMPLETED STUDY pt_mike_test ***
+26/10/2020 06:32:16 PM  ********* Completed 2 scenarios in 10.000000 **************
+26/10/2020 06:32:16 PM  ********* Time per Scenario is  5.000000 **************

@@ -1,0 +1,22 @@
+26/10/2020 07:12:26 PM Python Script is: morePVs.py
+26/10/2020 07:12:26 PM study_name = pt_mike_test
+26/10/2020 07:12:35 PM Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+26/10/2020 07:12:35 PM NumExpr defaulting to 8 threads.
+26/10/2020 07:12:36 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike_test\saved_tariffs\static_import_tariffs.csv
+26/10/2020 07:12:36 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike_test\saved_tariffs\static_solar_import_tariffs.csv
+26/10/2020 07:12:36 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike_test\saved_tariffs\static_export_tariffs.csv
+26/10/2020 07:12:36 PM Running Scenario number 0 
+26/10/2020 07:12:52 PM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "C:/Users/z5044992/Documents/python/morePVs/morePVs.py", line 2667, in main
+    runScenario(s)
+  File "C:/Users/z5044992/Documents/python/morePVs/morePVs.py", line 2634, in runScenario
+    scenario.calcFinancials(eno)
+  File "C:/Users/z5044992/Documents/python/morePVs/morePVs.py", line 2139, in calcFinancials
+    net.calcCashflow()
+  File "C:/Users/z5044992/Documents/python/morePVs/morePVs.py", line 1127, in calcCashflow
+    if self.network:
+AttributeError: 'Network' object has no attribute 'network'

@@ -1,0 +1,169 @@
+,customer,variable,$ Savings,Tariff type,Tariff Rate
+0,W01,EN_PT_D,-257.5668183204252,Pass-through,Direct pass-through
+1,W02,EN_PT_D,-41.194794595447775,Pass-through,Direct pass-through
+2,W03,EN_PT_D,-187.18647938773006,Pass-through,Direct pass-through
+3,W04,EN_PT_D,-244.29838702408165,Pass-through,Direct pass-through
+4,W05,EN_PT_D,-415.5857337713926,Pass-through,Direct pass-through
+5,W06,EN_PT_D,-168.96916584797464,Pass-through,Direct pass-through
+6,W07,EN_PT_D,-226.07888822842847,Pass-through,Direct pass-through
+7,W08,EN_PT_D,-150.2379939641778,Pass-through,Direct pass-through
+8,W09,EN_PT_D,8.434742079479065,Pass-through,Direct pass-through
+9,W10,EN_PT_D,-48.21530944123219,Pass-through,Direct pass-through
+10,W11,EN_PT_D,-177.55924902916172,Pass-through,Direct pass-through
+11,W12,EN_PT_D,-335.53731017194104,Pass-through,Direct pass-through
+12,W13,EN_PT_D,21.089412026967693,Pass-through,Direct pass-through
+13,W14,EN_PT_D,-238.32825042589343,Pass-through,Direct pass-through
+14,W15,EN_PT_D,-102.41720989865371,Pass-through,Direct pass-through
+15,W16,EN_PT_D,-244.28392034694002,Pass-through,Direct pass-through
+16,W17,EN_PT_D,-240.81073543027594,Pass-through,Direct pass-through
+17,W18,EN_PT_D,-260.5118247684985,Pass-through,Direct pass-through
+18,W19,EN_PT_D,-111.44073820029348,Pass-through,Direct pass-through
+19,W20,EN_PT_D,-9.902825177811792,Pass-through,Direct pass-through
+20,W21,EN_PT_D,-389.5609665146708,Pass-through,Direct pass-through
+21,W22,EN_PT_D,-196.35669859720247,Pass-through,Direct pass-through
+22,W23,EN_PT_D,-222.61542405452826,Pass-through,Direct pass-through
+23,W24,EN_PT_D,-128.26354015393758,Pass-through,Direct pass-through
+24,W25,EN_PT_D,-118.90749337215539,Pass-through,Direct pass-through
+25,W27,EN_PT_D,-302.611998317135,Pass-through,Direct pass-through
+26,W28,EN_PT_D,-196.57909389397832,Pass-through,Direct pass-through
+27,W29,EN_PT_D,-186.8316009669627,Pass-through,Direct pass-through
+28,W01,EN_PT_N,-28.23217849976959,Pass-through,Neutral average bill impact
+29,W02,EN_PT_N,104.75367836626924,Pass-through,Neutral average bill impact
+30,W03,EN_PT_N,16.565956501600567,Pass-through,Neutral average bill impact
+31,W04,EN_PT_N,-60.23947569865118,Pass-through,Neutral average bill impact
+32,W05,EN_PT_N,-138.9023800769112,Pass-through,Neutral average bill impact
+33,W06,EN_PT_N,99.85718492686374,Pass-through,Neutral average bill impact
+34,W07,EN_PT_N,-33.56981162084526,Pass-through,Neutral average bill impact
+35,W08,EN_PT_N,21.177786703060747,Pass-through,Neutral average bill impact
+36,W09,EN_PT_N,165.43830359004824,Pass-through,Neutral average bill impact
+37,W10,EN_PT_N,75.21076103344035,Pass-through,Neutral average bill impact
+38,W11,EN_PT_N,-12.33536946170807,Pass-through,Neutral average bill impact
+39,W12,EN_PT_N,-119.7224823486481,Pass-through,Neutral average bill impact
+40,W13,EN_PT_N,202.538401430902,Pass-through,Neutral average bill impact
+41,W14,EN_PT_N,-12.458285421245819,Pass-through,Neutral average bill impact
+42,W15,EN_PT_N,188.85391818362405,Pass-through,Neutral average bill impact
+43,W16,EN_PT_N,-34.903374034303624,Pass-through,Neutral average bill impact
+44,W17,EN_PT_N,-77.22331565536808,Pass-through,Neutral average bill impact
+45,W18,EN_PT_N,-137.68019372328445,Pass-through,Neutral average bill impact
+46,W19,EN_PT_N,26.1151817818037,Pass-through,Neutral average bill impact
+47,W20,EN_PT_N,147.1490993079792,Pass-through,Neutral average bill impact
+48,W21,EN_PT_N,-74.30731581630926,Pass-through,Neutral average bill impact
+49,W22,EN_PT_N,-34.936581949184756,Pass-through,Neutral average bill impact
+50,W23,EN_PT_N,-59.63534172404195,Pass-through,Neutral average bill impact
+51,W24,EN_PT_N,-4.13605157638051,Pass-through,Neutral average bill impact
+52,W25,EN_PT_N,14.40383278962804,Pass-through,Neutral average bill impact
+53,W27,EN_PT_N,-82.68692030731586,Pass-through,Neutral average bill impact
+54,W28,EN_PT_N,16.443634483475762,Pass-through,Neutral average bill impact
+55,W29,EN_PT_N,42.10285401538795,Pass-through,Neutral average bill impact
+56,W01,EN_PT_Z,220.3069331887309,Pass-through,Zero EN profit distribution
+57,W02,EN_PT_Z,262.9238695356678,Pass-through,Zero EN profit distribution
+58,W03,EN_PT_Z,237.3806117141935,Pass-through,Zero EN profit distribution
+59,W04,EN_PT_Z,139.23252013655747,Pass-through,Zero EN profit distribution
+60,W05,EN_PT_Z,160.9504245408234,Pass-through,Zero EN profit distribution
+61,W06,EN_PT_Z,391.195041572897,Pass-through,Zero EN profit distribution
+62,W07,EN_PT_Z,175.05996593669533,Pass-through,Zero EN profit distribution
+63,W08,EN_PT_Z,206.9479167180607,Pass-through,Zero EN profit distribution
+64,W09,EN_PT_Z,335.5893358993553,Pass-through,Zero EN profit distribution
+65,W10,EN_PT_Z,208.97252479911822,Pass-through,Zero EN profit distribution
+66,W11,EN_PT_Z,166.7243499489141,Pass-through,Zero EN profit distribution
+67,W12,EN_PT_Z,114.164668926687,Pass-through,Zero EN profit distribution
+68,W13,EN_PT_Z,399.18192060662227,Pass-through,Zero EN profit distribution
+69,W14,EN_PT_Z,232.3260197463835,Pass-through,Zero EN profit distribution
+70,W15,EN_PT_Z,504.51607672490945,Pass-through,Zero EN profit distribution
+71,W16,EN_PT_Z,192.01068930166434,Pass-through,Zero EN profit distribution
+72,W17,EN_PT_Z,100.06290689725051,Pass-through,Zero EN profit distribution
+73,W18,EN_PT_Z,-4.5626477167106145,Pass-through,Zero EN profit distribution
+74,W19,EN_PT_Z,175.19002798288602,Pass-through,Zero EN profit distribution
+75,W20,EN_PT_Z,317.3525445057603,Pass-through,Zero EN profit distribution
+76,W21,EN_PT_Z,267.3456606481325,Pass-through,Zero EN profit distribution
+77,W22,EN_PT_Z,140.00084761543098,Pass-through,Zero EN profit distribution
+78,W23,EN_PT_Z,116.9926849753474,Pass-through,Zero EN profit distribution
+79,W24,EN_PT_Z,130.385867010869,Pass-through,Zero EN profit distribution
+80,W25,EN_PT_Z,158.87864308508244,Pass-through,Zero EN profit distribution
+81,W27,EN_PT_Z,155.65467331033256,Pass-through,Zero EN profit distribution
+82,W28,EN_PT_Z,247.30487603772417,Pass-through,Zero EN profit distribution
+83,W29,EN_PT_Z,290.2082694061926,Pass-through,Zero EN profit distribution
+84,W01,EN_PTBP_D,555.3516161129735,"Pass-through, demand at building peak",Direct pass-through
+85,W02,EN_PTBP_D,421.78028394469356,"Pass-through, demand at building peak",Direct pass-through
+86,W03,EN_PTBP_D,283.1479229757274,"Pass-through, demand at building peak",Direct pass-through
+87,W04,EN_PTBP_D,300.4255322422392,"Pass-through, demand at building peak",Direct pass-through
+88,W05,EN_PTBP_D,425.0306760178976,"Pass-through, demand at building peak",Direct pass-through
+89,W06,EN_PTBP_D,668.5350646740874,"Pass-through, demand at building peak",Direct pass-through
+90,W07,EN_PTBP_D,487.2519896764263,"Pass-through, demand at building peak",Direct pass-through
+91,W08,EN_PTBP_D,26.422325781217523,"Pass-through, demand at building peak",Direct pass-through
+92,W09,EN_PTBP_D,586.444277016673,"Pass-through, demand at building peak",Direct pass-through
+93,W10,EN_PTBP_D,361.3241260311074,"Pass-through, demand at building peak",Direct pass-through
+94,W11,EN_PTBP_D,-34.8526596171921,"Pass-through, demand at building peak",Direct pass-through
+95,W12,EN_PTBP_D,604.4069456474735,"Pass-through, demand at building peak",Direct pass-through
+96,W13,EN_PTBP_D,430.91560801682,"Pass-through, demand at building peak",Direct pass-through
+97,W14,EN_PTBP_D,579.7105714266276,"Pass-through, demand at building peak",Direct pass-through
+98,W15,EN_PTBP_D,91.26059003719502,"Pass-through, demand at building peak",Direct pass-through
+99,W16,EN_PTBP_D,377.5139695245316,"Pass-through, demand at building peak",Direct pass-through
+100,W17,EN_PTBP_D,420.4770021269727,"Pass-through, demand at building peak",Direct pass-through
+101,W18,EN_PTBP_D,281.46702010700113,"Pass-through, demand at building peak",Direct pass-through
+102,W19,EN_PTBP_D,413.6419481418403,"Pass-through, demand at building peak",Direct pass-through
+103,W20,EN_PTBP_D,447.2600831660418,"Pass-through, demand at building peak",Direct pass-through
+104,W21,EN_PTBP_D,-295.1157747125303,"Pass-through, demand at building peak",Direct pass-through
+105,W22,EN_PTBP_D,398.7727196359169,"Pass-through, demand at building peak",Direct pass-through
+106,W23,EN_PTBP_D,466.62436381562816,"Pass-through, demand at building peak",Direct pass-through
+107,W24,EN_PTBP_D,390.0002552800368,"Pass-through, demand at building peak",Direct pass-through
+108,W25,EN_PTBP_D,280.40630308861785,"Pass-through, demand at building peak",Direct pass-through
+109,W27,EN_PTBP_D,30.234096436006894,"Pass-through, demand at building peak",Direct pass-through
+110,W28,EN_PTBP_D,84.13594838423433,"Pass-through, demand at building peak",Direct pass-through
+111,W29,EN_PTBP_D,324.787356726149,"Pass-through, demand at building peak",Direct pass-through
+112,W01,EN_PTBP_N,230.16395320339143,"Pass-through, demand at building peak",Neutral average bill impact
+113,W02,EN_PTBP_N,126.03916728965805,"Pass-through, demand at building peak",Neutral average bill impact
+114,W03,EN_PTBP_N,-417.18026641212464,"Pass-through, demand at building peak",Neutral average bill impact
+115,W04,EN_PTBP_N,-136.47193164111945,"Pass-through, demand at building peak",Neutral average bill impact
+116,W05,EN_PTBP_N,-196.17303564446502,"Pass-through, demand at building peak",Neutral average bill impact
+117,W06,EN_PTBP_N,98.87569424704225,"Pass-through, demand at building peak",Neutral average bill impact
+118,W07,EN_PTBP_N,264.82561533196804,"Pass-through, demand at building peak",Neutral average bill impact
+119,W08,EN_PTBP_N,-920.484464645165,"Pass-through, demand at building peak",Neutral average bill impact
+120,W09,EN_PTBP_N,398.9039260913787,"Pass-through, demand at building peak",Neutral average bill impact
+121,W10,EN_PTBP_N,140.6346501350414,"Pass-through, demand at building peak",Neutral average bill impact
+122,W11,EN_PTBP_N,-992.5871263909908,"Pass-through, demand at building peak",Neutral average bill impact
+123,W12,EN_PTBP_N,584.121652093088,"Pass-through, demand at building peak",Neutral average bill impact
+124,W13,EN_PTBP_N,-207.49010618987404,"Pass-through, demand at building peak",Neutral average bill impact
+125,W14,EN_PTBP_N,287.85637379011723,"Pass-through, demand at building peak",Neutral average bill impact
+126,W15,EN_PTBP_N,-1691.677979784457,"Pass-through, demand at building peak",Neutral average bill impact
+127,W16,EN_PTBP_N,-116.00310333364723,"Pass-through, demand at building peak",Neutral average bill impact
+128,W17,EN_PTBP_N,321.49744578722436,"Pass-through, demand at building peak",Neutral average bill impact
+129,W18,EN_PTBP_N,281.36538337167127,"Pass-through, demand at building peak",Neutral average bill impact
+130,W19,EN_PTBP_N,279.8237020138382,"Pass-through, demand at building peak",Neutral average bill impact
+131,W20,EN_PTBP_N,62.0012344334134,"Pass-through, demand at building peak",Neutral average bill impact
+132,W21,EN_PTBP_N,-2412.9712693949377,"Pass-through, demand at building peak",Neutral average bill impact
+133,W22,EN_PTBP_N,207.36188551311693,"Pass-through, demand at building peak",Neutral average bill impact
+134,W23,EN_PTBP_N,417.67406308207615,"Pass-through, demand at building peak",Neutral average bill impact
+135,W24,EN_PTBP_N,341.82702244237805,"Pass-through, demand at building peak",Neutral average bill impact
+136,W25,EN_PTBP_N,-28.22928103509821,"Pass-through, demand at building peak",Neutral average bill impact
+137,W27,EN_PTBP_N,-1011.2036335900482,"Pass-through, demand at building peak",Neutral average bill impact
+138,W28,EN_PTBP_N,-992.6967787438334,"Pass-through, demand at building peak",Neutral average bill impact
+139,W29,EN_PTBP_N,-489.60642549695285,"Pass-through, demand at building peak",Neutral average bill impact
+140,W01,EN_PTBP_Z,398.4679720351021,"Pass-through, demand at building peak",Zero EN profit distribution
+141,W02,EN_PTBP_Z,279.10284142006276,"Pass-through, demand at building peak",Zero EN profit distribution
+142,W03,EN_PTBP_Z,-54.718641267741305,"Pass-through, demand at building peak",Zero EN profit distribution
+143,W04,EN_PTBP_Z,89.64857468755008,"Pass-through, demand at building peak",Zero EN profit distribution
+144,W05,EN_PTBP_Z,125.33695108286406,"Pass-through, demand at building peak",Zero EN profit distribution
+145,W06,EN_PTBP_Z,393.70840884074414,"Pass-through, demand at building peak",Zero EN profit distribution
+146,W07,EN_PTBP_Z,379.94453577744537,"Pass-through, demand at building peak",Zero EN profit distribution
+147,W08,EN_PTBP_Z,-430.4037006276544,"Pass-through, demand at building peak",Zero EN profit distribution
+148,W09,EN_PTBP_Z,495.9672478404965,"Pass-through, demand at building peak",Zero EN profit distribution
+149,W10,EN_PTBP_Z,254.85462199633366,"Pass-through, demand at building peak",Zero EN profit distribution
+150,W11,EN_PTBP_Z,-496.9023937986153,"Pass-through, demand at building peak",Zero EN profit distribution
+151,W12,EN_PTBP_Z,594.6205018890391,"Pass-through, demand at building peak",Zero EN profit distribution
+152,W13,EN_PTBP_Z,122.92294326209867,"Pass-through, demand at building peak",Zero EN profit distribution
+153,W14,EN_PTBP_Z,438.90833540400786,"Pass-through, demand at building peak",Zero EN profit distribution
+154,W15,EN_PTBP_Z,-768.9008856408759,"Pass-through, demand at building peak",Zero EN profit distribution
+155,W16,EN_PTBP_Z,139.42142901458237,"Pass-through, demand at building peak",Zero EN profit distribution
+156,W17,EN_PTBP_Z,372.72527209867735,"Pass-through, demand at building peak",Zero EN profit distribution
+157,W18,EN_PTBP_Z,281.41798644665846,"Pass-through, demand at building peak",Zero EN profit distribution
+158,W19,EN_PTBP_Z,349.0826290433547,"Pass-through, demand at building peak",Zero EN profit distribution
+159,W20,EN_PTBP_Z,261.39567625210066,"Pass-through, demand at building peak",Zero EN profit distribution
+160,W21,EN_PTBP_Z,-1316.854682834953,"Pass-through, demand at building peak",Zero EN profit distribution
+161,W22,EN_PTBP_Z,306.4284132606796,"Pass-through, demand at building peak",Zero EN profit distribution
+162,W23,EN_PTBP_Z,443.00876447500184,"Pass-through, demand at building peak",Zero EN profit distribution
+163,W24,EN_PTBP_Z,366.7595448331431,"Pass-through, demand at building peak",Zero EN profit distribution
+164,W25,EN_PTBP_Z,131.50804939658258,"Pass-through, demand at building peak",Zero EN profit distribution
+165,W27,EN_PTBP_Z,-472.19746786384394,"Pass-through, demand at building peak",Zero EN profit distribution
+166,W28,EN_PTBP_Z,-435.3715900709876,"Pass-through, demand at building peak",Zero EN profit distribution
+167,W29,EN_PTBP_Z,-68.10905000206503,"Pass-through, demand at building peak",Zero EN profit distribution

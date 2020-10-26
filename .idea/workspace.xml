@@ -20,66 +20,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c9ef9fb-c6dc-4992-b65e-329a3942e38c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_demo_all_volumetric2_2020_10_26_140348.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_demo_all_volumetric2_2020_10_26_140708.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike_2020_10_26_150157.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike_2020_10_26_150232.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike_2020_10_26_150357.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike_2020_10_26_154146.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike_2020_10_26_160731.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike_2020_10_26_161449.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike_2020_10_26_161918.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike_2020_10_26_162018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike_2020_10_26_162258.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike_2020_10_26_163435.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike_2020_10_26_163658.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike_2020_10_26_164051.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike_2020_10_26_164441.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/inputs/study_demo_all_volumetric2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/demo_all_volumetric2/demo_all_volumetric2_customer_results.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/demo_all_volumetric2/demo_all_volumetric2_results.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/demo_all_volumetric2/demo_all_volumetric2_results.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/demo_all_volumetric2/saved_tariffs/static_export_tariffs.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/demo_all_volumetric2/saved_tariffs/static_import_tariffs.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/demo_all_volumetric2/saved_tariffs/static_solar_import_tariffs.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/demo_all_volumetric2/scenarios/demo_all_volumetric2_000.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/demo_all_volumetric2/scenarios/demo_all_volumetric2_001.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/demo_all_volumetric2/scenarios/demo_all_volumetric2_002.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/demo_all_volumetric2/scenarios/demo_all_volumetric2_003.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/demo_all_volumetric2/scenarios/demo_all_volumetric2_004.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/demo_all_volumetric2/scenarios/demo_all_volumetric2_005.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/demo_all_volumetric2/scenarios/demo_all_volumetric2_006.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/demo_all_volumetric2/scenarios/demo_all_volumetric2_007.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/demo_all_volumetric2/scenarios/demo_all_volumetric2_008.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/demo_all_volumetric2/scenarios/demo_all_volumetric2_009.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/demo_all_volumetric2/scenarios/demo_all_volumetric2_010.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/demo_all_volumetric2/scenarios/demo_all_volumetric2_011.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/demo_all_volumetric2/scenarios/demo_all_volumetric2_012.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/demo_all_volumetric2/scenarios/demo_all_volumetric2_013.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/en.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/en.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike2_2020_10_26_194053.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike2_2020_10_26_200148.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike_2020_10_26_171704.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike_2020_10_26_173850.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike_2020_10_26_183829.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike_2020_10_26_192955.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike_2020_10_26_193950.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike_test_2020_10_26_182600.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike_test_2020_10_26_182826.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike_test_2020_10_26_183001.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike_test_2020_10_26_183035.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike_test_2020_10_26_183135.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike_test_2020_10_26_183206.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike_test_2020_10_26_183528.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike_test_2020_10_26_185920.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike_test_2020_10_26_185952.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike_test_2020_10_26_191140.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike_test_2020_10_26_191226.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike_test_2020_10_26_191337.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike_test_2020_10_26_191603.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike_test_2020_10_26_191746.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/py_logfiles/python_logfile_pt_mike_test_2020_10_26_192023.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/inputs/study_pt_mike2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/inputs/study_pt_mike_test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/op.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/pt_mike_results.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike2/pt_mike2_customer_results.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike2/pt_mike2_results.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike2/saved_tariffs/static_export_tariffs.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike2/saved_tariffs/static_import_tariffs.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike2/saved_tariffs/static_solar_import_tariffs.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike2/scenarios/pt_mike2_000.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike2/scenarios/pt_mike2_001.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike2/scenarios/pt_mike2_002.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike2/scenarios/pt_mike2_003.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike2/scenarios/pt_mike2_004.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike2/scenarios/pt_mike2_009.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike2/scenarios/pt_mike2_010.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike2/scenarios/pt_mike2_011.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike2/scenarios/pt_mike2_012.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike_test/pt_mike_test_customer_results.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike_test/pt_mike_test_results.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike_test/saved_tariffs/static_export_tariffs.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike_test/saved_tariffs/static_import_tariffs.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike_test/saved_tariffs/static_solar_import_tariffs.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike_test/scenarios/pt_mike_test_000.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike_test/scenarios/pt_mike_test_009.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DATA_EN_MR1/reference/tariff_lookup.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_EN_MR1/reference/tariff_lookup.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/inputs/study_pt_mike.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/inputs/study_pt_mike.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/pt_mike_customer_results.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/pt_mike_customer_results.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/pt_mike_results.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/pt_mike_results.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/saved_tariffs/static_export_tariffs.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/saved_tariffs/static_export_tariffs.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/saved_tariffs/static_import_tariffs.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/saved_tariffs/static_import_tariffs.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/saved_tariffs/static_solar_import_tariffs.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/saved_tariffs/static_solar_import_tariffs.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/scenarios/pt_mike_001.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/scenarios/pt_mike_001.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/scenarios/pt_mike_002.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/scenarios/pt_mike_002.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/scenarios/pt_mike_003.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/scenarios/pt_mike_003.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/scenarios/pt_mike_004.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/scenarios/pt_mike_004.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/scenarios/pt_mike_005.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/scenarios/pt_mike_005.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/scenarios/pt_mike_006.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/scenarios/pt_mike_006.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/scenarios/pt_mike_007.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/scenarios/pt_mike_007.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/scenarios/pt_mike_008.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/scenarios/pt_mike_008.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/scenarios/pt_mike_009.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/scenarios/pt_mike_009.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/scenarios/pt_mike_010.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/scenarios/pt_mike_010.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/scenarios/pt_mike_011.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/scenarios/pt_mike_011.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/scenarios/pt_mike_012.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_EN_MR1/studies/latest24-9/outputs/pt_mike/scenarios/pt_mike_012.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/morePVs.py" beforeDir="false" afterPath="$PROJECT_DIR$/morePVs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/morePVs_v2_setup_instructions.md" beforeDir="false" afterPath="$PROJECT_DIR$/morePVs_v2_setup_instructions.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -503,7 +496,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601637170136</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="new tariff: demand calculated at time of network peak">
+      <created>1603691902025</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1603691902025</updated>
+    </task>
+    <task id="LOCAL-00028" summary="new tariff: demand calculated at time of network peak">
+      <created>1603692004116</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1603692004116</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -545,7 +552,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Fixed bug with scaleable pv and load_dependent pv allocation" />
     <MESSAGE value="Bits and Pieces" />
     <MESSAGE value="Non-scaleable pv_capex with scaleable pv" />
     <MESSAGE value="Solar Block Tariff implemented" />
@@ -570,7 +576,8 @@
     <MESSAGE value="Tweaks to docs" />
     <MESSAGE value="more data" />
     <MESSAGE value="latest runs and results flat tou stou _z _h" />
-    <option name="LAST_COMMIT_MESSAGE" value="latest runs and results flat tou stou _z _h" />
+    <MESSAGE value="new tariff: demand calculated at time of network peak" />
+    <option name="LAST_COMMIT_MESSAGE" value="new tariff: demand calculated at time of network peak" />
   </component>
   <component name="WindowStateProjectService">
     <state x="567" y="199" key="#Plugins" timestamp="1600733707545">
@@ -581,67 +588,69 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="655" y="294" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1920.1057/1920.956.1680.1027@0.23.1920.1057" timestamp="1600733624638" />
-    <state x="-1449" y="48" key="CommitChangelistDialog2" timestamp="1601637166049">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state x="471" y="48" key="CommitChangelistDialog2" timestamp="1603692002394">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1449" y="48" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1601637166049" />
+    <state x="471" y="48" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603692002394" />
     <state x="471" y="72" key="CommitChangelistDialog2/0.23.1920.1057/1920.956.1680.1027@0.23.1920.1057" timestamp="1599700135928" />
     <state x="-1156" y="274" key="FileChooserDialogImpl" timestamp="1603146600285">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1156" y="274" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1603146600285" />
-    <state width="1795" height="241" key="GridCell.Tab.0.bottom" timestamp="1603691853070">
+    <state width="1795" height="153" key="GridCell.Tab.0.bottom" timestamp="1603702901703">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1795" height="740" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1603685978689" />
-    <state width="1795" height="241" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603691853070" />
+    <state width="1795" height="153" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603702901703" />
     <state width="1899" height="570" key="GridCell.Tab.0.bottom/0.23.1920.1057/1920.225.1680.1027@0.23.1920.1057" timestamp="1603275353205" />
     <state width="1884" height="570" key="GridCell.Tab.0.bottom/0.23.1920.1057/1920.956.1680.1027@0.23.1920.1057" timestamp="1600773359960" />
-    <state width="1795" height="241" key="GridCell.Tab.0.center" timestamp="1603691853069">
+    <state width="1795" height="153" key="GridCell.Tab.0.center" timestamp="1603702901702">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1795" height="740" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1603685978689" />
-    <state width="1795" height="241" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603691853069" />
+    <state width="1795" height="153" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603702901702" />
     <state width="1899" height="570" key="GridCell.Tab.0.center/0.23.1920.1057/1920.225.1680.1027@0.23.1920.1057" timestamp="1603275353205" />
     <state width="1884" height="570" key="GridCell.Tab.0.center/0.23.1920.1057/1920.956.1680.1027@0.23.1920.1057" timestamp="1600773359959" />
-    <state width="1795" height="241" key="GridCell.Tab.0.left" timestamp="1603691853069">
+    <state width="1795" height="153" key="GridCell.Tab.0.left" timestamp="1603702901702">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1795" height="740" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1603685978689" />
-    <state width="1795" height="241" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603691853069" />
+    <state width="1795" height="153" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603702901702" />
     <state width="1899" height="570" key="GridCell.Tab.0.left/0.23.1920.1057/1920.225.1680.1027@0.23.1920.1057" timestamp="1603275353204" />
     <state width="1884" height="570" key="GridCell.Tab.0.left/0.23.1920.1057/1920.956.1680.1027@0.23.1920.1057" timestamp="1600773359959" />
-    <state width="1795" height="241" key="GridCell.Tab.0.right" timestamp="1603691853069">
+    <state width="1795" height="153" key="GridCell.Tab.0.right" timestamp="1603702901702">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1795" height="740" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1603685978689" />
-    <state width="1795" height="241" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603691853069" />
+    <state width="1795" height="153" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603702901702" />
     <state width="1899" height="570" key="GridCell.Tab.0.right/0.23.1920.1057/1920.225.1680.1027@0.23.1920.1057" timestamp="1603275353205" />
     <state width="1884" height="570" key="GridCell.Tab.0.right/0.23.1920.1057/1920.956.1680.1027@0.23.1920.1057" timestamp="1600773359959" />
-    <state width="1795" height="565" key="GridCell.Tab.1.bottom" timestamp="1603691080402">
+    <state width="1795" height="203" key="GridCell.Tab.1.bottom" timestamp="1603700994419">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1795" height="565" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603691080402" />
-    <state width="1795" height="565" key="GridCell.Tab.1.center" timestamp="1603691080402">
+    <state width="1795" height="203" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603700994419" />
+    <state width="1795" height="203" key="GridCell.Tab.1.center" timestamp="1603700994418">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1795" height="565" key="GridCell.Tab.1.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603691080402" />
-    <state width="1795" height="565" key="GridCell.Tab.1.left" timestamp="1603691080402">
+    <state width="1795" height="203" key="GridCell.Tab.1.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603700994418" />
+    <state width="1795" height="203" key="GridCell.Tab.1.left" timestamp="1603700994418">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1795" height="565" key="GridCell.Tab.1.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603691080402" />
-    <state width="1795" height="565" key="GridCell.Tab.1.right" timestamp="1603691080402">
+    <state width="1795" height="203" key="GridCell.Tab.1.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603700994418" />
+    <state width="1795" height="203" key="GridCell.Tab.1.right" timestamp="1603700994418">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1795" height="565" key="GridCell.Tab.1.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603691080402" />
+    <state width="1795" height="203" key="GridCell.Tab.1.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603700994418" />
     <state x="710" y="358" key="SettingsEditor" timestamp="1600063728923">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="710" y="358" key="SettingsEditor/0.23.1920.1057/1920.956.1680.1027@0.23.1920.1057" timestamp="1600063728923" />
-    <state x="-1493" y="212" key="Vcs.Push.Dialog.v2" timestamp="1601637212884">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state x="427" y="212" key="Vcs.Push.Dialog.v2" timestamp="1603692005747">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1493" y="212" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1601637212884" />
+    <state x="427" y="212" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603692005747" />
     <state x="427" y="238" key="Vcs.Push.Dialog.v2/0.23.1920.1057/1920.956.1680.1027@0.23.1920.1057" timestamp="1599700145438" />
     <state x="504" y="422" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1599699576276">
       <screen x="0" y="23" width="1920" height="1057" />
@@ -678,12 +687,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/morePVs.py</url>
-          <line>993</line>
-          <option name="timeStamp" value="85" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/morePVs.py</url>
-          <line>2213</line>
+          <line>2228</line>
           <option name="timeStamp" value="105" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -729,33 +733,33 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/morePVs.py</url>
-          <line>1487</line>
-          <option name="timeStamp" value="134" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/morePVs.py</url>
-          <line>1712</line>
+          <line>1727</line>
           <option name="timeStamp" value="135" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/morePVs.py</url>
-          <line>1005</line>
-          <option name="timeStamp" value="141" />
+          <line>1481</line>
+          <option name="timeStamp" value="147" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/morePVs.py</url>
-          <line>1006</line>
-          <option name="timeStamp" value="142" />
+          <line>2216</line>
+          <option name="timeStamp" value="151" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/morePVs.py</url>
-          <line>1007</line>
-          <option name="timeStamp" value="143" />
+          <line>2323</line>
+          <option name="timeStamp" value="152" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/morePVs.py</url>
-          <line>1008</line>
-          <option name="timeStamp" value="144" />
+          <line>2248</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/morePVs.py</url>
+          <line>2576</line>
+          <option name="timeStamp" value="154" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

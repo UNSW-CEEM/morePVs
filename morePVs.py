@@ -941,6 +941,8 @@ class Customer():
         self.name = name
         if network:
             self.network = network
+        else:
+            self.network = False
         self.tariff_data = study.tariff_data
         self.en_capex_repayment = 0
         self.en_opex = 0
@@ -1014,6 +1016,9 @@ class Customer():
                 self.demand_charge = self.demand_charge / self.tariff.assumed_pf
         else:
             self.demand_charge = 0
+        #print('Demand charge for ', self.name, ' is ', self.demand_charge)
+
+
 
     def calcCashflow(self):
         """Calculate receipts and payments for customer.
@@ -1109,6 +1114,8 @@ class Customer():
                            self.tariff.fixed_charge * ts.num_days + \
                            self.demand_charge
 
+
+
         if self.name == 'retailer':
             self.total_payment = self.energy_bill
         else:
@@ -1118,7 +1125,11 @@ class Customer():
                              self.en_capex_repayment + \
                              self.en_opex +\
                              self.bat_capex_repayment) * 100  # capex, opex in $, energy in c (because tariffs in c/kWh)
-
+            # Diagnostics:
+            if self.network:
+                self.network.tot_fixed += self.tariff.fixed_charge * ts.num_days
+                self.network.tot_vol += self.cashflows.sum()
+                self.network.tot_dem += self.demand_charge
         # --------
         # Calc NPV
         # --------
@@ -1147,6 +1158,10 @@ class Network(Customer):
         if 'btm_p' in scenario.arrangement:
             self.solar_retailer = Customer(name='solar_retailer')
 
+        # Diagnostics:
+        self.tot_fixed = 0
+        self.tot_vol = 0
+        self.tot_dem = 0
 
     def initialiseBuildingLoads(self,
                                 load_name,  # file name only
@@ -1468,6 +1483,7 @@ class Network(Customer):
 
         for c in self.resident_list:
             self.resident[c].calcDemandCharge()
+
         self.retailer.calcDemandCharge()
 
     def calcBuildingDynamicEnergyFlows(self, step):
@@ -2675,7 +2691,7 @@ if __name__ == "__main__":
     default_base_path = 'C:\\Users\\z5044992\\Documents\\python\\morePVs\\DATA_EN_MR1'  #(Mike's PC)
     # default_base_path = '/Users/mikeroberts/Documents/python/morePVs/DATA_EN_MR1'  # (Mike's Mac)
     default_project = 'latest24-9'
-    default_study = 'pt_mike'
+    default_study = 'pt_mike2'
     # default_base_path = '/Users/mikeroberts/OneDrive - UNSW/python/en/DATA_EN_6M'  #(Mike's Mac)
 
     # Import arguments - allows multi-processing from command line

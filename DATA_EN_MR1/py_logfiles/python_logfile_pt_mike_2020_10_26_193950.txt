@@ -1,0 +1,4 @@
+26/10/2020 07:39:50 PM Python Script is: morePVs.py
+26/10/2020 07:39:50 PM study_name = pt_mike
+26/10/2020 07:39:53 PM Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+26/10/2020 07:39:53 PM NumExpr defaulting to 8 threads.
