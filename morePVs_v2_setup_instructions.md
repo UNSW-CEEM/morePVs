@@ -262,6 +262,7 @@ for each timestep dependent on network status (e.g. on cumulative load, pv gener
 Any tariff with `Demand` in the `tariff_type` has an additional `demand_tariff` component based on the peak demand\
 (`kW` or `kVA` according to `demand_type`) in the `demand_period` of the 12-month period (or whole timeseries, whichever is longer).\
 `demand_period` runs from `demand_start` to `demand_end` for `demand_week` = `end`, `day` or `both`
+Demand tariffs also have an optional `demand_network_peak` boolean parameter. If `True', peak demand is taken at time of network peak (within demand charge period); if `False`, it is taken at customer's peak
 
 ###'cp' tariff:
 In `en` scenarios, If ENO  is the  strata body, `cp tariff = TIDNULL`,\

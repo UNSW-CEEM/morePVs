@@ -228,6 +228,7 @@ class Tariff():
     def __init__(self,
                  tariff_id,
                  scenario):
+        self.id = tariff_id
         """Create time-based rates for single specific tariff."""
         if tariff_id not in scenario.tariff_lookup.index:
             msg = '******Exception: Tariff '+ tariff_id+' is not in tariff_lookup.csv'
@@ -270,7 +271,11 @@ class Tariff():
         # -------------
         if tariff_id in scenario.demand_list:
             self.is_demand = True
-            self.demand_type = scenario.tariff_lookup.loc[tariff_id, 'demand_type']
+            self.demand_type = scenario.tariff_lookup.loc[tariff_id, 'demand_type'] #kVA or kW
+            if 'demand_network_peak' in scenario.tariff_lookup.columns:
+                self.demand_network_peak = scenario.tariff_lookup.fillna(False).loc[tariff_id, 'demand_network_peak'] # if true use network peak, else use customer peak
+            else:
+                self.demand_network_peak = False
             # Demand period is weekday or weekend between demand_start and demand_end
             # with dst applied to start and end times during summer
             # Assume that demand_end > demand_start
@@ -932,8 +937,10 @@ class Customer():
 
     def __init__(self,
                  name,  # string
-                 ):
+                 network = False):
         self.name = name
+        if network:
+            self.network = network
         self.tariff_data = study.tariff_data
         self.en_capex_repayment = 0
         self.en_opex = 0
@@ -994,8 +1001,14 @@ class Customer():
         self.local_consumption[step] = np.minimum(self.generation[step], self.load[step])
 
     def calcDemandCharge(self):
+        print('Calc Demand charge for ', self.name, self.tariff.id)
         if self.tariff.is_demand:
-            max_demand = np.multiply(self.imports,self.tariff.demand_period_array).max() * 2  # convert kWh to kW
+            if self.tariff.demand_network_peak: # Calculate peak demand at time of network peak
+                max_network_demand = np.multiply(self.network.imports, self.tariff.demand_period_array).max()
+                network_peak_period_array = self.network.imports == max_network_demand # boolean array with 1 at time of building peak
+                max_demand = np.multiply(self.imports, network_peak_period_array).max() * 2  # convert kWh to kW
+            else: # Calculate peak demand at time of customer peak
+                max_demand = np.multiply(self.imports,self.tariff.demand_period_array).max() * 2  # convert kWh to kW
             self.demand_charge = max_demand * self.tariff.demand_tariff * ts.num_days
             # Use nominal pf to convert to kVA?
             if self.tariff.demand_type == 'kVA':
@@ -1130,8 +1143,8 @@ class Network(Customer):
         super().__init__('network')
         #  initialise the customers / members within the network
         # (includes residents and cp)
-        self.resident = {c: Customer(name=c) for c in self.resident_list}
-        self.retailer = Customer(name='retailer')
+        self.resident = {c: Customer(name=c, network = self) for c in self.resident_list}
+        self.retailer = Customer(name='retailer' )
         if 'btm_p' in scenario.arrangement:
             self.solar_retailer = Customer(name='solar_retailer')
 
@@ -1453,6 +1466,7 @@ class Network(Customer):
     def calcAllDemandCharges(self):
         """Calculates demand charges for ENO and for all residents."""
         self.calcDemandCharge()
+
         for c in self.resident_list:
             self.resident[c].calcDemandCharge()
         self.retailer.calcDemandCharge()
@@ -2659,8 +2673,8 @@ if __name__ == "__main__":
     # -------------------------------------------------------
     # Set up defaults here: base_path, project and study name
     # --------------------------------------------------------
-    #default_base_path = 'C:\\Users\\z5044992\\Documents\\python\\morePVs\\DATA_EN_MR1'  #(Mike's PC)
-    default_base_path = '/Users/mikeroberts/Documents/python/morePVs/DATA_EN_MR1'  # (Mike's Mac)
+    default_base_path = 'C:\\Users\\z5044992\\Documents\\python\\morePVs\\DATA_EN_MR1'  #(Mike's PC)
+    # default_base_path = '/Users/mikeroberts/Documents/python/morePVs/DATA_EN_MR1'  # (Mike's Mac)
     default_project = 'latest24-9'
     default_study = 'pt_mike'
     # default_base_path = '/Users/mikeroberts/OneDrive - UNSW/python/en/DATA_EN_6M'  #(Mike's Mac)

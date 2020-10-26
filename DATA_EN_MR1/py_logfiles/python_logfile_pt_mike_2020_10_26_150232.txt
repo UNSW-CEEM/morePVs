@@ -1,0 +1,37 @@
+26/10/2020 03:02:32 PM Python Script is: morePVs.py
+26/10/2020 03:02:32 PM study_name = pt_mike
+26/10/2020 03:02:34 PM Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+26/10/2020 03:02:34 PM NumExpr defaulting to 8 threads.
+26/10/2020 03:02:35 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike\saved_tariffs\static_import_tariffs.csv
+26/10/2020 03:02:35 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike\saved_tariffs\static_solar_import_tariffs.csv
+26/10/2020 03:02:36 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike\saved_tariffs\static_export_tariffs.csv
+26/10/2020 03:02:36 PM Running Scenario number 0 
+26/10/2020 03:02:36 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike\scenarios\pt_mike_000.csv
+26/10/2020 03:02:37 PM Completed Scenario 0
+26/10/2020 03:02:37 PM Running Scenario number 1 
+26/10/2020 03:02:41 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike\scenarios\pt_mike_001.csv
+26/10/2020 03:02:41 PM Completed Scenario 1
+26/10/2020 03:02:41 PM Running Scenario number 2 
+26/10/2020 03:02:44 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike\scenarios\pt_mike_002.csv
+26/10/2020 03:02:45 PM Completed Scenario 2
+26/10/2020 03:02:45 PM Running Scenario number 3 
+26/10/2020 03:02:48 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike\scenarios\pt_mike_003.csv
+26/10/2020 03:02:49 PM Completed Scenario 3
+26/10/2020 03:02:49 PM Running Scenario number 4 
+26/10/2020 03:02:52 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike\scenarios\pt_mike_004.csv
+26/10/2020 03:02:53 PM Completed Scenario 4
+26/10/2020 03:02:53 PM Running Scenario number 5 
+26/10/2020 03:02:55 PM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "C:/Users/z5044992/Documents/python/morePVs/morePVs.py", line 2640, in main
+    runScenario(s)
+  File "C:/Users/z5044992/Documents/python/morePVs/morePVs.py", line 2559, in runScenario
+    scenario = Scenario(scenario_name=scenario_name)
+  File "C:/Users/z5044992/Documents/python/morePVs/morePVs.py", line 1875, in __init__
+    exit(msg)
+  File "C:\Users\z5044992\AppData\Local\Continuum\anaconda3\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: ******Exception: Tariff EN_SPT_D is not in tariff_lookup.csv

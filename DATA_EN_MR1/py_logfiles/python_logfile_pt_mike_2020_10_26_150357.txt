@@ -1,0 +1,39 @@
+26/10/2020 03:03:57 PM Python Script is: morePVs.py
+26/10/2020 03:03:57 PM study_name = pt_mike
+26/10/2020 03:03:59 PM Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+26/10/2020 03:03:59 PM NumExpr defaulting to 8 threads.
+26/10/2020 03:04:00 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike\saved_tariffs\static_import_tariffs.csv
+26/10/2020 03:04:00 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike\saved_tariffs\static_solar_import_tariffs.csv
+26/10/2020 03:04:01 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike\saved_tariffs\static_export_tariffs.csv
+26/10/2020 03:04:01 PM Running Scenario number 0 
+26/10/2020 03:04:01 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike\scenarios\pt_mike_000.csv
+26/10/2020 03:04:02 PM Completed Scenario 0
+26/10/2020 03:04:02 PM Running Scenario number 1 
+26/10/2020 03:04:06 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike\scenarios\pt_mike_001.csv
+26/10/2020 03:04:06 PM Completed Scenario 1
+26/10/2020 03:04:06 PM Running Scenario number 2 
+26/10/2020 03:04:10 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike\scenarios\pt_mike_002.csv
+26/10/2020 03:04:10 PM Completed Scenario 2
+26/10/2020 03:04:10 PM Running Scenario number 3 
+26/10/2020 03:04:14 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike\scenarios\pt_mike_003.csv
+26/10/2020 03:04:14 PM Completed Scenario 3
+26/10/2020 03:04:14 PM Running Scenario number 4 
+26/10/2020 03:04:17 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike\scenarios\pt_mike_004.csv
+26/10/2020 03:04:18 PM Completed Scenario 4
+26/10/2020 03:04:18 PM Running Scenario number 5 
+26/10/2020 03:04:21 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike\scenarios\pt_mike_005.csv
+26/10/2020 03:04:22 PM Completed Scenario 5
+26/10/2020 03:04:22 PM Running Scenario number 6 
+26/10/2020 03:04:25 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike\scenarios\pt_mike_006.csv
+26/10/2020 03:04:26 PM Completed Scenario 6
+26/10/2020 03:04:26 PM Running Scenario number 7 
+26/10/2020 03:04:29 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike\scenarios\pt_mike_007.csv
+26/10/2020 03:04:30 PM Completed Scenario 7
+26/10/2020 03:04:30 PM Running Scenario number 8 
+26/10/2020 03:04:34 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike\scenarios\pt_mike_008.csv
+26/10/2020 03:04:34 PM Completed Scenario 8
+26/10/2020 03:04:34 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike\pt_mike_customer_results.csv
+26/10/2020 03:04:34 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike\pt_mike_results.csv
+26/10/2020 03:04:34 PM ***COMPLETED STUDY pt_mike ***
+26/10/2020 03:04:34 PM  ********* Completed 9 scenarios in 37.000000 **************
+26/10/2020 03:04:34 PM  ********* Time per Scenario is  4.111111 **************

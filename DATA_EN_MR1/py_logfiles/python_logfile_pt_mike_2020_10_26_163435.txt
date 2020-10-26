@@ -1,0 +1,11 @@
+26/10/2020 04:34:35 PM Python Script is: morePVs.py
+26/10/2020 04:34:35 PM study_name = pt_mike
+26/10/2020 04:34:43 PM Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+26/10/2020 04:34:43 PM NumExpr defaulting to 8 threads.
+26/10/2020 04:34:46 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike\saved_tariffs\static_import_tariffs.csv
+26/10/2020 04:34:46 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike\saved_tariffs\static_solar_import_tariffs.csv
+26/10/2020 04:34:46 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike\saved_tariffs\static_export_tariffs.csv
+26/10/2020 04:34:46 PM Running Scenario number 0 
+26/10/2020 04:35:24 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike\scenarios\pt_mike_000.csv
+26/10/2020 04:35:26 PM Completed Scenario 0
+26/10/2020 04:35:26 PM Running Scenario number 1 

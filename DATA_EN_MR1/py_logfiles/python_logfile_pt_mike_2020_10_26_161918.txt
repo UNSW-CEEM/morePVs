@@ -1,0 +1,22 @@
+26/10/2020 04:19:18 PM Python Script is: morePVs.py
+26/10/2020 04:19:18 PM study_name = pt_mike
+26/10/2020 04:19:20 PM Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+26/10/2020 04:19:20 PM NumExpr defaulting to 8 threads.
+26/10/2020 04:19:22 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike\saved_tariffs\static_import_tariffs.csv
+26/10/2020 04:19:22 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike\saved_tariffs\static_solar_import_tariffs.csv
+26/10/2020 04:19:23 PM saved to C:\Users\z5044992\Documents\python\morePVs\DATA_EN_MR1\studies\latest24-9\outputs\pt_mike\saved_tariffs\static_export_tariffs.csv
+26/10/2020 04:19:23 PM Running Scenario number 0 
+26/10/2020 04:19:23 PM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "C:/Users/z5044992/Documents/python/morePVs/morePVs.py", line 2654, in main
+    runScenario(s)
+  File "C:/Users/z5044992/Documents/python/morePVs/morePVs.py", line 2616, in runScenario
+    eno.calcAllDemandCharges()
+  File "C:/Users/z5044992/Documents/python/morePVs/morePVs.py", line 1472, in calcAllDemandCharges
+    self.retailer.calcDemandCharge()
+  File "C:/Users/z5044992/Documents/python/morePVs/morePVs.py", line 1007, in calcDemandCharge
+    max_network_demand = np.multiply(self.network.imports, self.tariff.demand_period_array).max() * 2  # convert kWh to kW
+AttributeError: 'Customer' object has no attribute 'network'
