@@ -1001,14 +1001,13 @@ class Customer():
         self.local_consumption[step] = np.minimum(self.generation[step], self.load[step])
 
     def calcDemandCharge(self):
-        print('Calc Demand charge for ', self.name, self.tariff.id)
         if self.tariff.is_demand:
             if self.tariff.demand_network_peak: # Calculate peak demand at time of network peak
                 max_network_demand = np.multiply(self.network.imports, self.tariff.demand_period_array).max()
                 network_peak_period_array = self.network.imports == max_network_demand # boolean array with 1 at time of building peak
-                max_demand = np.multiply(self.imports, network_peak_period_array).max() * 2  # convert kWh to kW
+                max_demand = np.multiply(self.imports, network_peak_period_array).max() * 2  # find cust demand at network peak and convert kWh to kW
             else: # Calculate peak demand at time of customer peak
-                max_demand = np.multiply(self.imports,self.tariff.demand_period_array).max() * 2  # convert kWh to kW
+                max_demand = np.multiply(self.imports,self.tariff.demand_period_array).max() * 2  # customer demand at customer peak and convert kWh to kW
             self.demand_charge = max_demand * self.tariff.demand_tariff * ts.num_days
             # Use nominal pf to convert to kVA?
             if self.tariff.demand_type == 'kVA':
