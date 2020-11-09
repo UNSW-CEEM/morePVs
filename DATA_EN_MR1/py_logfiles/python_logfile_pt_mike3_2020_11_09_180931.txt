@@ -1,0 +1,27 @@
+09/11/2020 06:09:31 PM Python Script is: morePVs.py
+09/11/2020 06:09:31 PM study_name = pt_mike3
+09/11/2020 06:09:36 PM Running Scenario number 0 
+09/11/2020 06:09:37 PM Completed Scenario 0
+09/11/2020 06:09:37 PM Running Scenario number 1 
+09/11/2020 06:09:42 PM Completed Scenario 1
+09/11/2020 06:09:42 PM Running Scenario number 2 
+09/11/2020 06:09:47 PM Completed Scenario 2
+09/11/2020 06:09:47 PM Running Scenario number 4 
+09/11/2020 06:09:52 PM Completed Scenario 4
+09/11/2020 06:09:52 PM Running Scenario number 9 
+09/11/2020 06:09:57 PM Completed Scenario 9
+09/11/2020 06:09:57 PM Running Scenario number 10 
+09/11/2020 06:09:58 PM 
+
+
+ Exception !!!!!!
+Traceback (most recent call last):
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 2669, in main
+    runScenario(s)
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 2588, in runScenario
+    scenario = Scenario(scenario_name=scenario_name)
+  File "/Users/mikeroberts/Documents/python/morePVs/morePVs.py", line 1904, in __init__
+    exit(msg)
+  File "/Users/mikeroberts/anaconda3/lib/python3.7/_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: ******Exception: Tariff EN_PTBP_N1 is not in tariff_lookup.csv
